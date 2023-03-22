@@ -8,7 +8,7 @@ Es un curso teótico práctico que se enfoca en aplicar distintas áreas del con
 - Comprender las técnicas de procesado de señales biomédicas
 - Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
     
-![ISB](https://www.mdpi.com/ijms/ijms-18-01838/article_deploy/html/images/ijms-18-01838-ag.png) ![ISB](https://th.bing.com/th/id/OIP.ylOH7lIrOtwhaCbs8WJHZgHaFG?pid=ImgDet&rs=1)
+![ISB](https://www.mdpi.com/ijms/ijms-18-01838/article_deploy/html/images/ijms-18-01838-ag.png) (https://th.bing.com/th/id/OIP.ylOH7lIrOtwhaCbs8WJHZgHaFG?pid=ImgDet&rs=1)
 
 ## ¿Quiénes somos?
 
