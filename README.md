@@ -1,3 +1,4 @@
+
 # Grupo Neurona ![Neurona](https://image.freepik.com/iconos-gratis/neurona_318-99630.jpg)
 Grupo 4 del curso de Introducción de señales biomédicas
 ## Introducción a las señales biomédicas:
@@ -9,11 +10,18 @@ Es un curso teótico práctico que se enfoca en aplicar distintas áreas del con
     
 ![ISB](https://www.mdpi.com/ijms/ijms-18-01838/article_deploy/html/images/ijms-18-01838-ag.png)
 ## ¿Quiénes somos?
-Andrés Saenz , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, orientado por las ramas de ingeniería clínica, 
+
+***Andrés Saenz*** , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, orientado por las ramas de ingeniería clínica, 
 mecánica y rehabilitación, inclinado y gusto  por la programación y prototipo de dispositivos, así como la regulación y normativa biomédicas.
 
-Javier Urbina Alarcón,  estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, interesado por las áreas de Señales e Imágenes y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
+***Javier Urbina Alarcón*** ,  estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, interesado por Las áreas de Señales e Imágenes y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
 
-Jesús Ivan Juarez Mendoza, estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú. Tengo interés en las ramas de ingeniería clínica y señales e imágenes biomédicas. 
+***Jesús Ivan Juarez Mendoza*** , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú. Tengo interés en las ramas de ingeniería clínica y señales e imágenes biomédicas. 
 
-Jimena Calderón Avellaneda, estudiante de pregrado en Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés en las ramas de Ingeniería de Tejidos.
+***Jimena Calderón Avellaneda*** , estudiante de pregrado en Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés en las ramas de Ingeniería de Tejidos.
+
+***Estefany Macedo Milla*** , estudiante de séptimo ciclo de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las ramas de rehabilitación y biomecánica, con experiencia en la realización de planos y modelamiento 3D.
+## Nuestro interés:
+Como grupo de trabajo estamos orientados a realizar el análisis de señales EKG, sin embargo; no descartamos otras propuestas
+
+![Neurona](https://www.brainsigns.com/media/k2/items/cache/79e08f32fa8a036f84441baab7b7a7ff_L.jpg)
