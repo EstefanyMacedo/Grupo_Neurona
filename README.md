@@ -15,9 +15,9 @@ Es un curso teótico práctico que se enfoca en aplicar distintas áreas del con
 ![IMG_2891](https://user-images.githubusercontent.com/43081287/227045507-3d6fd555-52f9-444d-9a31-29f5c22bf853.jpg)
 
 ***Andrés Saenz*** , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, orientado por las ramas de ingeniería clínica, 
-mecánica y rehabilitación, inclinado y gusto  por la programación y prototipo de dispositivos, así como la regulación y normativa biomédicas.
+mecánica y rehabilitación; inclinado y gusto  por la programación y prototipo de dispositivos, así como la regulación y normativa biomédicas.
 
-***Javier Urbina Alarcón*** ,  estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, interesado por Las áreas de Señales e Imágenes y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
+***Javier Urbina Alarcón*** ,  estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú; interesado por Las áreas de Señales e Imágenes y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
 
 ***Jesús Ivan Juarez Mendoza*** , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú. Tengo interés en las ramas de ingeniería clínica y señales e imágenes biomédicas. 
 
