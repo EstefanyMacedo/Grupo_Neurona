@@ -12,3 +12,4 @@ mecánica y rehabilitación, inclinado y gusto  por la programación y prototipo
 
 Javier Urbina Alarcón,  estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, interesado por las áreas de Señales e Imágenes y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
 
+Jesús Ivan Juarez Mendoza, estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú. Tengo interés en las ramas de ingeniería clínica y señales e imágenes biomédicas. 
