@@ -8,7 +8,7 @@ Es un curso teótico práctico que se enfoca en aplicar distintas áreas del con
 - Comprender las técnicas de procesado de señales biomédicas
 - Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
     
-![ISB](https://th.bing.com/th/id/OIP.ylOH7lIrOtwhaCbs8WJHZgHaFG?pid=ImgDet&rs=1)![ISB](https://th.bing.com/th/id/R.3fe7e64a8f79d742715e90808a7fb59f?rik=mXjojvHZgfyu%2fw&riu=http%3a%2f%2fipn.pe%2fwp-content%2fuploads%2f2017%2f04%2felectroencefalograma.jpg&ehk=38QUDLC0qIcmiOrA02FOtB1Wu%2fEkGRKMIYti5cIoaX4%3d&risl=&pid=ImgRaw&r=0)
+![ISB](https://th.bing.com/th/id/OIP.ylOH7lIrOtwhaCbs8WJHZgHaFG?pid=ImgDet&rs=1)![ISB](https://cerebralpalsynewstoday.com/wp-content/uploads/2018/02/shutterstock_695951221-e1519231794379.jpg)
 
 ## ¿Quiénes somos?
 
