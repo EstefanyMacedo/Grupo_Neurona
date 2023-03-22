@@ -7,4 +7,5 @@ Es un curso teótico práctico que se enfoca en aplicar distintas áreas del con
 - Comprender las técnicas de procesado de señales biomédicas
 - Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
 # ¿Quiénes somos?
-- Jesús Juárez
+Andrés Saenz , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, orientado por las ramas de ingeniería clínica, 
+mecánica y rehabilitación, inclinado y gusto  por la programación y prototipo de dispositivos, así como la regulación y normativa biomédicas.
