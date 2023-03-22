@@ -6,6 +6,7 @@ Es un curso teótico práctico que se enfoca en aplicar distintas áreas del con
 - Comprender las técnicas de adquisición de señales biomédicas
 - Comprender las técnicas de procesado de señales biomédicas
 - Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
+    
 ![ISB](https://o.quizlet.com/i/hF8a35GtuS2baTri8NicZg_m.jpg)
 ## ¿Quiénes somos?
 Andrés Saenz , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, orientado por las ramas de ingeniería clínica, 
