@@ -11,6 +11,8 @@ Es un curso teótico práctico que se enfoca en aplicar distintas áreas del con
 ![ISB](https://www.mdpi.com/ijms/ijms-18-01838/article_deploy/html/images/ijms-18-01838-ag.png)
 ## ¿Quiénes somos?
 
+![IMG_2891](https://user-images.githubusercontent.com/43081287/227045507-3d6fd555-52f9-444d-9a31-29f5c22bf853.jpg)
+
 ***Andrés Saenz*** , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, orientado por las ramas de ingeniería clínica, 
 mecánica y rehabilitación, inclinado y gusto  por la programación y prototipo de dispositivos, así como la regulación y normativa biomédicas.
 
