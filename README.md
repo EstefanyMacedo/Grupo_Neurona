@@ -24,6 +24,9 @@ mecánica y rehabilitación; inclinado y gusto  por la programación y prototipo
 ***Jimena Calderón Avellaneda*** , estudiante de pregrado en Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las rama de Ingeniería de Tejidos y Biomateriales.
 
 ***Estefany Macedo Milla*** , estudiante de séptimo ciclo de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las ramas de rehabilitación y biomecánica, con experiencia en la realización de planos y modelamiento 3D.
+
+***Jose Manuel Rosales Juárez*** , estudiante de septimo ciclo de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la POntificia Universidad Católica del Perú. Tengo interés en la ramas de señales e imágenes biomédicas y biomecánica y rehabilitación. Tengo un interés particular por los BCI y las señales biológicas en general para el control de interfaces o dispositivos.  
+
 ## Nuestro interés:
 Como grupo de trabajo estamos orientados a realizar el análisis de señales EKG, sin embargo; no descartamos otras propuestas
 
