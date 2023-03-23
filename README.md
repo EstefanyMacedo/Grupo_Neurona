@@ -21,7 +21,7 @@ mecánica y rehabilitación; inclinado y gusto  por la programación y prototipo
 
 ***Jesús Ivan Juarez Mendoza*** , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú. Tengo interés en las ramas de ingeniería clínica y señales e imágenes biomédicas. 
 
-***Jimena Calderón Avellaneda*** , estudiante de pregrado en Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés en las ramas de Ingeniería de Tejidos.
+***Jimena Calderón Avellaneda*** , estudiante de pregrado en Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las rama de Ingeniería de Tejidos y Biomateriales.
 
 ***Estefany Macedo Milla*** , estudiante de séptimo ciclo de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las ramas de rehabilitación y biomecánica, con experiencia en la realización de planos y modelamiento 3D.
 ## Nuestro interés:
