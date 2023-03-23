@@ -1,5 +1,5 @@
 
-# Grupo Neurona ![Neurona]https://cdn-icons-png.flaticon.com/128/1373/1373864.png)
+# Grupo Neurona ![Neurona](https://cdn-icons-png.flaticon.com/128/1373/1373864.png)
 Grupo 4 del curso de Introducción de señales biomédicas
 ## Introducción a las señales biomédicas:
 Es un curso teótico práctico que se enfoca en aplicar distintas áreas del conocimiento; entre ellas: Electrónica, Fisiología, Programación y Procesamiento de señales. El curso tiene los siguientes objetivos:
