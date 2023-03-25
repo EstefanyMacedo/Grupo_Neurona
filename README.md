@@ -1,6 +1,6 @@
 
 # Grupo Neurona ![Neurona](https://cdn-icons-png.flaticon.com/128/1373/1373864.png)
-Grupo 4 del curso de Introducción de Señales Biomédicas de la Universidad Peruana Cayetano Heredia
+Grupo 4 del curso de Introducción de Señales Biomédicas de la Universidad Peruana Cayetano Heredia-2023-1
 ## Tabla de Contenidos
 + [¿Qué es una bioseñal?](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
 + [Introducción a las señales](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#introducci%C3%B3n-a-las-se%C3%B1ales-biom%C3%A9dicas)
