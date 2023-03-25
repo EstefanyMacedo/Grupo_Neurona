@@ -26,7 +26,7 @@ mecánica y rehabilitación; inclinado y gusto  por la programación y prototipo
 
 ***Javier Urbina Alarcón*** (javier.urbina@upch.pe),,  estudiante de séptimo ciclo de ingeniería biomedica de la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés por las áreas de Señales e Imágenes biomédicas y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
 
-***Jesús Ivan Juarez Mendoza***(jesus.juarez@upch.pe), , estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú. Tengo interés en las ramas de ingeniería clínica y señales e imágenes biomédicas. 
+***Jesús Ivan Juarez Mendoza***(jesus.juarez@upch.pe), , estudiante de pre grado en Ingeniería Biomédica de las universidades Cayetano Heredia y Pontificia Universidad Católica del Perú. Tengo interés en las ramas de Ingeniería Clínica y Señales e Imágenes Biomédicas. 
 
 ***Jimena Calderón Avellaneda*** (jimena.calderon@upch.pe),, estudiante de pregrado en Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las rama de Ingeniería de Tejidos y Biomateriales.
 
