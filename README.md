@@ -8,7 +8,6 @@ Grupo 4 del curso de Introducción de Señales Biomédicas de la Universidad Per
 + [Nuestro interés](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#nuestro-inter%C3%A9s)
 ## ¿Qué es una bioseñal?
 Son aquellas señales que provienen de los seres vivos, además estas se pueden medir, controlar y monitorear. 
-
 ## Introducción a las señales biomédicas:
 Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del conocimiento; entre ellas: Electrónica, Fisiología, Programación y Procesamiento de señales. El curso tiene los siguientes objetivos:
 - Conocer la naturaleza y origen de las señales biomédicas
