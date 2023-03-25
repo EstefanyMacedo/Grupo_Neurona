@@ -31,3 +31,5 @@ mecánica y rehabilitación; inclinado y gusto  por la programación y prototipo
 Como grupo de trabajo estamos orientados a realizar el análisis de señales EKG, sin embargo; no descartamos otras propuestas
 
 ![Neurona](https://www.brainsigns.com/media/k2/items/cache/79e08f32fa8a036f84441baab7b7a7ff_L.jpg)
+## Tabla de Contenidos
+
