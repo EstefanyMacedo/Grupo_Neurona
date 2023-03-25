@@ -1,6 +1,11 @@
 
 # Grupo Neurona ![Neurona](https://cdn-icons-png.flaticon.com/128/1373/1373864.png)
 Grupo 4 del curso de Introducción de Señales Biomédicas de la Universidad Peruana Cayetano Heredia
+## Tabla de Contenidos
+[Introducción a las señales]
+[]
+[]
+[]
 ## Introducción a las señales biomédicas:
 Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del conocimiento; entre ellas: Electrónica, Fisiología, Programación y Procesamiento de señales. El curso tiene los siguientes objetivos:
 - Conocer la naturaleza y origen de las señales biomédicas
@@ -31,5 +36,5 @@ mecánica y rehabilitación; inclinado y gusto  por la programación y prototipo
 Como grupo de trabajo estamos orientados a realizar el análisis de señales EKG, sin embargo; no descartamos otras propuestas
 
 ![Neurona](https://www.brainsigns.com/media/k2/items/cache/79e08f32fa8a036f84441baab7b7a7ff_L.jpg)
-## Tabla de Contenidos
+
 
