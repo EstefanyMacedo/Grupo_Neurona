@@ -20,9 +20,9 @@ Se tomaron referencias de la colocación de los electrodos y buenas prácticas d
 * Manual del usuario del sensor de electromiografía (EMG) biosignalsplux
 
 Read more: 
-https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#ixzz7y3EIhScJ
-https://www.youtube.com/watch?v=pijLklRQ8MA
-https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#axzz7y3EF2MKZ.
+- https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#ixzz7y3EIhScJ
+- https://www.youtube.com/watch?v=pijLklRQ8MA
+- https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#axzz7y3EF2MKZ.
 ‌
 
 Lo más resaltante es que el paciente esté en una posición cómoda, relajado y sin ningún objeto metálico.
