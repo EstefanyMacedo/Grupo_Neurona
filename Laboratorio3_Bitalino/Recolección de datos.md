@@ -16,6 +16,7 @@ Amplitud: [V-2mV]
 ## Guías electromiográficas
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
 * Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periférico. INSN
+* Video referencia colocado en la guia de laboratorio mostrando ubicaciones posibles para el EMG. 
 
 Lo más resaltante es que el paciente esté en una posición cómoda, relajado y sin ningún objeto metálico.
 
