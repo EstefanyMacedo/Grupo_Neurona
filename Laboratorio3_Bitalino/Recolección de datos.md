@@ -26,7 +26,7 @@ Resumen y explicación de las señales ploteadas
 Ubicación: Bícep izquierdo
 
 <p align="center">
-  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230184642-89ec939a-9a52-4705-b99e-379eb1fa4132.jpeg">
+  <img width="460" height="300"src="https://user-images.githubusercontent.com/128627158/230184642-89ec939a-9a52-4705-b99e-379eb1fa4132.jpeg">
 </p>
 <em><p align="center">Ubicación de los electrodos</p></em>
 
@@ -57,7 +57,7 @@ Los resultados observados en la gráfica evidencian un comportamiento de amplitu
 Ubicación: Pantorrilla derecha
 
 <p align="center">
-  <img width="250" height="300"src="https://user-images.githubusercontent.com/128627158/230196679-79cb4509-277c-4f0a-9a19-c0dff8b4d270.jpeg">
+  <img width="200" height="300"src="https://user-images.githubusercontent.com/128627158/230196679-79cb4509-277c-4f0a-9a19-c0dff8b4d270.jpeg">
 </p>
 <em><p align="center">Ubicación de los electrodos</p></em>
 
@@ -82,10 +82,10 @@ El nervio del cuadrado femoral provee inervación al músculo cuadrado femoral y
 <em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
 
 ### Tercera señal &rarr; Nervio radial
-Ubicación: Dedo pulgar inquierdo
+Ubicación: Dedo pulgar izquierdo
 
 <p align="center">
-  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230202714-87c61c32-f950-4203-b62d-9bdd203bbe89.jpeg">
+  <img width="460" height="300"src="https://user-images.githubusercontent.com/128627158/230202714-87c61c32-f950-4203-b62d-9bdd203bbe89.jpeg">
 </p>
 <em><p align="center">Ubicación de los electrodos</p></em>
 
