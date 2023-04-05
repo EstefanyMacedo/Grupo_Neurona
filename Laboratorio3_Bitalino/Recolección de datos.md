@@ -8,7 +8,7 @@
 + [Discusión](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio3_Bitalino/Recolecci%C3%B3n%20de%20datos.md#breve-introducci%C3%B3n)
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/tree/main/Laboratorio3_Bitalino/Archivos)
 ## Breve introducción
-
+En esta experiencia de laboratorio vamos ver la actividad eléctrica de los músculos mediante electrodos superficiales. Fundamentalmente, se quiere demostrar que mientras más fuerza ejerce un músculo, mayor será la actividad de la neurona motora que inerva el paquete muscular, lo cual se refleja por el registro de un valor mayor de voltaje.
 ## Parámetros considerados
 Frecuencia de muestreo: 1000HZ
 Amplitud: [V-2mV]
@@ -16,7 +16,7 @@ Amplitud: [V-2mV]
 ## Guías electromiográficas
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
 * Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periférico. INSN
-* 
+
 Lo más resaltante es que el paciente esté en una posición cómoda, relajado y sin ningún objeto metálico.
 
 ## Señales adquiridas y comparación:
@@ -52,7 +52,10 @@ Los resultados observados en la gráfica evidencian un comportamiento de amplitu
 </p>
 <em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
 
-https://user-images.githubusercontent.com/128627158/230207238-a84a00f7-d3e3-4084-a2e5-456a6b52ef43.mp4
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/230207238-a84a00f7-d3e3-4084-a2e5-456a6b52ef43.mp4">
+
+</div>
 
 <em><p align="center">Vídeo de la toma de datos</p></em>
 ### Segunda señal &rarr; Nervio del cuadrado femoral
@@ -83,7 +86,10 @@ El nervio del cuadrado femoral provee inervación al músculo cuadrado femoral y
 </p>
 <em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
 
-https://user-images.githubusercontent.com/128627158/230205987-0129f298-7a0e-440e-bdcf-172f2410fb8f.mp4
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/230205987-0129f298-7a0e-440e-bdcf-172f2410fb8f.mp4">
+
+</div>
 
 <em><p align="center">Vídeo de la toma de datos</p></em>
 ### Tercera señal &rarr; Nervio radial
@@ -115,6 +121,9 @@ Cuando no se aplica alguna fuerza directamente, la señal presenta un valor cons
 </p>
 <em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
 
-https://user-images.githubusercontent.com/128627158/230207106-6128a020-58e5-4b95-a607-6b6bb6e54ac3.mp4
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/230207106-6128a020-58e5-4b95-a607-6b6bb6e54ac3.mp4">
+
+</div>
 
 <em><p align="center">Vídeo de la toma de datos</p></em>
