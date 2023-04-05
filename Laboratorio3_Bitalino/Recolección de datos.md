@@ -6,9 +6,11 @@
 + [Señales adquiridas y comparación](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qui%C3%A9nes-somos)
 + [Discusión]
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#nuestro-inter%C3%A9s)
-## ¿Qué es una bioseñal?
-Son aquellas señales que provienen de los seres vivos, además estas se pueden medir, controlar y monitorear. 
-## Introducción a las señales biomédicas:
+## Parámetros considerados
+Frecuencia de muestreo: 1000HZ
+Amplitud: [V-2mV]
+
+## Guías electromiográficas
 Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del conocimiento; entre ellas: Electrónica, Fisiología, Programación y Procesamiento de señales. El curso tiene los siguientes objetivos:
 - Conocer la naturaleza y origen de las señales biomédicas
 - Comprender las técnicas de adquisición de señales biomédicas
