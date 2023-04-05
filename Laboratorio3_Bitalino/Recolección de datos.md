@@ -1,4 +1,4 @@
-#Recolección de señales electromiográficas
+# Recolección de señales electromiográficas
 
 ## Tabla de Contenidos
 + [Parámetros considerados](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
