@@ -1,30 +1,111 @@
-# Recolección de señales electromiográficas
+# Recolección de señales electromiográficas 
 
 ## Tabla de Contenidos
-+ [Parámetros considerados](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
-+ [Guías electromiográficas](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#introducci%C3%B3n-a-las-se%C3%B1ales-biom%C3%A9dicas)
++ [Breve introducción](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio3_Bitalino/Recolecci%C3%B3n%20de%20datos.md#breve-introducci%C3%B3n)
++ [Parámetros considerados](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio3_Bitalino/Recolecci%C3%B3n%20de%20datos.md#par%C3%A1metros-considerados)
++ [Guías electromiográficas](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio3_Bitalino/Recolecci%C3%B3n%20de%20datos.md#gu%C3%ADas-electromiogr%C3%A1ficas)
 + [Señales adquiridas y comparación](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qui%C3%A9nes-somos)
-+ [Discusión]
++ [Discusión](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio3_Bitalino/Recolecci%C3%B3n%20de%20datos.md#breve-introducci%C3%B3n)
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/tree/main/Laboratorio3_Bitalino/Archivos)
+## Breve introducción
+
 ## Parámetros considerados
 Frecuencia de muestreo: 1000HZ
 Amplitud: [V-2mV]
 
 ## Guías electromiográficas
-Se tomaron las referencias para colocar los electrodos de las presentes guías. Lo más resaltante es que el paciente esté en una posición cómoda, relajado y sin ningún objeto metálico
+Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
+* Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periférico. INSN
+* 
+Lo más resaltante es que el paciente esté en una posición cómoda, relajado y sin ningún objeto metálico.
 
 ## Señales adquiridas y comparación:
 Resumen y explicación de las señales ploteadas
 
-Señal
-Nervio musculocutáneo
+### Primera señal &rarr; Nervio musculocutáneo
+Ubicación: Bícep izquierdo
+
+<p align="center">
+  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230184642-89ec939a-9a52-4705-b99e-379eb1fa4132.jpeg">
+</p>
+<em><p align="center">Ubicación de los electrodos</p></em>
+
 Se plantea evaluar la señal emitida por el nervio musculocutáneo, el cual, da inervación motora a los músculos bíceps, coracobraquial y braquial como se muestra en la Figura. 
 Los resultados observados en la gráfica evidencian un comportamiento de amplitudes constantes cercanas a 0 mV cuando no se genera fuerza en el brazo, es decir, se mantiene relajado. Por otro lado, cuando se realiza la flexión del brazo, la gráfica cambia su comportamiento y las amplitudes aumentan y varían llegando a registrar hasta 1 mV.
 
+<p align="center">
+  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230186714-1da3a0bd-84be-4366-9a7d-21cadd3cdf2a.jpeg">
+</p>
+<em><p align="center">Gráfica obtenida en Opensignals de la señal mioeléctrica</p></em>
 
-![IMG_2891](https://user-images.githubusercontent.com/43081287/227045507-3d6fd555-52f9-444d-9a31-29f5c22bf853.jpg)
+#### Procesamiento de los datos en Python
 
-## Nuestro interés:
-Como grupo de trabajo estamos orientados a realizar el análisis de señales EKG; sin embargo, no descartamos otras propuestas
+<p align="center">
+  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230188757-c65fbb6e-83a7-41be-9111-180fc0f4424e.jpeg">
+</p>
 
-![Neurona](https://www.brainsigns.com/media/k2/items/cache/79e08f32fa8a036f84441baab7b7a7ff_L.jpg)
+<em><p align="center">Gráfica obtenida en Opensignal de la señal mioeléctrica</p></em>
+
+#### Comparación de gráficas obtenidas y vídeo de la toma de datos
+<p align="center">
+  <img width="700" height="600"src="https://user-images.githubusercontent.com/128627158/230194010-d18b37f1-48bd-4cfc-8599-fbc1091500e8.jpg">
+</p>
+<em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
+
+
+### Segunda señal &rarr; Nervio del cuadrado femoral
+Ubicación: Pantorrilla derecha
+
+<p align="center">
+  <img width="250" height="300"src="https://user-images.githubusercontent.com/128627158/230196679-79cb4509-277c-4f0a-9a19-c0dff8b4d270.jpeg">
+</p>
+<em><p align="center">Ubicación de los electrodos</p></em>
+
+El nervio del cuadrado femoral provee inervación al músculo cuadrado femoral y al músculo gemelo inferior. Como se aprecia en la Figura, mientras la persona se mantiene en reposo en el suelo, los valores de voltaje se encuentran muy cercanos a cero. Por otro lado, al aplicar una fuerza externa en el cuerpo hacia abajo, los valores de voltaje aumentan significativamente hasta alcanzar un máximo de amplitud de 2 mV.
+
+<p align="center">
+  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230199303-83e05c28-5b58-45b0-af26-db36664c8b9d.jpeg">
+</p>
+<em><p align="center">Gráfica obtenida en Opensignals de la señal mioeléctrica</p></em>
+
+#### Procesamiento de los datos en Python
+<p align="center">
+  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230199508-b295963e-a66b-42a3-8101-96cbba6dcd1d.jpeg">
+</p>
+
+<em><p align="center">Gráfica obtenida en Opensignal de la señal mioeléctrica</p></em>
+
+#### Comparación de gráficas obtenidas y vídeo de la toma de datos
+<p align="center">
+  <img width="700" height="700"src="https://user-images.githubusercontent.com/128627158/230200477-7a949465-32aa-4bc0-bea8-6d2e7612059b.jpg">
+</p>
+<em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
+
+### Tercera señal &rarr; Nervio radial
+Ubicación: Dedo pulgar inquierdo
+
+<p align="center">
+  <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230202714-87c61c32-f950-4203-b62d-9bdd203bbe89.jpeg">
+</p>
+<em><p align="center">Ubicación de los electrodos</p></em>
+
+Principalmente, el nervio radial inerva los músculos posteriores del antebrazo. En la Figura, se aprecia el cambio significativo en la gráfica al mantener el dedo pulgar relajado y al aplicar una fuerza externa (flexión).
+Cuando no se aplica alguna fuerza directamente, la señal presenta un valor constante de aproximadamente 0 mV. Por el contrario, cuando se aplica una fuerza externa, el voltaje aumenta hasta aproximadamente 2 mV.
+
+<p align="center">
+  <img width="460" height="300"src="https://user-images.githubusercontent.com/128627158/230203230-95122fc2-16e3-4f0d-8795-0f23815ffb39.jpeg">
+</p>
+<em><p align="center">Gráfica obtenida en Opensignals de la señal mioeléctrica</p></em>
+
+#### Procesamiento de los datos en Python
+<p align="center">
+  <img width="460" height="300"src="https://user-images.githubusercontent.com/128627158/230202864-414b027c-7e77-4d28-94b4-a13ebc366af8.jpeg">
+</p>
+
+<em><p align="center">Gráfica obtenida en Opensignal de la señal mioeléctrica</p></em>
+
+#### Comparación de gráficas obtenidas y vídeo de la toma de datos
+<p align="center">
+  <img width="700" height="700"src="https://user-images.githubusercontent.com/128627158/230204380-c5cc89ad-8d3f-4c69-a66b-ccb0ff2eac62.jpg">
+</p>
+<em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
