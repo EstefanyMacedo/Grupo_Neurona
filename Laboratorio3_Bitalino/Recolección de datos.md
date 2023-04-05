@@ -1,10 +1,11 @@
-#Recolección de señales electromiográficas![Neurona](https://cdn-icons-png.flaticon.com/128/1373/1373864.png)
-Grupo 4 del curso de Introducción de Señales Biomédicas de la Universidad Peruana Cayetano Heredia-2023-1
+#Recolección de señales electromiográficas
+
 ## Tabla de Contenidos
-+ [¿Qué es una bioseñal?](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
-+ [Introducción a las señales](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#introducci%C3%B3n-a-las-se%C3%B1ales-biom%C3%A9dicas)
-+ [¿Quiénes somos?](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qui%C3%A9nes-somos)
-+ [Nuestro interés](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#nuestro-inter%C3%A9s)
++ [Parámetros considerados](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qu%C3%A9-es-una-biose%C3%B1al)
++ [Guías electromiográficas](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#introducci%C3%B3n-a-las-se%C3%B1ales-biom%C3%A9dicas)
++ [Señales adquiridas y comparación](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qui%C3%A9nes-somos)
++ [Discusión]
++ [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#nuestro-inter%C3%A9s)
 ## ¿Qué es una bioseñal?
 Son aquellas señales que provienen de los seres vivos, además estas se pueden medir, controlar y monitorear. 
 ## Introducción a las señales biomédicas:
