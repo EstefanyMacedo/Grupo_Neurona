@@ -25,7 +25,8 @@ Read more:
 - https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#axzz7y3EF2MKZ.
 ‌
 
-Lo más resaltante es que el paciente esté en una posición cómoda, relajado y sin ningún objeto metálico.
+Lo más resaltante es que el paciente esté en una posición cómoda, relajado, sin ningún objeto metálico y que el lugar donde se 
+coloquen los respectivos electrodos sobre la piel este limpia.
 
 ## Señales adquiridas y comparación:
 Resumen y explicación de las señales ploteadas
