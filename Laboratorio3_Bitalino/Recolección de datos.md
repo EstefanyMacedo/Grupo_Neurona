@@ -52,7 +52,9 @@ Los resultados observados en la gráfica evidencian un comportamiento de amplitu
 </p>
 <em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
 
+https://user-images.githubusercontent.com/128627158/230207238-a84a00f7-d3e3-4084-a2e5-456a6b52ef43.mp4
 
+<em><p align="center">Vídeo de la toma de datos</p></em>
 ### Segunda señal &rarr; Nervio del cuadrado femoral
 Ubicación: Pantorrilla derecha
 
@@ -81,6 +83,9 @@ El nervio del cuadrado femoral provee inervación al músculo cuadrado femoral y
 </p>
 <em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
 
+https://user-images.githubusercontent.com/128627158/230205987-0129f298-7a0e-440e-bdcf-172f2410fb8f.mp4
+
+<em><p align="center">Vídeo de la toma de datos</p></em>
 ### Tercera señal &rarr; Nervio radial
 Ubicación: Dedo pulgar izquierdo
 
@@ -109,3 +114,7 @@ Cuando no se aplica alguna fuerza directamente, la señal presenta un valor cons
   <img width="700" height="700"src="https://user-images.githubusercontent.com/128627158/230204380-c5cc89ad-8d3f-4c69-a66b-ccb0ff2eac62.jpg">
 </p>
 <em><p align="center">Comparación de ambas gráficas obtenidas</p></em>
+
+https://user-images.githubusercontent.com/128627158/230207106-6128a020-58e5-4b95-a607-6b6bb6e54ac3.mp4
+
+<em><p align="center">Vídeo de la toma de datos</p></em>
