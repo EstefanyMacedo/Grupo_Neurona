@@ -5,7 +5,7 @@
 + [Guías electromiográficas](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#introducci%C3%B3n-a-las-se%C3%B1ales-biom%C3%A9dicas)
 + [Señales adquiridas y comparación](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#qui%C3%A9nes-somos)
 + [Discusión]
-+ [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/README.md#nuestro-inter%C3%A9s)
++ [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/tree/main/Laboratorio3_Bitalino/Archivos)
 ## Parámetros considerados
 Frecuencia de muestreo: 1000HZ
 Amplitud: [V-2mV]
