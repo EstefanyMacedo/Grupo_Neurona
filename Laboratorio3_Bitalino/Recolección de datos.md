@@ -11,30 +11,18 @@ Frecuencia de muestreo: 1000HZ
 Amplitud: [V-2mV]
 
 ## Guías electromiográficas
-Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del conocimiento; entre ellas: Electrónica, Fisiología, Programación y Procesamiento de señales. El curso tiene los siguientes objetivos:
-- Conocer la naturaleza y origen de las señales biomédicas
-- Comprender las técnicas de adquisición de señales biomédicas
-- Comprender las técnicas de procesado de señales biomédicas
-- Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
-    
-![ISB](https://th.bing.com/th/id/OIP.ylOH7lIrOtwhaCbs8WJHZgHaFG?pid=ImgDet&rs=1)![ISB](https://cerebralpalsynewstoday.com/wp-content/uploads/2018/02/shutterstock_695951221-e1519231794379.jpg)
+Se tomaron las referencias para colocar los electrodos de las presentes guías. Lo más resaltante es que el paciente esté en una posición cómoda, relajado y sin ningún objeto metálico
 
-## ¿Quiénes somos?
+## Señales adquiridas y comparación:
+Resumen y explicación de las señales ploteadas
+
+Señal
+Nervio musculocutáneo
+Se plantea evaluar la señal emitida por el nervio musculocutáneo, el cual, da inervación motora a los músculos bíceps, coracobraquial y braquial como se muestra en la Figura. 
+Los resultados observados en la gráfica evidencian un comportamiento de amplitudes constantes cercanas a 0 mV cuando no se genera fuerza en el brazo, es decir, se mantiene relajado. Por otro lado, cuando se realiza la flexión del brazo, la gráfica cambia su comportamiento y las amplitudes aumentan y varían llegando a registrar hasta 1 mV.
+
 
 ![IMG_2891](https://user-images.githubusercontent.com/43081287/227045507-3d6fd555-52f9-444d-9a31-29f5c22bf853.jpg)
-
-***Andrés Saenz*** (andres.saenz@upch.pe), estudiante de pre grado en ingeniería biomedica de las universidades Cayetano Heredia y Pontificia universidad católica del Perú, orientado por las ramas de ingeniería clínica, 
-mecánica y rehabilitación; inclinado y gusto  por la programación y prototipo de dispositivos, así como la regulación y normativa biomédicas.
-
-***Javier Urbina Alarcón*** (javier.urbina@upch.pe),,  estudiante de séptimo ciclo de ingeniería biomedica de la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés por las áreas de Señales e Imágenes biomédicas y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
-
-***Jesús Ivan Juarez Mendoza***(jesus.juarez@upch.pe), , estudiante de pre grado en Ingeniería Biomédica de las universidades Cayetano Heredia y Pontificia Universidad Católica del Perú. Tengo interés en las ramas de Ingeniería Clínica y Señales e Imágenes Biomédicas. 
-
-***Jimena Calderón Avellaneda*** (jimena.calderon@upch.pe),, estudiante de pregrado en Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las rama de Ingeniería de Tejidos y Biomateriales.
-
-***Estefany Macedo Milla***(estefany.macedo@upch.pe), , estudiante de séptimo ciclo de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Interés en las ramas de rehabilitación y biomecánica, con experiencia en la realización de planos y modelamiento 3D.
-
-***Jose Manuel Rosales Juárez*** (jose.rosales@upch.pe),, estudiante de septimo ciclo de Ingeniería Biomédica en la Universidad Peruana Cayetano Heredia y la POntificia Universidad Católica del Perú. Tengo interés en la ramas de señales e imágenes biomédicas y biomecánica y rehabilitación. Tengo un interés particular por los BCI y las señales biológicas en general para el control de interfaces o dispositivos.  
 
 ## Nuestro interés:
 Como grupo de trabajo estamos orientados a realizar el análisis de señales EKG; sin embargo, no descartamos otras propuestas
