@@ -27,6 +27,7 @@ Read more:
 
 Lo más resaltante es que el paciente esté en una posición cómoda, relajado, sin ningún objeto metálico y que el lugar donde se 
 coloquen los respectivos electrodos sobre la piel este limpia.
+Además, se debe asegurar la correcta colocación de los electrodos positivo, negativo y de referencia en sus respectivos lugares según indican las guías consultadas.
 
 ## Señales adquiridas y comparación:
 Resumen y explicación de las señales ploteadas
