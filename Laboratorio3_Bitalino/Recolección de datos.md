@@ -10,8 +10,8 @@
 ## Breve introducción
 En esta experiencia de laboratorio vamos ver la actividad eléctrica de los músculos mediante electrodos superficiales. Fundamentalmente, se quiere demostrar que mientras más fuerza ejerce un músculo, mayor será la actividad de la neurona motora que inerva el paquete muscular, lo cual se refleja por el registro de un valor mayor de voltaje.
 ## Parámetros considerados
-Frecuencia de muestreo: 1000HZ
-Amplitud: [V-2mV]
+- Frecuencia de muestreo: 1000HZ
+- Amplitud: [V-2mV]
 
 ## Guías electromiográficas
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
