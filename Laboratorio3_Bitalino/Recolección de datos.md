@@ -20,7 +20,7 @@ Se tomaron referencias de la colocación de los electrodos y buenas prácticas d
 * Manual del usuario del sensor de electromiografía (EMG) biosignalsplux
 
 Read more: 
-- https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#ixzz7y3EIhScJ
+- https://www.insnsb.gob.pe/docs-trans/resoluciones/archivopdf.php?pdf=2020/RD%20N%C2%B0%20000226-2020-DG-INSNSB%20Gu%C3%ADa%20Proced%20Electromiograf%C3%ADa_2020%203REV%20UGC%20CHN%2019.06.2020.pdf
 - https://www.youtube.com/watch?v=pijLklRQ8MA
 - https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#axzz7y3EF2MKZ.
 ‌
