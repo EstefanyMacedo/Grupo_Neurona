@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
     
 direct = "C:/Code Justfun/isb_emg_lab3/dedo.txt"
-# cambiar la dirección dependiendo de la laptop
+# cambiar la dirección dependiendo de la laptop y el archivo a plotear
 file = pd.read_csv(direct,sep="\t",header=None)
 signal = np.array(file[5])
 tiempo = np.arange(0,len(signal)/1000,0.001)
