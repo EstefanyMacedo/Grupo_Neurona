@@ -1,6 +1,7 @@
-# RECOLECCIÓN DE SEÑALES ELECTROCARDIOGRÁFICAS
+<h1 align="center">RECOLECCIÓN DE SEÑALES ELECTROCARDIOGRÁFICAS</h1>
 
-## Tabla de Contenidos
+## Tabla de contenidos
+
 + [Introducción](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#introducci%C3%B3n)
 + [Marco Teórico](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#marco-te%C3%B3rico)
 + [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#materiales)
@@ -9,9 +10,14 @@
 + [Discusión](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#discusi%C3%B3n)
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/tree/main/laboratorio_4/Archivos)
 + [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#bibliografia)
-## Introducción
+ <h2 align="center">INTRODUCCIÓN </h2>
 eso lo pone jesús a
-## Marco teórico
+<h2 align="center">MARCO TEÓRICO</h2>
+
+### La señal de ECG y su importancia
+
+FALTA INFO
+
 ### Primera y segunda derivada en un ECG
 
 La derivada tiene como función mostrar la tasa de cambio en el ECG. La primera derivada es la pendiente de una recta tangente a la curva electrocardiográfica en cualquier punto. En esta derivada, la mayor excursión se observa cuando el ECG muestra la mayor tasa de cambio. De esta forma, los picos agudos se representan como fluctuaciones en la derivada [1].
@@ -20,21 +26,25 @@ La derivada tiene como función mostrar la tasa de cambio en el ECG. La primera 
 </p>
 <em><p align="center">Figura 1. Picos y valles de una señal de ECG (3).</p></em>
 En el caso de la segunda derivada (el mínimo), su pico indica la curvatura máxima al comienzo del inicio de R que, de la misma forma, representa el pico de la onda Q como se muestra en la Figura 1. Esta derivada no depende de la visibilidad de la onda Q ni de la amplitud del pico. Esto le permite convertirse en un indicador fiable del comienzo de R [2].
+
 ### Transformada rápida de Fourier (FFT)
 La transformada rápida de Fourier es una herramienta que nos permite conocer qué frecuencias de onda sinusoidal componen una señal. La FFT convierte una señal en componentes espectrales individuales y, por lo tanto, proporciona información de frecuencia sobre la señal [4]. Es por ello que se aplicó la transformada rápida de Fourier a las señales adquiridas:
 
-## Materiales
+<h2 align="center">MATERIALES</h2>
+
+<div align="center">
 
 |   **Dispositivo**   | **Descripción** |  **Imagen**  |
 |:-------------------:|:---------------:|:------------:|
-| BiTalino | Es una placa de desarrollo de tamaño reducido que integra capacidades de conectividad inalámbrica, procesamiento de datos y sensores, diseñada para proyectos de Internet de las cosas (IoT), que requieren de baja potencia y alta eficiencia energética |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
-|       Electrodos      | Es un kit de herramietnas de prototipado rápido para proyectos de salud y bienestar personal, Incluye sensores inalámbricos y una plataforma de software para adquirir, procesar y visualizar datos biomédicos |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">|
-|  ProSim 4 vital signal simulator | Es un paquete de hardware y software que permite a ,os usuarios implementar aprendizaje automático en dispositivos pequeños y de bajo consumo de energía, utilizando la plataforma Arduino y Edge Impulse |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566784-4ebd9dc8-586b-4b42-91f6-b3c9daa4a92c.jpg">|
+| BiTalino | FALTA INFO |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
+|       Electrodos      |FALTA INFO |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">|
+|  ProSim 4 vital signal simulator | FALTA INFO |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566784-4ebd9dc8-586b-4b42-91f6-b3c9daa4a92c.jpg">|
 
 
 </div>
 
-## Posicionamiento de electrodos:
+<h2 align="center">POSICIONAMIENTO DE ELECTRODOS</h2>
+
 Se realizó el sistema de 3 electrodos considerando la cresta iliaca como referencia. En Figura 2, se muestra a detalle el sistema planteado. Se observa que en la muñeca izquierda, se encuentra el polo positivo (+); en la derecha, el polo negativo (-); y en la cresta iliaca la referencia. Este posicionamiento permite colocar los electrodos en zonas de baja actividad muscular para reducir el ruido de la activación de los músculos causada por diferentes actividades realizadas por el usuario como moverse o manipular objetos [5]. 
 
 <p align="center">
@@ -48,8 +58,11 @@ Lo más resaltante es que el paciente esté en una posición cómoda, relajado, 
 coloquen los respectivos electrodos sobre la piel este limpia.
 Además, se debe asegurar la correcta colocación de los electrodos positivo, negativo y de referencia en sus respectivos lugares según indican las guías consultadas.
 
-## Desarrollo del laboratorio:
-### SUJETO N°1
+<h2 align="center">DESARROLLO DEL LABORATORIO</h2>
+
+Durante esta experiencia de laboratorio se realizaron 3 tomas de datos en circunstancias diferentes: Estado basal, aguantando la respiración y después de realizar ejercicio de cardio.
+
+## Sujeto N°1
 
 ### Colocación de los electrodos
 
@@ -68,7 +81,13 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 </div>
 <em><p align="center">Toma de datos en reposo</p></em>
 
-#### Procesamiento de los datos en Pytho
+### Resultados:
+
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/128627158/231589427-01596550-8895-44ab-907d-f58f5f6a54cd.jpg" width="500" />
+  <img src="https://user-images.githubusercontent.com/128627158/231590017-67aeace6-a990-48d6-b00e-335a31eb23c1.jpg" width="500" /> 
+</p>
+<em><p align="center">Datos graficados en el software Opensignals y Python, respectivamente</p></em>
 ## Discusión:
 
 ## Bibliografia
