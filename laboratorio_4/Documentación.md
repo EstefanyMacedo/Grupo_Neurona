@@ -4,47 +4,65 @@
 + [Introducción](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#breve-introducci%C3%B3n)
 + [Marco Teórico](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#marco-te%C3%B3rico)
 + [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#materiales)
-+ [Guías electrocardiacas](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#gu%C3%ADas-elect)
-+ [Señales adquiridas y comparación](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#se%C3%B1ales-adquiridas-y-comparaci%C3%B3n)
++ [Posicionamiento de electrodos](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#gu%C3%ADas-elect)
++ [Desarrollo del laboratorio](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#se%C3%B1ales-adquiridas-y-comparaci%C3%B3n)
 + [Discusión](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#discusi%C3%B3n)
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/tree/main/laboratorio_4/Archivos)
 + [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#bibliografia)
 ## Introducción
 eso lo pone jesús a
 ## Marco teórico
-- Frecuencia de muestreo: 1000HZ
-- Amplitud: [V-2mV]
+###Primera y segunda derivada en un ECG
+
+La derivada tiene como función mostrar la tasa de cambio en el ECG. La primera derivada es la pendiente de una recta tangente a la curva electrocardiográfica en cualquier punto. En esta derivada, la mayor excursión se observa cuando el ECG muestra la mayor tasa de cambio. De esta forma, los picos agudos se representan como fluctuaciones en la derivada [1].
+<p align="center">
+  <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/231569722-862f1343-70f9-4eb7-8d70-2d1c20a4f22c.png">
+</p>
+<em><p align="center">Figura 1. Picos y valles de una señal de ECG (3).</p></em>
+En el caso de la segunda derivada (el mínimo), su pico indica la curvatura máxima al comienzo del inicio de R que, de la misma forma, representa el pico de la onda Q como se muestra en la Figura 1. Esta derivada no depende de la visibilidad de la onda Q ni de la amplitud del pico. Esto le permite convertirse en un indicador fiable del comienzo de R [2].
 
 ## Materiales
-## Guías de ECG
-Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
-* Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periférico. INSN
-* Video referencia colocado en la guia de laboratorio mostrando ubicaciones posibles para el EMG.
-* Manual del usuario del sensor de electromiografía (EMG) biosignalsplux
+| --- | Materiales | Imagen referencial|
+|--- | --- | ---|
+| #1 | BiTalino |![304214-17590223](https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg)|
+| #2 | Electrodos | ![electrodo-de-superficie-circular-50mm-10551605z0-22432241](https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg) |
+|#3|ProSim 4 vital signal simulator| ![fb-prosim4_02b_c](https://user-images.githubusercontent.com/128627158/231566784-4ebd9dc8-586b-4b42-91f6-b3c9daa4a92c.jpg)| 
 
-Read more: 
-- https://www.insnsb.gob.pe/docs-trans/resoluciones/archivopdf.php?pdf=2020/RD%20N%C2%B0%20000226-2020-DG-INSNSB%20Gu%C3%ADa%20Proced%20Electromiograf%C3%ADa_2020%203REV%20UGC%20CHN%2019.06.2020.pdf
-- https://www.youtube.com/watch?v=pijLklRQ8MA
-- https://manuals.plus/es/biose%C3%B1ales/manual-del-sensor-de-electromiograf%C3%ADa-emg#axzz7y3EF2MKZ.
-‌
+
+## Posicionamiento de electrodos:
+Se realizó el sistema de 3 electrodos considerando la cresta iliaca como referencia. En Figura 2, se muestra a detalle el sistema planteado. Se observa que en la muñeca izquierda, se encuentra el polo positivo (+); en la derecha, el polo negativo (-); y en la cresta iliaca la referencia. Este posicionamiento permite colocar los electrodos en zonas de baja actividad muscular para reducir el ruido de la activación de los músculos causada por diferentes actividades realizadas por el usuario como moverse o manipular objetos [4]. 
+
+<p align="center">
+  <img width="500" height="300"src="https://user-images.githubusercontent.com/128627158/231569119-e8a812d9-ce8a-4ceb-ab99-8945dccd9e4a.jpg">
+</p>
+<em><p align="center">Figura 2. Posicionamiento de los electrodos en el cuerpo [4].</p></em>
+Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
+* a
 
 Lo más resaltante es que el paciente esté en una posición cómoda, relajado, sin ningún objeto metálico y que el lugar donde se 
 coloquen los respectivos electrodos sobre la piel este limpia.
 Además, se debe asegurar la correcta colocación de los electrodos positivo, negativo y de referencia en sus respectivos lugares según indican las guías consultadas.
 
-## Señales adquiridas y comparación:
-Resumen y explicación de las señales ploteadas
+## Desarrollo del laboratorio:
+### Sujeto N°1
 
-### Primera señal &rarr; Nervio musculocutáneo
-Ubicación: Bícep izquierdo
+#### Colocación de los electrodos
 
-<p align="center">
-  <img width="460" height="300"src="https://user-images.githubusercontent.com/128627158/230184642-89ec939a-9a52-4705-b99e-379eb1fa4132.jpeg">
+<p align="left">
+  <img width="460" height="300"src="https://user-images.githubusercontent.com/128627158/231570991-32bfd77a-3e97-4edc-94ee-b2ab51dd409a.jpg">
 </p>
-<em><p align="center">Ubicación de los electrodos</p></em>
+<em><p align="left">Ubicación de los electrodos</p></em> 
+<p align="rigth">
+  <img width="460" height="300"src="https://user-images.githubusercontent.com/128627158/231570991-32bfd77a-3e97-4edc-94ee-b2ab51dd409a.jpg">
+</p>
 
-Se plantea evaluar la señal emitida por el nervio musculocutáneo, el cual, da inervación motora a los músculos bíceps, coracobraquial y braquial como se muestra en la Figura. 
-Los resultados observados en la gráfica evidencian un comportamiento de amplitudes constantes cercanas a 0 mV cuando no se genera fuerza en el brazo, es decir, se mantiene relajado. Por otro lado, cuando se realiza la flexión del brazo, la gráfica cambia su comportamiento y las amplitudes aumentan y varían llegando a registrar hasta 1 mV.
+https://user-images.githubusercontent.com/128627158/231572237-509f9ce6-c558-4994-9e07-beaf060897dc.mp4
+
+
+
+#### Toma de datos en reposo:
+
+Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el sujeto se encuentra en reposo.
 
 <p align="center">
   <img width="560" height="300"src="https://user-images.githubusercontent.com/128627158/230186714-1da3a0bd-84be-4366-9a7d-21cadd3cdf2a.jpeg">
@@ -143,3 +161,7 @@ Cuando no se aplica alguna fuerza directamente, la señal presenta un valor cons
 ## Discusión:
 
 ## Bibliografia
+1.	Langner P. First Derivative of the Electrocardiogram [Internet]. [citado el 12 de abril de 2023]. Disponible en: https://www.ahajournals.org/doi/pdf/10.1161/01.RES.10.2.220#:~:text=The%20derivative%20shows%20the%20rate,changing%20low%20frequency%20wave%20forms.
+2.	Zauner J. Ocular light effects on human autonomous function: the role of intrinsically photosensitive retinal ganglion cell sensitivity and time of day [Internet]. Disponible en: https://edoc.ub.uni-muenchen.de/30150/7/Zauner_Johannes.pdf
+3.	Ay Gül AN. Real-time feature extraction of ECG signals using NI LabVIEW.
+4.	PLUX Biosignals. How do I know I am alive? [Internet]. [citado el 12 de abril de 2023]. Disponible en: https://www.pluxbiosignals.com/blogs/informative/how-do-i-know-i-am-alive
