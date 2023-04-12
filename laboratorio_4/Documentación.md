@@ -6,9 +6,9 @@
 + [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#materiales)
 + [Guías electrocardiacas](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#gu%C3%ADas-elect)
 + [Señales adquiridas y comparación](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#se%C3%B1ales-adquiridas-y-comparaci%C3%B3n)
-+ [Discusión]()
++ [Discusión](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#discusi%C3%B3n)
 + [Archivos]()
-+ [Bibliografía]()
++ [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#bibliografia)
 ## Introducción
 eso lo pone jesús a
 ## Marco teórico
@@ -16,7 +16,7 @@ eso lo pone jesús a
 - Amplitud: [V-2mV]
 
 ## Materiales
-## Guías elect
+## Guías de ECG
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
 * Guía De Procedimiento de Electromiografía y velocidad de conducción de nervios periférico. INSN
 * Video referencia colocado en la guia de laboratorio mostrando ubicaciones posibles para el EMG.
@@ -140,3 +140,6 @@ Cuando no se aplica alguna fuerza directamente, la señal presenta un valor cons
 </div>
 
 <em><p align="center">Vídeo de la toma de datos</p></em>
+## Discusión:
+
+## Bibliografia
