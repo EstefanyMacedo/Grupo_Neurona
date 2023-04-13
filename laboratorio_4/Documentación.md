@@ -300,7 +300,7 @@ Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 d
 ### Discusión de FFT:
  En las figuras del ECG Basal del participante 1 y 2 se observa que las frecuencias que tiene mayor predominio en la señal están en el rango de 0 a 50 Hz debido a su amplitud o mayor área bajo la curva. Esto tiene sentido dado que el ritmo sinusal normal tiene frecuencias bajas (entre 1 y 2 Hz). Las otras frecuencias pueden deberse a posibles ruidos. Esto también se presenta en las señales ECG con actividad física y sin respirar, pero varía las frecuencias debido a los eventos fisiológicos que involucra cada uno.
 
-Según Vikanda et al. [p2] es posible que las mediciones de ECG contengan diferentes ruidos, como la interferencia de la línea de alimentación (PI), la desviación de la línea de base (BW), los artefactos musculares (MA) y los artefactos de movimiento de los electrodos (EM). Al comparar la FFT de su señal sinusal normal con ruido EM con nuestra FFT, notamos que era el ruido que tenía mayor similitud
+Según Vikanda et al. [9] es posible que las mediciones de ECG contengan diferentes ruidos, como la interferencia de la línea de alimentación (PI), la desviación de la línea de base (BW), los artefactos musculares (MA) y los artefactos de movimiento de los electrodos (EM). Al comparar la FFT de su señal sinusal normal con ruido EM con nuestra FFT, notamos que era el ruido que tenía mayor similitud
 ## Bibliografia
 1. Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
 2. Esteban Álvarez-Reséndiz G, Ochoa-Gaitán G, Velazco-González JG, Clara D, Gutiérrez-Porras L, Monares-Zepeda E, et al. Monitoreo anestésico básico [Internet]. Medigraphic.com. [citado el 13 de abril de 2023]. Disponible en: https://www.medigraphic.com/pdfs/rma/cma-2013/cmas131r.pdf
@@ -310,3 +310,4 @@ Según Vikanda et al. [p2] es posible que las mediciones de ECG contengan difere
 6.	Ay Gül AN. Real-time feature extraction of ECG signals using NI LabVIEW.
 7. FFT. (n.d.). Nti-audio.com. Retrieved April 12, 2023, from https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft 
 8.	PLUX Biosignals. How do I know I am alive? [Internet]. [citado el 12 de abril de 2023]. Disponible en: https://www.pluxbiosignals.com/blogs/informative/how-do-i-know-i-am-alive 
+9. Chanchang, V., Kumchaiseemak, N., Sutthiopad, M., & Luengviriya, C. (2017). Improvement of electrocardiogram by empirical wavelet transform. Journal of Physics: Conference Series, 901, 012028. doi:10.1088/1742-6596/901/1/012028
