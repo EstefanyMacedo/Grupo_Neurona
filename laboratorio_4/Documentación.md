@@ -309,7 +309,9 @@ Según Vikanda et al. [p2] es posible que las mediciones de ECG contengan difere
  <p align="center">
   <img width="300" height="500"src="https://user-images.githubusercontent.com/128627158/231657688-0b9346b3-acc0-4e69-8ef0-ec57e495e51c.png">
 </p>
+ 
 ## Bibliografia
+ 
 1. Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
 2. Esteban Álvarez-Reséndiz G, Ochoa-Gaitán G, Velazco-González JG, Clara D, Gutiérrez-Porras L, Monares-Zepeda E, et al. Monitoreo anestésico básico [Internet]. Medigraphic.com. [citado el 13 de abril de 2023]. Disponible en: https://www.medigraphic.com/pdfs/rma/cma-2013/cmas131r.pdf
 3. Serhani MA, T El Kassabi H, Ismail H, Nujum Navaz A. ECG monitoring systems: Review, architecture, processes, and key challenges. Sensors (Basel) [Internet]. 2020 [citado el 13 de abril de 2023];20(6):1796. Disponible en: https://www.mdpi.com/1424-8220/20/6/1796
