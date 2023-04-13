@@ -7,7 +7,7 @@
 + [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#materiales)
 + [Posicionamiento de electrodos](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#gu%C3%ADas-elect)
 + [Desarrollo del laboratorio](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#se%C3%B1ales-adquiridas-y-comparaci%C3%B3n)
-+ [Discusión](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#discusi%C3%B3n)
++ [Discusiones](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#discusiones)
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/tree/main/laboratorio_4/Archivos)
 + [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#bibliografia)
  <h2 align="center">INTRODUCCIÓN </h2>
@@ -101,14 +101,14 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 </p>
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231590017-67aeace6-a990-48d6-b00e-335a31eb23c1.jpg">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231634077-ba00bc86-2fa3-481c-a2ad-6a1f2954f5f4.png">
 </p>
 <em><p align="center">Datos graficados en Python .</p></em>
 
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
- 
+
 <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231630832-110831ad-c349-4fdf-bbae-716897573082.jpg">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635768-e2e3bc1f-fea0-4493-a1b4-1fd46edc8fc4.png">
 </p>
 <em><p align="center">Transformada de Fourier del estado Basal.</p></em>
  
@@ -119,6 +119,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 ">
 </div>
 <em><p align="center">Toma de datos</p></em>
+  
 ### Resultados
  
 <em><h3>Análisis en el rango del tiempo</h3></em>
@@ -133,11 +134,11 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 <em><p align="center">Datos graficados en Python .</p></em>
 
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
- 
+
 <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231630832-110831ad-c349-4fdf-bbae-716897573082.jpg">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231636138-aff5dde5-72b4-4ed0-a91d-80daa1e26869.png">
 </p>
-<em><p align="center">Transformada de Fourier del estado Basal.</p></em>
+<em><p align="center">Transformada de Fourier de la señal después de aguantar la resiración.</p></em>
  
 ### TOMA DE DATOS DESPUÉS DE ACTIVIDAD FÍSICA DE CARDIO:
  
@@ -154,40 +155,151 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 
 ### Resultados:
  
+ <em><h3>Análisis en el rango del tiempo</h3></em>
+
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635146-fb311207-10ec-4363-8e9e-98415160b261.jpg">
+</p>
+<em><p align="center">Datos graficados en el software Opensignals </p></em>
+ 
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231634975-650eaee7-20d8-490a-8333-3b924adc95a1.jpg">
+</p>
+<em><p align="center">Datos graficados en Python .</p></em>
+
+<em><h3>Análisis en el rango de la frecuencia</h3></em>
+
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635972-55145861-cfeb-43c7-ba60-668c68debda6.png">
+</p>
+<em><p align="center">Transformada de Fourier de la señal después de realizar ejercicio</p></em>
  
 
-## Discusión:
+
+ 
+
+
+
+<h2 align="center">Sujeto 2</h2>
+
+### COLOCACIÓN DE LOS ELECTRODOS
+ 
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231637877-0bda9bac-e632-4f7c-a132-d1f26a344192.jpeg">
+</p>
+<em><p align="center">Ubicación de los electrodos</p></em> 
+
+### TOMA DE DATOS EN REPOSO
+
+Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el sujeto se encuentra en reposo.
+
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/231582212-aa004901-4b90-42d4-8d26-320108efb6da.mp4">
+</div>
+<em><p align="center">Toma de datos en reposo</p></em>
+
+### Resultados
+ 
+<em><h3>Análisis en el rango del tiempo</h3></em>
+
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231589427-01596550-8895-44ab-907d-f58f5f6a54cd.jpg">
+</p>
+<em><p align="center">Datos graficados en el software Opensignals </p></em>
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231634077-ba00bc86-2fa3-481c-a2ad-6a1f2954f5f4.png">
+</p>
+<em><p align="center">Datos graficados en Python .</p></em>
+
+<em><h3>Análisis en el rango de la frecuencia</h3></em>
+
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635768-e2e3bc1f-fea0-4493-a1b4-1fd46edc8fc4.png">
+</p>
+<em><p align="center">Transformada de Fourier del estado Basal.</p></em>
+ 
+### TOMA DE DATOS CUANDO AGUANTA LA RESPIRACIÓN
+ 
+ <div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/231624463-df299443-7ecb-41e3-999e-a6ead1ec4a41.mp4
+">
+</div>
+<em><p align="center">Toma de datos</p></em>
+  
+### Resultados
+ 
+<em><h3>Análisis en el rango del tiempo</h3></em>
+
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231627730-9d44178d-a90c-4cdd-bb3e-e86a5ab2f6b1.jpg">
+</p>
+<em><p align="center">Datos graficados en el software Opensignals </p></em>
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231627585-ef6bc634-6d09-47e9-afb9-1b7d8fd40575.jpg">
+</p>
+<em><p align="center">Datos graficados en Python .</p></em>
+
+<em><h3>Análisis en el rango de la frecuencia</h3></em>
+
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231636138-aff5dde5-72b4-4ed0-a91d-80daa1e26869.png">
+</p>
+<em><p align="center">Transformada de Fourier de la señal después de aguantar la resiración.</p></em>
+ 
+### TOMA DE DATOS DESPUÉS DE ACTIVIDAD FÍSICA DE CARDIO:
+ 
+ Se le pidió al sujeto de estudio que realice actividad física hasta llegar a la fatiga; para esto se realizaron 40 planchas y 10 burpees.
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/231623579-0f4ab714-ba29-4d8f-84eb-8a497b4df26f.mp4">
+</div>
+<em><p align="center">Ejercicio que se realizó</p></em>
+ 
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/231625774-325f2c3f-7d55-4390-a369-da54a995ce4b.mp4">
+</div>
+<em><p align="center">ECG después del ejercicio</p></em>
+
+### Resultados:
+ 
+ <em><h3>Análisis en el rango del tiempo</h3></em>
+
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635146-fb311207-10ec-4363-8e9e-98415160b261.jpg">
+</p>
+<em><p align="center">Datos graficados en el software Opensignals </p></em>
+ 
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231634975-650eaee7-20d8-490a-8333-3b924adc95a1.jpg">
+</p>
+<em><p align="center">Datos graficados en Python .</p></em>
+
+<em><h3>Análisis en el rango de la frecuencia</h3></em>
+
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635972-55145861-cfeb-43c7-ba60-668c68debda6.png">
+</p>
+<em><p align="center">Transformada de Fourier de la señal después de realizar ejercicio</p></em>
+
+
+ 
+### ProSim-8:
+ 
+ <h2 align="center">DISCUSIONES</h2>
+ 
+### Discusión de las señales recolectadas con el sujeto 1:
  
 Como se puede observar en la grabacion e imagenes colocadas, el sensor para EKG del bitalino muestra resultados esperados relativamente buenos al momento de probar
 y experimentar con un sujeto real, ya que si bien todas las ondas y formas de los complejos se ven  correctos, existe ruido presente en la onda, producto muchas veces 
 de como estan colocados los electrodos en el cuerpo y sus ubicaciones respectivas (tipo de derivación), el tipo de electrodos utilizados, alguna jolleria presente,   carga estatica y/o electrica en el ambiente donde se realiza la medición, etc. 
  
-Por otro lado es evidente al comparar las graficas entre el estado basal y luego de haber realizado la actividad fisica, una disminucion del periodo entre onda y onda del EKG (entre complejos P-QRS-T respectivamente), esto es debido a un incremento en la frecuencia cardiaca del sujeto y si bien la amplitud se ve mas reducida para el segundo caso, es simplemente la escala que el programa utiliza para visualizar las ondas de mejor manera, ya que luego de reposar o al aguantar la respiracioón y volver a respirar con normalidad, existen picos mas altos con respecto al momento de tener una frecuencia mayor. Asi mismo el tema del ruido es incrementado en las graficas luego de haber realizado una actividad fisica, lo cual disminuye una vez el sujeto reposa y recupera su frecuencia cardiaca normal.
-
-
+Por otro lado es evidente al comparar las graficas entre el estado basal y luego de haber realizado la actividad fisica, una disminucion del periodo entre onda y onda del EKG (entre complejos P-QRS-T respectivamente), esto es debido a un incremento en la frecuencia cardiaca del sujeto y si bien la amplitud se ve mas reducida para el segundo caso, es simplemente la escala que el programa utiliza para visualizar las ondas de mejor manera, ya que luego de reposar o al aguantar la respiracioón y volver a respirar con normalidad, existen picos mas altos con respecto al momento de tener una frecuencia mayor. Asi mismo el tema del ruido es incrementado en las graficas luego de haber realizado una actividad fisica, lo cual disminuye una vez el sujeto reposa y recupera su frecuencia cardiaca normal. 
  
+### Discusión de las señales recolectadas con el sujeto 2:
  
-## Sujeto N°2
-
-### Colocación de los electrodos
- 
-
-### Toma de datos en reposo:
- 
-
-### Toma de datos luego de una actividad física aeróbica:
- 
- 
-### Resultados:
-
-## Discusión:
 Para el segundo sujeto, al analizar las ondas se cumple el mismo patron en la onda y complejos típicos de un EKG; la unica diferencia que se puede notar es que al realizar la actividad fisica respectiva y comparando con la grafica de estado basal, la frecuencia con la que las ondas aparecen entre complejo y complejo es menor que para el primer sujeto, esto puede ser debido a muchos factores, entre los cuales destaca el hecho de que el segundo sujeto realiza actividad aerobica frecuente, pudiendo asi controlar su frecuencia cardiaca con mayor facilidad y reponerse de manera más rápida.
- 
-### ProSim-8:
- 
- 
 
-Discusión: 
+### Discusión de la señal recolesctada con el dispositivo patrón: 
+ 
 Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 de la marca fluke, se puede observar un onda con sus complejos de manera mas limpia, libre de ruidos. Esto es debido a que al ser un simulador y contar con parametros que uno mismo como usuario puede establecer, el simulador se encargara de mantenerlas y enviarlas al programa para la visualizacion de las ondas respectivas, lo cual en un sujeto real, al ser un sistema biologico, suceptible a diferentes interferencias del medio que lo rodea presentes (carga del ambiente, vellosidades, tipos de electrodos usados, posicionamiento, etc ) como mencionamos anteriormente, las graficas obtenidas contaran con un ruido presente el cual puede ser atenuado mediantes filtros tanto analogicos como digitales, cosa que el simulador realiza de antemano antes de mandar la señal de onda al programa.
 
 ## Bibliografia
