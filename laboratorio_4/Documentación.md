@@ -279,6 +279,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 <div align="center">
     <video src="https://user-images.githubusercontent.com/128627158/231652013-fb7b1570-19fd-4676-89f8-612d9c704692.mp4">
 </div>
+ 
 <em><p align="center">ECG después del ejercicio</p></em>
  <h2 align="center">DISCUSIONES</h2>
  
@@ -295,11 +296,7 @@ Para el segundo sujeto, al analizar las ondas se cumple el mismo patrón en la o
 
 ### Discusión de la señal recolesctada con el dispositivo patrón: 
  
-Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 de la marca fluke, se puede observar un onda con sus complejos de manera mas limpia, libre de ruidos. Esto es debido a que al ser un simulador y contar con parametros que uno mismo como usuario puede establecer, el simulador se encargara de mantenerlas y enviarlas al programa para la visualizacion de las ondas respectivas, lo cual en un sujeto real y al ser un sistema biologico suceptible a diferentes interferencias del medio que lo rodea
-
-https://user-images.githubusercontent.com/128627158/231651973-cd787680-71d0-434d-993f-0035f290f267.mp4
-
- presentes (carga del ambiente, vellosidades, tipos de electrodos usados, posicionamiento, etc.) las gráficas obtenidas contaran con un ruido presente el cual puede ser atenuado mediantes filtros tanto analógicos como digitales, mientras que el simulador envía una señal artificial ya libre de ruido.
+Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 de la marca fluke, se puede observar un onda con sus complejos de manera mas limpia, libre de ruidos. Esto es debido a que al ser un simulador y contar con parametros que uno mismo como usuario puede establecer, el simulador se encargara de mantenerlas y enviarlas al programa para la visualizacion de las ondas respectivas, lo cual en un sujeto real y al ser un sistema biologico suceptible a diferentes interferencias del medio que lo rodeapresentes (carga del ambiente, vellosidades, tipos de electrodos usados, posicionamiento, etc.) las gráficas obtenidas contaran con un ruido presente el cual puede ser atenuado mediantes filtros tanto analógicos como digitales, mientras que el simulador envía una señal artificial ya libre de ruido.
 
 ## Bibliografia
 1. Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
