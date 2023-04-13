@@ -22,17 +22,22 @@ El ECG también puede ser utilizado para monitorizar la actividad cardíaca dura
 
 Además, la señal de ECG es una herramienta importante en la investigación médica y la ingeniería biomédica. Los investigadores utilizan la señal de ECG para estudiar la fisiología del corazón y para desarrollar nuevos métodos de diagnóstico y tratamiento de enfermedades cardíacas [3].
 
+<p align="center">
+  <img width="600" height="400"src="https://www.heart.org/-/media/Images/Health-Topics/Arrhythmia/ECG-normal.jpg">
+</p>
+<em><p align="center">Figura 1. Señal ECG.</p></em>
+
 ### Primera y segunda derivada en un ECG
 
 La derivada tiene como función mostrar la tasa de cambio en el ECG. La primera derivada es la pendiente de una recta tangente a la curva electrocardiográfica en cualquier punto. En esta derivada, la mayor excursión se observa cuando el ECG muestra la mayor tasa de cambio. De esta forma, los picos agudos se representan como fluctuaciones en la derivada [4].
 <p align="center">
   <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/231569722-862f1343-70f9-4eb7-8d70-2d1c20a4f22c.png">
 </p>
-<em><p align="center">Figura 1. Picos y valles de una señal de ECG (6).</p></em>
-En el caso de la segunda derivada (el mínimo), su pico indica la curvatura máxima al comienzo del inicio de R que, de la misma forma, representa el pico de la onda Q como se muestra en la Figura 1. Esta derivada no depende de la visibilidad de la onda Q ni de la amplitud del pico. Esto le permite convertirse en un indicador fiable del comienzo de R [5].
+<em><p align="center">Figura 2. Picos y valles de una señal de ECG [5].</p></em>
+En el caso de la segunda derivada (el mínimo), su pico indica la curvatura máxima al comienzo del inicio de R que, de la misma forma, representa el pico de la onda Q como se muestra en la Figura 2. Esta derivada no depende de la visibilidad de la onda Q ni de la amplitud del pico. Esto le permite convertirse en un indicador fiable del comienzo de R [5].
 
 ### Transformada rápida de Fourier (FFT)
-La transformada rápida de Fourier es una herramienta que nos permite conocer qué frecuencias de onda sinusoidal componen una señal. La FFT convierte una señal en componentes espectrales individuales y, por lo tanto, proporciona información de frecuencia sobre la señal [7]. Es por ello que se aplicó la transformada rápida de Fourier a las señales adquiridas:
+La transformada rápida de Fourier es una herramienta que nos permite conocer qué frecuencias de onda sinusoidal componen una señal. La FFT convierte una señal en componentes espectrales individuales y, por lo tanto, proporciona información de frecuencia sobre la señal [7]. Es por ello que se aplicó la transformada rápida de Fourier a las señales adquiridas.
 
 <h2 align="center">MATERIALES</h2>
 
@@ -54,7 +59,7 @@ Se realizó el sistema de 3 electrodos considerando la cresta iliaca como refere
 <p align="center">
   <img width="500" height="300"src="https://user-images.githubusercontent.com/128627158/231569119-e8a812d9-ce8a-4ceb-ab99-8945dccd9e4a.jpg">
 </p>
-<em><p align="center">Figura 2. Posicionamiento de los electrodos en el cuerpo [8].</p></em>
+<em><p align="center">Figura 3. Posicionamiento de los electrodos en el cuerpo [8].</p></em>
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
 * a
 
@@ -65,10 +70,12 @@ Además, se debe asegurar la correcta colocación de los electrodos positivo, ne
 <h2 align="center">DESARROLLO DEL LABORATORIO</h2>
 
 Durante esta experiencia de laboratorio se realizaron 3 tomas de datos en circunstancias diferentes: Estado basal, aguantando la respiración y después de realizar ejercicio de cardio.
+Posteriormente, se procesaron las señales en Python tanto en el rango del tiempo, como en el de la frecuencia, esto con la finalidad de tener un mejor análisis de los resultados. Para esta última acción se ultilizó la Transformada de Fourier y la Transformada de Wavelet.
 
-## Sujeto N°1
 
-### Colocación de los electrodos
+<h2 align="center">Sujeto 1</h2>
+
+### COLOCACIÓN DE LOS ELECTRODOS
 
 <p float="right">
   <img src="https://user-images.githubusercontent.com/128627158/231570991-32bfd77a-3e97-4edc-94ee-b2ab51dd409a.jpg" width="500" />
@@ -76,7 +83,7 @@ Durante esta experiencia de laboratorio se realizaron 3 tomas de datos en circun
 </p>
 <em><p align="center">Ubicación de los electrodos</p></em> 
 
-### Toma de datos en reposo:
+### TOMA DE DATOS EN REPOSO
 
 Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el sujeto se encuentra en reposo.
 
@@ -85,17 +92,66 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 </div>
 <em><p align="center">Toma de datos en reposo</p></em>
 
-### Resultados:
+### Resultados
+ 
+<em><h3>Análisis en el rango del tiempo</h3></em>
 
-<p float="center">
-  <img src="https://user-images.githubusercontent.com/128627158/231589427-01596550-8895-44ab-907d-f58f5f6a54cd.jpg" width="500" />
-  <img src="https://user-images.githubusercontent.com/128627158/231590017-67aeace6-a990-48d6-b00e-335a31eb23c1.jpg" width="500" /> 
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231589427-01596550-8895-44ab-907d-f58f5f6a54cd.jpg">
 </p>
-<em><p align="center">Datos graficados en el software Opensignals y Python, respectivamente</p></em>
+<em><p align="center">Datos graficados en el software Opensignals </p></em>
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231590017-67aeace6-a990-48d6-b00e-335a31eb23c1.jpg">
+</p>
+<em><p align="center">Datos graficados en Python .</p></em>
+
+<em><h3>Análisis en el rango de la frecuencia</h3></em>
  
-### Toma de datos luego de una actividad física aeróbica:
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231630832-110831ad-c349-4fdf-bbae-716897573082.jpg">
+</p>
+<em><p align="center">Transformada de Fourier del estado Basal.</p></em>
  
+### TOMA DE DATOS CUANDO AGUANTA LA RESPIRACIÓN
  
+ <div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/231624463-df299443-7ecb-41e3-999e-a6ead1ec4a41.mp4
+">
+</div>
+<em><p align="center">Toma de datos</p></em>
+### Resultados
+ 
+<em><h3>Análisis en el rango del tiempo</h3></em>
+
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231627730-9d44178d-a90c-4cdd-bb3e-e86a5ab2f6b1.jpg">
+</p>
+<em><p align="center">Datos graficados en el software Opensignals </p></em>
+ <p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231627585-ef6bc634-6d09-47e9-afb9-1b7d8fd40575.jpg">
+</p>
+<em><p align="center">Datos graficados en Python .</p></em>
+
+<em><h3>Análisis en el rango de la frecuencia</h3></em>
+ 
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231630832-110831ad-c349-4fdf-bbae-716897573082.jpg">
+</p>
+<em><p align="center">Transformada de Fourier del estado Basal.</p></em>
+ 
+### TOMA DE DATOS DESPUÉS DE ACTIVIDAD FÍSICA DE CARDIO:
+ 
+ Se le pidió al sujeto de estudio que realice actividad física hasta llegar a la fatiga; para esto se realizaron 40 planchas y 10 burpees.
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/231623579-0f4ab714-ba29-4d8f-84eb-8a497b4df26f.mp4">
+</div>
+<em><p align="center">Ejercicio que se realizó</p></em>
+ 
+<div align="center">
+    <video src="https://user-images.githubusercontent.com/128627158/231625774-325f2c3f-7d55-4390-a369-da54a995ce4b.mp4">
+</div>
+<em><p align="center">ECG después del ejercicio</p></em>
+
 ### Resultados:
  
  
