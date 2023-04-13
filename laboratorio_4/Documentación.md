@@ -257,14 +257,14 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  
  <p align="center">
-  <img width="700" height="500"src="">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231655620-d3d2769a-e749-4e3c-8d93-4b34a6d605a4.jpg">
 </p>
 <em><p align="center">Datos graficados en Python .</p></em>
 
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
 
 <p align="center">
-  <img width="700" height="500"src="">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231655353-4ff2380a-963b-421f-a12d-4565c1dc5ce2.jpg">
 </p>
 <em><p align="center">Transformada de Fourier de la señal después de realizar ejercicio</p></em>
 
