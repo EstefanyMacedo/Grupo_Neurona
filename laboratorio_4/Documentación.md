@@ -174,12 +174,6 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 </p>
 <em><p align="center">Transformada de Fourier de la señal después de realizar ejercicio</p></em>
  
-
-
- 
-
-
-
 <h2 align="center">Sujeto 2</h2>
 
 ### COLOCACIÓN DE LOS ELECTRODOS
@@ -230,7 +224,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 <em><h3>Análisis en el rango del tiempo</h3></em>
 
  <p align="center">
-  <img width="700" height="500"src="">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231654760-8b8b5835-8a5e-4813-b85f-99691a31696c.png">
 </p>
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  <p align="center">
