@@ -214,7 +214,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
 
 <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635768-e2e3bc1f-fea0-4493-a1b4-1fd46edc8fc4.png">
+  <img width="700" height="500" src="https://user-images.githubusercontent.com/128627158/231652244-4873a4c5-c3a1-4e66-a4bd-73a89bebd83b.jpg">
 </p>
 <em><p align="center">Transformada de Fourier del estado Basal.</p></em>
  
@@ -279,8 +279,6 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
   <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635972-55145861-cfeb-43c7-ba60-668c68debda6.png">
 </p>
 <em><p align="center">Transformada de Fourier de la señal después de realizar ejercicio</p></em>
-
-
 
  
 ### ProSim-8:
