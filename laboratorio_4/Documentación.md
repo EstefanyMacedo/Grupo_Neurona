@@ -40,7 +40,7 @@ La transformada rápida de Fourier es una herramienta que nos permite conocer qu
 
 |   **Dispositivo**   | **Descripción** |  **Imagen**  |
 |:-------------------:|:---------------:|:------------:|
-| BiTalino | FALTA INFO |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
+| BiTalino | kit de desarrollo de bajo costo que permite medir diferentes señales biomédicas |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
 |       Electrodos      |FALTA INFO |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">|
 |  ProSim 4 vital signal simulator | FALTA INFO |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566784-4ebd9dc8-586b-4b42-91f6-b3c9daa4a92c.jpg">|
 
