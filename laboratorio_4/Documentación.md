@@ -264,7 +264,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
 
 <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231655353-4ff2380a-963b-421f-a12d-4565c1dc5ce2.jpg">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231658916-7dfad5ad-efc2-41b3-9bf4-e359cbe6958c.png">
 </p>
 <em><p align="center">Transformada de Fourier de la señal después de realizar ejercicio</p></em>
 
