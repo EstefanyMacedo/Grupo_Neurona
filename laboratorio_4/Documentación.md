@@ -28,7 +28,7 @@ La derivada tiene como función mostrar la tasa de cambio en el ECG. La primera 
 <p align="center">
   <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/231569722-862f1343-70f9-4eb7-8d70-2d1c20a4f22c.png">
 </p>
-<em><p align="center">Figura 1. Picos y valles de una señal de ECG (3).</p></em>
+<em><p align="center">Figura 1. Picos y valles de una señal de ECG (6).</p></em>
 En el caso de la segunda derivada (el mínimo), su pico indica la curvatura máxima al comienzo del inicio de R que, de la misma forma, representa el pico de la onda Q como se muestra en la Figura 1. Esta derivada no depende de la visibilidad de la onda Q ni de la amplitud del pico. Esto le permite convertirse en un indicador fiable del comienzo de R [5].
 
 ### Transformada rápida de Fourier (FFT)
