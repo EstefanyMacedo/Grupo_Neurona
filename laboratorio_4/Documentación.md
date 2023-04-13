@@ -294,13 +294,21 @@ Por otro lado es evidente al comparar las gráficas entre el estado basal y lueg
  
 Para el segundo sujeto, al analizar las ondas se cumple el mismo patrón en la onda y complejos típicos de un EKG; la unica diferencia que se puede notar es que al realizar la actividad física respectiva y comparando con la gráfica de estado basal, la frecuencia con la que las ondas aparecen entre complejo y complejo es menor que para el primer sujeto, esto puede ser debido a muchos factores, entre los cuales destaca el hecho de que el segundo sujeto realiza actividad aeróbica frecuente, pudiendo asi controlar su frecuencia cardiaca con mayor facilidad y reponerse de manera más rápida.
 
-### Discusión de la señal recolesctada con el dispositivo patrón: 
+### Discusión de la señal recolectada con el dispositivo patrón: 
  
 Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 de la marca fluke, se puede observar un onda con sus complejos de manera mas limpia, libre de ruidos. Esto es debido a que al ser un simulador y contar con parametros que uno mismo como usuario puede establecer, el simulador se encargara de mantenerlas y enviarlas al programa para la visualizacion de las ondas respectivas, lo cual en un sujeto real y al ser un sistema biologico suceptible a diferentes interferencias del medio que lo rodeapresentes (carga del ambiente, vellosidades, tipos de electrodos usados, posicionamiento, etc.) las gráficas obtenidas contaran con un ruido presente el cual puede ser atenuado mediantes filtros tanto analógicos como digitales, mientras que el simulador envía una señal artificial ya libre de ruido.
 ### Discusión de FFT:
  En las figuras del ECG Basal del participante 1 y 2 se observa que las frecuencias que tiene mayor predominio en la señal están en el rango de 0 a 50 Hz debido a su amplitud o mayor área bajo la curva. Esto tiene sentido dado que el ritmo sinusal normal tiene frecuencias bajas (entre 1 y 2 Hz). Las otras frecuencias pueden deberse a posibles ruidos. Esto también se presenta en las señales ECG con actividad física y sin respirar, pero varía las frecuencias debido a los eventos fisiológicos que involucra cada uno.
+ 
+ ### Discusión de FFT de las señales:
+ En las figuras del ECG Basal del participante 1 y 2 se observa que las frecuencias que tiene mayor predominio en la señal están en el rango de 0 a 50 Hz debido a su amplitud o mayor área bajo la curva. Esto tiene sentido dado que el ritmo sinusal normal tiene frecuencias bajas (entre 1 y 2 Hz). Las otras frecuencias pueden deberse a posibles ruidos. Esto también se presenta en las señales ECG con actividad física y sin respirar, pero varía las frecuencias debido a los eventos fisiológicos que involucra cada uno.
 
-Según Vikanda et al. [9] es posible que las mediciones de ECG contengan diferentes ruidos, como la interferencia de la línea de alimentación (PI), la desviación de la línea de base (BW), los artefactos musculares (MA) y los artefactos de movimiento de los electrodos (EM). Al comparar la FFT de su señal sinusal normal con ruido EM con nuestra FFT, notamos que era el ruido que tenía mayor similitud
+Según Vikanda et al. [p2] es posible que las mediciones de ECG contengan diferentes ruidos, como la interferencia de la línea de alimentación (PI), la desviación de la línea de base (BW), los artefactos musculares (MA) y los artefactos de movimiento de los electrodos (EM). Al comparar la FFT de su señal sinusal normal con ruido EM con nuestra FFT, notamos que era el ruido que tenía mayor similitud.
+
+Según Vikanda et al. [p2] es posible que las mediciones de ECG contengan diferentes ruidos, como la interferencia de la línea de alimentación (PI), la desviación de la línea de base (BW), los artefactos musculares (MA) y los artefactos de movimiento de los electrodos (EM). Al comparar la FFT de su señal sinusal normal con ruido EM con nuestra FFT, notamos que era el ruido que tenía mayor similitud.
+ <p align="center">
+  <img width="300" height="500"src="https://user-images.githubusercontent.com/128627158/231657688-0b9346b3-acc0-4e69-8ef0-ec57e495e51c.png">
+</p>
 ## Bibliografia
 1. Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
 2. Esteban Álvarez-Reséndiz G, Ochoa-Gaitán G, Velazco-González JG, Clara D, Gutiérrez-Porras L, Monares-Zepeda E, et al. Monitoreo anestésico básico [Internet]. Medigraphic.com. [citado el 13 de abril de 2023]. Disponible en: https://www.medigraphic.com/pdfs/rma/cma-2013/cmas131r.pdf
@@ -310,4 +318,3 @@ Según Vikanda et al. [9] es posible que las mediciones de ECG contengan diferen
 6.	Ay Gül AN. Real-time feature extraction of ECG signals using NI LabVIEW.
 7. FFT. (n.d.). Nti-audio.com. Retrieved April 12, 2023, from https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft 
 8.	PLUX Biosignals. How do I know I am alive? [Internet]. [citado el 12 de abril de 2023]. Disponible en: https://www.pluxbiosignals.com/blogs/informative/how-do-i-know-i-am-alive 
-9. Chanchang, V., Kumchaiseemak, N., Sutthiopad, M., & Luengviriya, C. (2017). Improvement of electrocardiogram by empirical wavelet transform. Journal of Physics: Conference Series, 901, 012028. doi:10.1088/1742-6596/901/1/012028
