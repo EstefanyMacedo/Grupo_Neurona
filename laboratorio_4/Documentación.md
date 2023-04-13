@@ -89,8 +89,10 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 </p>
 <em><p align="center">Datos graficados en el software Opensignals y Python, respectivamente</p></em>
  
-### Toma de datos en reposo:
+### Toma de datos luego de una actividad física aeróbica:
  
+ 
+### Resultados:
  
  
 
@@ -102,7 +104,7 @@ de la colocacion de los electrodos, el tipo de electrodos utilizados, alguna jol
 
  
  
-## Sujeto N°1
+## Sujeto N°2
 
 ### Colocación de los electrodos
  
