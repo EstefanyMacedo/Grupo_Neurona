@@ -11,7 +11,7 @@
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/tree/main/laboratorio_4/Archivos)
 + [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/laboratorio_4/Documentaci%C3%B3n.md#bibliografia)
  <h2 align="center">INTRODUCCIÓN </h2>
-eso lo pone jesús a
+En este laboratorio, utilizaremos Bitalino, para medir y analizar señales de electrocardiograma (ECG). El ECG es una señal eléctrica generada por el corazón que se utiliza para diagnosticar una amplia gama de trastornos cardíacos. Aprender a medir y analizar ECG es una habilidad esencial para cualquier persona interesada en la medicina o la ingeniería biomédica. En este laboratorio, exploraremos los fundamentos de la adquisición de señales ECG y las técnicas de análisis de señales necesarias para comprender la información contenida en la señal. 
 <h2 align="center">MARCO TEÓRICO</h2>
 
 ### La señal de ECG y su importancia
