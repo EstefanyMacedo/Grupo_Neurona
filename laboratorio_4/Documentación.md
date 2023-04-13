@@ -283,7 +283,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 
  
 ### ProSim-8:
- 
+ Gracias al ProSim-8 podemos verificar si el Bitalino está funcionando de manera adecuada para la adquisición de la señal ECG. También nos permite comparar como sería una adquisición ideal de una señal ECG con una real y con ello, mejorar la adquisición de la señal, observar la forma de las ondas que componen el ECG de una mejor manera, etc.
  <h2 align="center">DISCUSIONES</h2>
  
 ### Discusión de las señales recolectadas con el sujeto 1:
