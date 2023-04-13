@@ -88,12 +88,26 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
   <img src="https://user-images.githubusercontent.com/128627158/231590017-67aeace6-a990-48d6-b00e-335a31eb23c1.jpg" width="500" /> 
 </p>
 <em><p align="center">Datos graficados en el software Opensignals y Python, respectivamente</p></em>
+ 
+### Toma de datos en reposo:
+ 
+ 
+ 
+
 ## Discusión:
  
- Como se puede observar en la grabacion e imagenes colocadas, el sensor para EKG del bitalino muestra resultados esperados relativamente buenos al momento de probar
- y experimentar con un sujeto real, ya que si bien todas las ondas y formas de los complejos se ven  correctos, existe ruido presente en la onda, producto muchas veces 
- de la colocacion de los electrodos, el tipo de electrodos utilizados, alguna jolleria presente, carca estatica y electrica del sujeto en el ambiente donde se mide, etc.
+Como se puede observar en la grabacion e imagenes colocadas, el sensor para EKG del bitalino muestra resultados esperados relativamente buenos al momento de probar
+y experimentar con un sujeto real, ya que si bien todas las ondas y formas de los complejos se ven  correctos, existe ruido presente en la onda, producto muchas veces 
+de la colocacion de los electrodos, el tipo de electrodos utilizados, alguna jolleria presente, carca estatica y electrica del sujeto en el ambiente donde se mide, etc.
+
  
+ 
+## Sujeto N°1
+
+### Colocación de los electrodos
+ 
+ 
+
 
 ## Bibliografia
 1.	Langner P. First Derivative of the Electrocardiogram [Internet]. [citado el 12 de abril de 2023]. Disponible en: https://www.ahajournals.org/doi/pdf/10.1161/01.RES.10.2.220#:~:text=The%20derivative%20shows%20the%20rate,changing%20low%20frequency%20wave%20forms.
