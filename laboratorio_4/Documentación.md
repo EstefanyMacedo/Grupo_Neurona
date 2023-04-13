@@ -194,7 +194,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el sujeto se encuentra en reposo.
 
 <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231582212-aa004901-4b90-42d4-8d26-320108efb6da.mp4">
+    <video src="https://user-images.githubusercontent.com/128627158/231652696-1357f306-1788-454e-b8ab-0529c7da4491.mp4">
 </div>
 <em><p align="center">Toma de datos en reposo</p></em>
 
@@ -202,27 +202,26 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
  
 <em><h3>Análisis en el rango del tiempo</h3></em>
 
- <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231589427-01596550-8895-44ab-907d-f58f5f6a54cd.jpg">
+<p align="center">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231653980-36e67ff2-1a55-42ff-848a-0fe5d609ecbd.jpg">
 </p>
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231634077-ba00bc86-2fa3-481c-a2ad-6a1f2954f5f4.png">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231653797-aee807ae-1b61-4ba8-8b28-b81fc2e0884d.jpg">
 </p>
 <em><p align="center">Datos graficados en Python .</p></em>
 
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
 
 <p align="center">
-  <img width="700" height="500" src="https://user-images.githubusercontent.com/128627158/231652244-4873a4c5-c3a1-4e66-a4bd-73a89bebd83b.jpg">
+  <img width="700" height="500" src="https://user-images.githubusercontent.com/128627158/231653750-f0f908ef-da80-48af-be69-392461f1ba4b.png">
 </p>
 <em><p align="center">Transformada de Fourier del estado Basal.</p></em>
  
 ### TOMA DE DATOS CUANDO AGUANTA LA RESPIRACIÓN
  
  <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231624463-df299443-7ecb-41e3-999e-a6ead1ec4a41.mp4
-">
+    <video src="">
 </div>
 <em><p align="center">Toma de datos</p></em>
   
@@ -231,52 +230,47 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 <em><h3>Análisis en el rango del tiempo</h3></em>
 
  <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231627730-9d44178d-a90c-4cdd-bb3e-e86a5ab2f6b1.jpg">
+  <img width="700" height="500"src="">
 </p>
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231627585-ef6bc634-6d09-47e9-afb9-1b7d8fd40575.jpg">
+  <img width="700" height="500"src="">
 </p>
 <em><p align="center">Datos graficados en Python .</p></em>
 
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
 
 <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231636138-aff5dde5-72b4-4ed0-a91d-80daa1e26869.png">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231653676-a0bea1d7-9c1e-466b-a6f6-ca0bddc07bfa.png">
 </p>
 <em><p align="center">Transformada de Fourier de la señal después de aguantar la resiración.</p></em>
  
 ### TOMA DE DATOS DESPUÉS DE ACTIVIDAD FÍSICA DE CARDIO:
  
- Se le pidió al sujeto de estudio que realice actividad física hasta llegar a la fatiga; para esto se realizaron 40 planchas y 10 burpees.
+ Se le pidió al sujeto de estudio que realice actividad física hasta llegar a la fatiga; para esto se realizaron plichinelas y burbees durante 3 minutos en total.
 <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231623579-0f4ab714-ba29-4d8f-84eb-8a497b4df26f.mp4">
+    <video src="https://user-images.githubusercontent.com/128627158/231652464-7075abad-a356-428d-bc6f-4871a5731dde.mp4">
 </div>
 <em><p align="center">Ejercicio que se realizó</p></em>
  
-<div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231625774-325f2c3f-7d55-4390-a369-da54a995ce4b.mp4">
-</div>
-<em><p align="center">ECG después del ejercicio</p></em>
-
 ### Resultados:
  
  <em><h3>Análisis en el rango del tiempo</h3></em>
 
 <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635146-fb311207-10ec-4363-8e9e-98415160b261.jpg">
+  <img width="700" height="500"src="">
 </p>
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  
  <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231634975-650eaee7-20d8-490a-8333-3b924adc95a1.jpg">
+  <img width="700" height="500"src="">
 </p>
 <em><p align="center">Datos graficados en Python .</p></em>
 
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
 
 <p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635972-55145861-cfeb-43c7-ba60-668c68debda6.png">
+  <img width="700" height="500"src="">
 </p>
 <em><p align="center">Transformada de Fourier de la señal después de realizar ejercicio</p></em>
 
@@ -284,7 +278,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 ### ProSim-8:
  Gracias al ProSim-8 podemos verificar si el Bitalino está funcionando de manera adecuada para la adquisición de la señal ECG. También nos permite comparar como sería una adquisición ideal de una señal ECG con una real y con ello, mejorar la adquisición de la señal, observar la forma de las ondas que componen el ECG de una mejor manera, etc.
  <p align="center">
-  <img width="500" height="300"src="https://user-images.githubusercontent.com/128627158/231651789-da5354fe-2de5-4bd0-9531-cdcadd04699f.jpg">
+  <img width="300" height="500"src="https://user-images.githubusercontent.com/128627158/231651789-da5354fe-2de5-4bd0-9531-cdcadd04699f.jpg">
 </p>
 <em><p align="center">Configuración del ProSim-8</p></em>
  
