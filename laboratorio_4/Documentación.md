@@ -123,6 +123,12 @@ Por otro lado es evidente al comparar las graficas entre el estado basal y luego
 ## Discusión:
 Para el segundo sujeto, al analizar las ondas se cumple el mismo patron en la onda y complejos típicos de un EKG; la unica diferencia que se puede notar es que al realizar la actividad fisica respectiva y comparando con la grafica de estado basal, la frecuencia con la que las ondas aparecen entre complejo y complejo es menor que para el primer sujeto, esto puede ser debido a muchos factores, entre los cuales destaca el hecho de que el segundo sujeto realiza actividad aerobica frecuente, pudiendo asi controlar su frecuencia cardiaca con mayor facilidad y reponerse de manera más rápida.
  
+### ProSim-8:
+ 
+ 
+
+Discusión: 
+Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 de la marca fluke, se puede observar un onda con sus complejos de manera mas limpia, libre de ruidos. Esto es debido a que al ser un simulador y contar con parametros que uno mismo como usuario puede establecer, el simulador se encargara de mantenerlas y enviarlas al programa para la visualizacion de las ondas respectivas, lo cual en un sujeto real, al ser un sistema biologico, suceptible a diferentes interferencias del medio que lo rodea presentes (carga del ambiente, vellosidades, tipos de electrodos usados, posicionamiento, etc ) como mencionamos anteriormente, las graficas obtenidas contaran con un ruido presente el cual puede ser atenuado mediantes filtros tanto analogicos como digitales, cosa que el simulador realiza de antemano antes de mandar la señal de onda al programa.
 
 ## Bibliografia
 1.	Langner P. First Derivative of the Electrocardiogram [Internet]. [citado el 12 de abril de 2023]. Disponible en: https://www.ahajournals.org/doi/pdf/10.1161/01.RES.10.2.220#:~:text=The%20derivative%20shows%20the%20rate,changing%20low%20frequency%20wave%20forms.
