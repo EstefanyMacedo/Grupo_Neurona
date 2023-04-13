@@ -16,7 +16,11 @@ En este laboratorio, utilizaremos Bitalino, para medir y analizar señales de el
 
 ### La señal de ECG y su importancia
 
-FALTA INFO
+La señal de ECG es importante porque proporciona información valiosa sobre la función cardíaca del paciente. El ECG es una prueba no invasiva que mide la actividad eléctrica del corazón a través de electrodos colocados en la piel del paciente. La señal de ECG se utiliza comúnmente para detectar y diagnosticar trastornos cardíacos, como arritmias, infarto de miocardio, hipertrofia ventricular y otras condiciones que afectan la función cardíaca.
+
+El ECG también puede ser utilizado para monitorizar la actividad cardíaca durante procedimientos médicos y cirugías, para evaluar la eficacia de los tratamientos para trastornos cardíacos y para evaluar la función cardíaca en pacientes con afecciones crónicas, como la insuficiencia cardíaca.
+
+Además, la señal de ECG es una herramienta importante en la investigación médica y la ingeniería biomédica. Los investigadores utilizan la señal de ECG para estudiar la fisiología del corazón y para desarrollar nuevos métodos de diagnóstico y tratamiento de enfermedades cardíacas.
 
 ### Primera y segunda derivada en un ECG
 
