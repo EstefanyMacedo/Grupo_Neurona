@@ -194,7 +194,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el sujeto se encuentra en reposo.
 
 <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231582212-aa004901-4b90-42d4-8d26-320108efb6da.mp4">
+    <video src="https://user-images.githubusercontent.com/128627158/231641061-c0239e08-59a7-4b23-beb6-f80cf553a963.mp4">
 </div>
 <em><p align="center">Toma de datos en reposo</p></em>
 
@@ -221,11 +221,10 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 ### TOMA DE DATOS CUANDO AGUANTA LA RESPIRACIÓN
  
  <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231624463-df299443-7ecb-41e3-999e-a6ead1ec4a41.mp4
-">
+    <video src="https://user-images.githubusercontent.com/128627158/231641231-959d470b-37e7-4eee-9747-749cf908bf6c.mp4">
 </div>
 <em><p align="center">Toma de datos</p></em>
-  
+
 ### Resultados
  
 <em><h3>Análisis en el rango del tiempo</h3></em>
@@ -248,12 +247,12 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
  
 ### TOMA DE DATOS DESPUÉS DE ACTIVIDAD FÍSICA DE CARDIO:
  
- Se le pidió al sujeto de estudio que realice actividad física hasta llegar a la fatiga; para esto se realizaron 40 planchas y 10 burpees.
+ Se le pidió al sujeto de estudio que realice actividad física hasta llegar a la fatiga; para esto se realizaron polichinelas y burpees durante 3 minutos en total.
 <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231623579-0f4ab714-ba29-4d8f-84eb-8a497b4df26f.mp4">
+    <video src="https://user-images.githubusercontent.com/128627158/231640019-0c7e471d-e9f2-454b-bca3-6dc150fae202.mp4">
 </div>
 <em><p align="center">Ejercicio que se realizó</p></em>
- 
+
 <div align="center">
     <video src="https://user-images.githubusercontent.com/128627158/231625774-325f2c3f-7d55-4390-a369-da54a995ce4b.mp4">
 </div>
@@ -289,9 +288,10 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 ### Discusión de las señales recolectadas con el sujeto 1:
  
 Como se puede observar en la grabacion e imagenes colocadas, el sensor para EKG del bitalino muestra resultados esperados relativamente buenos al momento de probar
-y experimentar con un sujeto real, ya que si bien todas las ondas y formas de los complejos se pueden apreciar, existe ruido presente en la señal, producto muchas de como estan colocados los electrodos en el cuerpo y sus ubicaciones respectivas (según el tipo de derivación), el tipo de electrodos utilizados, movimiento muscular del sujeto de prueba, ruido eléctrico en el ambiente donde se realiza la medición, etc. 
+y experimentar con un sujeto real, ya que si bien todas las ondas y formas de los complejos se ven  correctos, existe ruido presente en la onda, producto muchas veces 
+de como estan colocados los electrodos en el cuerpo y sus ubicaciones respectivas (tipo de derivación), el tipo de electrodos utilizados, alguna jolleria presente,   carga estatica y/o electrica en el ambiente donde se realiza la medición, etc. 
  
-Por otro lado es evidente al comparar las gráficas entre el estado basal y luego de haber realizado la actividad física, una disminución del periodo entre onda y onda del EKG (entre complejos P-QRS-T respectivamente), esto es debido a un incremento en la frecuencia cardiaca del sujeto y si bien la amplitud se ve mas reducida para el segundo caso, es simplemente la escala que el programa utiliza para visualizar las ondas de mejor manera, ya que luego de reposar o al aguantar la respiración y al volver a respirar con normalidad, la amplitud de la señal aumenta mientras que la frecuencia disminuye. Asi mismo, el tema del ruido se incrementa y esto es apreciable en las gráficas luego de haber realizado una actividad fisica. Si el sujeto reposa, recupera su frecuencia cardiaca normal y el ruido disminuye. 
+Por otro lado es evidente al comparar las graficas entre el estado basal y luego de haber realizado la actividad fisica, una disminucion del periodo entre onda y onda del EKG (entre complejos P-QRS-T respectivamente), esto es debido a un incremento en la frecuencia cardiaca del sujeto y si bien la amplitud se ve mas reducida para el segundo caso, es simplemente la escala que el programa utiliza para visualizar las ondas de mejor manera, ya que luego de reposar o al aguantar la respiracioón y volver a respirar con normalidad, existen picos mas altos con respecto al momento de tener una frecuencia mayor. Asi mismo el tema del ruido es incrementado en las graficas luego de haber realizado una actividad fisica, lo cual disminuye una vez el sujeto reposa y recupera su frecuencia cardiaca normal. 
  
 ### Discusión de las señales recolectadas con el sujeto 2:
  
@@ -299,7 +299,7 @@ Para el segundo sujeto, al analizar las ondas se cumple el mismo patron en la on
 
 ### Discusión de la señal recolesctada con el dispositivo patrón: 
  
-Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 de la marca fluke, se puede observar un onda con sus complejos de manera mas limpia, libre de ruidos. Esto es debido a que al ser un simulador y contar con parametros que uno mismo como usuario puede establecer, el simulador se encargara de mantenerlas y enviarlas al programa para la visualizacion de las ondas respectivas, lo cual en un sujeto real y al ser un sistema biologico suceptible a diferentes interferencias del medio que lo rodea presentes (carga del ambiente, vellosidades, tipos de electrodos usados, posicionamiento, etc.) las graficas obtenidas contaran con un ruido presente el cual puede ser atenuado mediantes filtros tanto analogicos como digitales, mientras que el simulador envía una señal artificial ya libre de ruido.
+Analizando respecto a la salida obtenida para un EKG con el simulador ProSim-8 de la marca fluke, se puede observar un onda con sus complejos de manera mas limpia, libre de ruidos. Esto es debido a que al ser un simulador y contar con parametros que uno mismo como usuario puede establecer, el simulador se encargara de mantenerlas y enviarlas al programa para la visualizacion de las ondas respectivas, lo cual en un sujeto real, al ser un sistema biologico, suceptible a diferentes interferencias del medio que lo rodea presentes (carga del ambiente, vellosidades, tipos de electrodos usados, posicionamiento, etc ) como mencionamos anteriormente, las graficas obtenidas contaran con un ruido presente el cual puede ser atenuado mediantes filtros tanto analogicos como digitales, cosa que el simulador realiza de antemano antes de mandar la señal de onda al programa.
 
 ## Bibliografia
 1. Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
