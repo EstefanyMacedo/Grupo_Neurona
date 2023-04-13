@@ -119,7 +119,8 @@ Por otro lado es evidente al comparar las graficas entre el estado basal y luego
  
  
 ### Resultados:
- 
+
+## Discusión:
 Para el segundo sujeto, al analizar las ondas se cumple el mismo patron en la onda y complejos típicos de un EKG; la unica diferencia que se puede notar es que al realizar la actividad fisica respectiva y comparando con la grafica de estado basal, la frecuencia con la que las ondas aparecen entre complejo y complejo es menor que para el primer sujeto, esto puede ser debido a muchos factores, entre los cuales destaca el hecho de que el segundo sujeto realiza actividad aerobica frecuente, pudiendo asi controlar su frecuencia cardiaca con mayor facilidad y reponerse de manera más rápida.
  
 
