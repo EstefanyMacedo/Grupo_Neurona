@@ -228,7 +228,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 </p>
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  <p align="center">
-  <img width="700" height="500"src="">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231655977-65e92db8-2334-469b-8913-74793aac4dc3.jpg">
 </p>
 <em><p align="center">Datos graficados en Python .</p></em>
 
@@ -252,7 +252,7 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
  <em><h3>Análisis en el rango del tiempo</h3></em>
 
 <p align="center">
-  <img width="700" height="500"src="">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231656211-b37b50ef-36a4-481a-8435-32ec9cbf7604.jpg">
 </p>
 <em><p align="center">Datos graficados en el software Opensignals </p></em>
  
