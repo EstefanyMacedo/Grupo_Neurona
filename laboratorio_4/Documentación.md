@@ -221,10 +221,10 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
 ### TOMA DE DATOS CUANDO AGUANTA LA RESPIRACIÓN
  
  <div align="center">
-    <video src="">
+    <video src="https://user-images.githubusercontent.com/128627158/231654287-0e52dc61-d971-4a9d-a863-23d0f6ad8c50.mp4">
 </div>
 <em><p align="center">Toma de datos</p></em>
-  
+
 ### Resultados
  
 <em><h3>Análisis en el rango del tiempo</h3></em>
