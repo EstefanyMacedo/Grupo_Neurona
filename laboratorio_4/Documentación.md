@@ -100,7 +100,10 @@ Esta toma de datos, nos permite registrar una referencia basal del ECG cuando el
  
 Como se puede observar en la grabacion e imagenes colocadas, el sensor para EKG del bitalino muestra resultados esperados relativamente buenos al momento de probar
 y experimentar con un sujeto real, ya que si bien todas las ondas y formas de los complejos se ven  correctos, existe ruido presente en la onda, producto muchas veces 
-de la colocacion de los electrodos, el tipo de electrodos utilizados, alguna jolleria presente, carca estatica y electrica del sujeto en el ambiente donde se mide, etc.
+de como estan colocados los electrodos en el cuerpo y sus ubicaciones respectivas (tipo de derivación), el tipo de electrodos utilizados, alguna jolleria presente,   carga estatica y/o electrica en el ambiente donde se realiza la medición, etc. 
+ 
+Por otro lado es evidente al comparar las graficas entre el estado basal y luego de haber realizado la actividad fisica, una disminucion del periodo entre onda y onda del EKG (entre complejos P-QRS-T respectivamente), esto es debido a un incremento en la frecuencia cardiaca del sujeto y si bien la amplitud se ve mas reducida para el segundo caso, es simplemente la escala que el programa utiliza para visualizar las ondas de mejor manera, ya que luego de reposar o al aguantar la respiracioón y volver a respirar con normalidad, existen picos mas altos con respecto al momento de tener una frecuencia mayor. Asi mismo el tema del ruido es incrementado en las graficas luego de haber realizado una actividad fisica, lo cual disminuye una vez el sujeto reposa y recupera su frecuencia cardiaca normal.
+
 
  
  
@@ -108,8 +111,17 @@ de la colocacion de los electrodos, el tipo de electrodos utilizados, alguna jol
 
 ### Colocación de los electrodos
  
+
+### Toma de datos en reposo:
  
 
+### Toma de datos luego de una actividad física aeróbica:
+ 
+ 
+### Resultados:
+ 
+Para el segundo sujeto, al analizar las ondas se cumple el mismo patron en la onda y complejos típicos de un EKG; la unica diferencia que se puede notar es que al realizar la actividad fisica respectiva y comparando con la grafica de estado basal, la frecuencia con la que las ondas aparecen entre complejo y complejo es menor que para el primer sujeto, esto puede ser debido a muchos factores, entre los cuales destaca el hecho de que el segundo sujeto realiza actividad aerobica frecuente, pudiendo asi controlar su frecuencia cardiaca con mayor facilidad y reponerse de manera más rápida.
+ 
 
 ## Bibliografia
 1.	Langner P. First Derivative of the Electrocardiogram [Internet]. [citado el 12 de abril de 2023]. Disponible en: https://www.ahajournals.org/doi/pdf/10.1161/01.RES.10.2.220#:~:text=The%20derivative%20shows%20the%20rate,changing%20low%20frequency%20wave%20forms.
