@@ -16,7 +16,9 @@
 
 <h2 align="center">INTRODUCCIÓN </h2>
 
-En este laboratorio, utilizaremos principalmente el dispositivo ultracortex EEG Headset, para extraer, medir y analizar señales encefalográficas (EEG); asi sismo realizaremos una comparacion con el modulo para EEG que el bitalino cuenta integrado y poder contrastar la señal obtenida y sacar conclusiones en cuanto a las señales obtenidas.
+En este laboratorio, utilizaremos principalmente el dispositivo ultracortex EEG Headset, para extraer, medir y analizar señales encefalográficas (EEG). De la misma forma, realizaremos una comparacion de la señal adquirida con el integrado de bitalino para EEG y sacar conclusiones.
+
+(imagenes)
 
 El EEG es una señal eléctrica generada por el cerebro, mas especifico por varias partes del cerebro, la cual puede ser utilizada para el diagnostico de ciertas patologias y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica.
 
