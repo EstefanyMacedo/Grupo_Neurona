@@ -12,7 +12,11 @@
 + [Conclusiones](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#conclusiones)
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Archivos)
 + [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#bibliografia)
- <h2 align="center">INTRODUCCIÓN </h2>
+
+
+<h2 align="center">INTRODUCCIÓN </h2>
+
+En este laboratorio, utilizaremos principalmente el dispositivo ultracortex EEG Headset, para extraer, medir y analizar señales encefalográficas (EEG). El EEG es una señal eléctrica generada por el cerebro, mas especifico por varias partes del cerebro, la cual puede ser utilizada para el diagnostico de ciertas patologias y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica.
 
 <h2 align="center">MARCO TEÓRICO</h2>
 
