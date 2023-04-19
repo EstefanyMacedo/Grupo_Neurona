@@ -5,8 +5,8 @@
 + [Introducción]()
 + [Marco Teórico]()
 + [Materiales]()
-+ [Posicionamiento de electrodos]()
 + [Desarrollo del laboratorio]()
++ [Posicionamiento de electrodos]()
 + [Análisis en tiempo]()
 + [Análisis en frecuencia]()
 + [Discusiones]()
@@ -25,7 +25,7 @@
 </p>
 <em><p align="center">Figura 1. Señal ECG.</p></em>
 
-### Primera y segunda derivada en un ECG
+### Ondas en el dominio de frecuencia que conforman al EEG
 
 
 <p align="center">
@@ -44,19 +44,22 @@ La transformada rápida de Fourier es una herramienta que nos permite conocer qu
 |:-------------------:|:---------------:|:------------:|
 | BiTalino | Kit de desarrollo de bajo costo que permite medir diferentes señales biomédicas |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
 |       Electrodos      | Dispositivos que se utilizan para medir la actividad eléctrica de los tejidos biológicos. Se colocan en la superficie de la piel y detectan la actividad eléctrica |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">|
-|  ProSim 4 vital signal simulator | Simulador portátil utilizado para evaluar la precisión y el rendimiento de los equipos médicos de monitoreo y diagnóstico. Puede simular una amplia gama de señales fisiológicas |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566784-4ebd9dc8-586b-4b42-91f6-b3c9daa4a92c.jpg">|
+| OpenBCI electrode cap | Es un arreglo de electrodos en forma de casco que permite la toma de señales electroencefálicas. Además de contar con su propio software|<img width="200" height="150" src="https://cdn.shopify.com/s/files/1/0613/9353/products/DSC03020FT.jpg?v=1620934768">|
 
 
 </div>
 
+<h2 align="center">DESARROLLO DEL LABORATORIO</h2>
+
+El objetivo de esta experiencia de laboratorio es obtener las señales electroencefálicas mediante electrodos y, a su vez, observar su variación cuando se somete al participante a diferentes pruebas estímulos. Para esto, se realizó un análisis en el dominio y la frecuencia con las herramientas de OpenBCI y Bitalino.
+
 <h2 align="center">POSICIONAMIENTO DE ELECTRODOS</h2>
-
- 
-
-<p align="center">
-  <img width="500" height="300"src="https://user-images.githubusercontent.com/128627158/231569119-e8a812d9-ce8a-4ceb-ab99-8945dccd9e4a.jpg">
+<p float="right">
+  <img src="https://user-images.githubusercontent.com/128627158/233181319-5463dd07-7713-4b00-987c-b714e5b1abe7.jpeg" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233182507-3db569b4-ffb1-46dc-bf2c-1a8cf8bea8d4.jpg" width="400" height="400"/> 
 </p>
-<em><p align="center">Figura 3. Posicionamiento de los electrodos en el cuerpo [8].</p></em>
+
+<em><p align="center">Figura 3. Posicionamiento de los electrodos con OpenBCI y BiTalino [8].</p></em>
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
 -
 
@@ -64,7 +67,6 @@ Lo más resaltante es que el paciente esté en una posición cómoda, relajado, 
 coloquen los respectivos electrodos sobre la piel este limpia.
 Además, se debe asegurar la correcta colocación de los electrodos positivo, negativo y de referencia en sus respectivos lugares según indican las guías consultadas.
 
-<h2 align="center">DESARROLLO DEL LABORATORIO</h2>
 
 
 
