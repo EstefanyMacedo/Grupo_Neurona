@@ -74,7 +74,7 @@ Antes de la realización de cada ejercicio, se dejó que el participante descans
 Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo periodo de tiempo. Esto se repitió 5 veces
 
 <div align="center">
- <video src="https://user-images.githubusercontent.com/128627158/233190763-8cbee2e9-f066-40b2-b163-09381bfdc946.mp4" width="500" height="400">
+ <video src="https://user-images.githubusercontent.com/128627158/233190763-8cbee2e9-f066-40b2-b163-09381bfdc946.mp4" width="400" height="400">
   </div>
  
 <em><p align="center">Ejercicio 1 medido con el OpenBCI</p></em>
@@ -97,7 +97,7 @@ Durante este ejercicio se le presentaron 5 preguntas de razonamiento matemático
  <em><p align="center">Ejercicio 2 medido con el OpenBCI</p></em>
  
  <div align="center">
-    <video src="">
+    <video src="https://user-images.githubusercontent.com/128627158/233214573-0f65be6b-71d0-4c0d-a914-4ea86ec33c2e.mp4">
    
 </div>
  
@@ -106,9 +106,9 @@ Durante este ejercicio se le presentaron 5 preguntas de razonamiento matemático
 ### Ejercicio 3: Exposición brusca a la luz
 Durante este ejercicio se le taparon los ojos al particiante durante 5 minutos y después se le sometió a un flash bruscamente. Cabe mencionar que el este ejercicio solo se realizó con el BiTalino.
 <div align="center">
-    <video src="">
+    <video src="https://user-images.githubusercontent.com/128627158/233213583-0278e03a-d092-4546-8363-64c821370249.mp4">
 </div>
-<em><p align="center">Ejercicio 2 medido con el BiTalino</p></em>
+<em><p align="center">Ejercicio 3 medido con el BiTalino</p></em>
 
 <h2 align="center">RESULTADOS Y ANÁLISIS DE LA SEÑAL</h2>
  
