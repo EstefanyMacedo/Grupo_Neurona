@@ -7,8 +7,8 @@
 + [Materiales]()
 + [Desarrollo del laboratorio]()
 + [Posicionamiento de electrodos]()
-+ [Análisis en tiempo]()
-+ [Análisis en frecuencia]()
++ [Toma de la señal]()
++ [Análisis de la señal]()
 + [Discusiones]()
 + [Archivos]()
 + [Bibliografía]()
@@ -59,32 +59,20 @@ El objetivo de esta experiencia de laboratorio es obtener las señales electroen
   <img src="https://user-images.githubusercontent.com/128627158/233182507-3db569b4-ffb1-46dc-bf2c-1a8cf8bea8d4.jpg" width="400" height="400"/> 
 </p>
 
-<em><p align="center">Figura 3. Posicionamiento de los electrodos con OpenBCI y BiTalino [8].</p></em>
+<em><p align="center">Figura 3. Posicionamiento de los electrodos con OpenBCI y BiTalino.</p></em>
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
--
-
+- FALTA INFO
 Lo más resaltante es que el paciente esté en una posición cómoda, relajado, sin ningún objeto metálico y que el lugar donde se 
 coloquen los respectivos electrodos sobre la piel este limpia.
 Además, se debe asegurar la correcta colocación de los electrodos positivo, negativo y de referencia en sus respectivos lugares según indican las guías consultadas.
 
 
-
-
-<h2 align="center">Sujeto 1</h2>
-
-### COLOCACIÓN DE LOS ELECTRODOS
-
-<p float="right">
-  <img src="https://user-images.githubusercontent.com/128627158/231570991-32bfd77a-3e97-4edc-94ee-b2ab51dd409a.jpg" width="500" />
-  <img src="https://user-images.githubusercontent.com/128627158/231580875-39fe927c-b4b3-49d4-94dc-b51752e64f63.png" width="500" /> 
-</p>
-<em><p align="center">Ubicación de los electrodos</p></em> 
-
-### TOMA DE DATOS EN REPOSO
-
+<h2 align="center">TOMA DE LA SEÑAL</h2>
+### Ejercicio 1: Abrir y cerrar los ojos
+Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo periodo de tiempo. Esto se repitió 5 veces
 
 <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/231582212-aa004901-4b90-42d4-8d26-320108efb6da.mp4">
+    <video src="">
 </div>
 <em><p align="center">Toma de datos en reposo</p></em>
 
