@@ -10,7 +10,7 @@
 + [Toma de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#toma-de-la-se%C3%B1al)
 + [Resultados y análisis de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#resultados-y-an%C3%A1lisis-de-la-se%C3%B1al)
 + [Conclusiones](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#conclusiones)
-+ [Archivos]()
++ [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Archivos)
 + [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#bibliografia)
  <h2 align="center">INTRODUCCIÓN </h2>
 
@@ -74,13 +74,14 @@ Antes de la realización de cada ejercicio, se dejó que el participante descans
 Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo periodo de tiempo. Esto se repitió 5 veces
 
 <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/233190763-8cbee2e9-f066-40b2-b163-09381bfdc946.mp4">
-</div>
+ <video src="https://user-images.githubusercontent.com/128627158/233190763-8cbee2e9-f066-40b2-b163-09381bfdc946.mp4" width="500" height="400">
+  </div>
  
- <em><p align="center">Ejercicio 1 medido con el OpenBCI</p></em>
+<em><p align="center">Ejercicio 1 medido con el OpenBCI</p></em>
  
  <div align="center">
-    <video src="">
+    <video src="https://user-images.githubusercontent.com/128627158/233203116-a714a8b0-e9f2-4880-a415-9cd1e2eab56f.mp4">
+   
 </div>
  
 <em><p align="center">Ejercicio 1 medido con el BiTalino</p></em>
@@ -89,9 +90,18 @@ Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo
 
 Durante este ejercicio se le presentaron 5 preguntas de razonamiento matemático y adivinanzas al participante. Cada una con un periodo de descanso de 12 segundos.
  
- <div align="center">
+<div align="center">
     <video src="">
 </div>
+ 
+ <em><p align="center">Ejercicio 1 medido con el OpenBCI</p></em>
+ 
+ <div align="center">
+    <video src="">
+   
+</div>
+ 
+<em><p align="center">Ejercicio 1 medido con el BiTalino</p></em>
  
 <em><p align="center">Toma de datos durante el ejercicio 1</p></em>
 
