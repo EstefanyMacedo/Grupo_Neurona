@@ -158,13 +158,17 @@ Para este item se aplicó la Transformada de Fourier a los datos hallados en el 
  <h2 align="center">CONCLUSIONES</h2>
  
 ### Discusión de las señales recolectadas con OpenBIC:
+   
+Para las señales obtenidas con el OpenBIC se pudieron observar señales capturadas lo suficientemente optimas, con poco ruido y lo suficientemente sensible ante las variaciones y estimulos mentales del sujeto de prueba; esto lo pudimos evidenciar luego de realizar los ejercicios de estimulo correspondientes, donde en base a una señal de reposo o "base" los picos y patrones de la señal se vieron aumentados y alterados progresivamente de acuerdo al esfuerzo mental que el sujeto realizaba; siendo así, donde se obtuvo un mayor estimulo en la prueba de ojos vendados y exposicion a la luz, como segundo lugar la prueba de razonamiento matemático y por ultimo la prueba de abrir y cerrar los ojos.
  
-### Discusión de las señales recolectadas con el sujeto 2:
- 
+### Discusión de las señales recolectadas con bitalino:
 
-### Discusión de la señal recolectada con el dispositivo patrón: 
- 
+Para las señales obtenidas con el bitalino, se pudieron obtener señales razonablemente optimas, ya que estas señales obtenidas contaban con mas ruido evidenciado en cuanto al patron de ondas mostradas en el monitor, pero en cuanto a los ejercicios de estimulo mencionados con anterioridad, si se pudo observar el mismo patron cumpliendo que las variaciones en la señal se dieron con mayor intensidad para la prueba de ojos vendados y exposicion a la luz, como segundo lugar la prueba de razonamiento matemático y por ultimo la prueba de abrir y cerrar los ojos.
+   
 
+### Conclusiones y comparaciones: 
+ 
+Una de las mas grandes diferencias entre la adquisicion de señales EEG en cuanto al OpenBIC y bitalino es que el primero contaba con mayor puntos de contacto en cuanto a los electrodos usados con la superficie del craneo, por lo que las señales obtenidas son mas fidedignas a comparacion del bitalino , en el cual solo se utilizaron 3 puntos como referencia para la adquisicion de las señales.
  
  ### Discusión de FFT de las señales:
 
