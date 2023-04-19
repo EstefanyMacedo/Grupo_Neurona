@@ -68,6 +68,9 @@ Además, se debe asegurar la correcta colocación de los electrodos positivo, ne
 
 
 <h2 align="center">TOMA DE LA SEÑAL</h2>
+
+Antes de la realización de cada ejercicio, se dejó que el participante descansara 30 segundos con la finalidad de encontrar un estado base
+
 ### Ejercicio 1: Abrir y cerrar los ojos
 Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo periodo de tiempo. Esto se repitió 5 veces
 
@@ -76,7 +79,10 @@ Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo
 </div>
 <em><p align="center">Toma de datos en reposo</p></em>
 
-### Resultados
+ ### Ejercicio 2: Ejercicios matemáticos
+ 
+ 
+ ### Ejercicio 3: Exposición brusca a la luz
  
 <em><h3>Análisis en el rango del tiempo</h3></em>
 
