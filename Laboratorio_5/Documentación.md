@@ -16,7 +16,7 @@
 
 <h2 align="center">INTRODUCCIÓN </h2>
 
-En este laboratorio, utilizaremos principalmente el OpenBCI electrode cap, para extraer, medir y analizar señales encefalográficas (EEG). De la misma forma, realizaremos una comparacion de la señal adquirida con el integrado de bitalino para EEG y sacar conclusiones.
+En este laboratorio, utilizaremos principalmente el OpenBCI electrode cap, para extraer, medir y analizar señales encefalográficas (EEG). De la misma forma, realizaremos una comparacion de la señal adquirida con el integrado de bitalino para EEG y sacar conclusiones de acuerdo a diferentes estímulos a los cuales el sujeto de prueba sera sometido.
 
 (imagenes)
 
