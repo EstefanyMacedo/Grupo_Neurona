@@ -220,5 +220,6 @@ Una de las mas grandes diferencias entre la adquisicion de señales EEG en cuant
  
 ## Bibliografia
  
-(1) Fundamentals of EEG Signal Processing. EEG Signal Processing and Machine Learning. 2021;:77–113.  
+[1] American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. doi:10.1097/00004691-199104000-00007
+(1) Fundamentals of EEG Signal Processing. EEG Signal Processing and Machine Learning. 2021;:77–113.
 
