@@ -56,6 +56,7 @@ La transformada rápida de Fourier es una herramienta que nos permite conocer qu
 | BiTalino | Kit de desarrollo de bajo costo que permite medir diferentes señales biomédicas |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
 |       Electrodos      | Dispositivos que se utilizan para medir la actividad eléctrica de los tejidos biológicos. Se colocan en la superficie de la piel y detectan la actividad eléctrica |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">|
 | OpenBCI electrode cap | Es un arreglo de electrodos en forma de casco que permite la toma de señales electroencefálicas. Además de contar con su propio software|<img width="200" height="150" src="https://cdn.shopify.com/s/files/1/0613/9353/products/DSC03020FT.jpg?v=1620934768">|
+| Unidades puntiagudas | Electrodos secos (en punta) para ser instalados en los nodos de Ultracortex con cabello|<img width="200" height="150" src="https://docs.openbci.com/assets/images/SpikeyUnits8chan-99e7144f670927d32101ecc9b538934f.JPG">|
 
 
 </div>
