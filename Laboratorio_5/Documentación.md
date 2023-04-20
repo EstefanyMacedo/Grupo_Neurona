@@ -215,7 +215,7 @@ Una de las mas grandes diferencias entre la adquisicion de señales EEG en cuant
 
 
  <p align="center">
-  <img width="400" height="500"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
+  <img width="300" height="300"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
 </p>
    
 
