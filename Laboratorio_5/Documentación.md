@@ -6,7 +6,7 @@
 + [Marco Teórico](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#marco-te%C3%B3rico)
 + [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#materiales)
 + [Desarrollo del laboratorio](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#desarrollo-del-laboratorio)
-+ [Posicionamiento de electrodos](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#posicionamiento-de-electrodos)
++ [Posicionamiento de electrodos](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#posicionamiento-de-electrodos)
 + [Toma de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#toma-de-la-se%C3%B1al)
 + [Resultados y análisis de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#resultados-y-an%C3%A1lisish2)
 + [Conclusiones](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#conclusiones)
