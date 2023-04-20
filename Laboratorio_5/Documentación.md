@@ -229,8 +229,6 @@ Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a f
   <img width="500" height="400"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
 </p>
   <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [5]</p></em>
-  Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
-
  
 ## Bibliografia
  
