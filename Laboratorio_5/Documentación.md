@@ -229,14 +229,18 @@ Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a f
   <img width="500" height="400"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
 </p>
   <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [5]</p></em>
-   
-   Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
+  Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
 
  
 ## Bibliografia
  
-[1] American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. doi:10.1097/00004691-199104000-00007
-[2]1.BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
-[3]1.Open Source Tools for Neuroscience [Internet]. Openbci.com. 2023 [cited 2023 Apr 20]. Available from: https://openbci.com/?_gl=1*t5mspr*_ga*NDcwMDMwMzQzLjE2ODE4NjA4NzQ.*_ga_HVMLC0ZWWS*MTY4MTg2MDg3NC4xLjEuMTY4MTg2MDkxMC4yNC4wLjA.
-[4]R. J. Barry and F. M. De Blasio, “EEG differences between eyes-closed and eyes-open resting remain in healthy ageing,” vol. 129, pp. 293–304, 2017, doi: 10.1016/j.biopsycho.2017.09.010. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0301051117302454
-[5]Fundamentals of EEG Signal Processing. EEG Signal Processing and Machine Learning. 2021;:77–113.
+1- American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. 
+  doi:10.1097/00004691-199104000-00007
+  
+2- BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+  
+3- Open Source Tools for Neuroscience [Internet]. Openbci.com. 2023 [cited 2023 Apr 20]. Available from: https://openbci.com/?_gl=1*t5mspr*_ga*NDcwMDMwMzQzLjE2ODE4NjA4NzQ.*_ga_HVMLC0ZWWS*MTY4MTg2MDg3NC4xLjEuMTY4MTg2MDkxMC4yNC4wLjA.
+  
+4- R. J. Barry and F. M. De Blasio, “EEG differences between eyes-closed and eyes-open resting remain in healthy ageing,” vol. 129, pp. 293–304, 2017, doi: 10.1016/j.biopsycho.2017.09.010. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0301051117302454
+  
+5- Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
