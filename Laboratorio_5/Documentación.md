@@ -16,7 +16,7 @@
 
 <h2 align="center">INTRODUCCIÓN </h2>
 
-En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRACORTEX "MARK IV" EEG HEADSET con 8 canales y el dispositivo de adquisición de señales biomédicas, Bitalino. El objetivo fue familiarizarse con la adquisición, el análisis yla interpretación de señales EEG. Cada uno de los 8 canales se refiere a una ubicación específica en la cabeza, de acuerdo con el sistema internacional 10-20 utilizado para la colocación de electrodos en el cuero cabelludo [1]. La disposición de los electrodos permite la monitorización y registro de la actividad eléctrica del cerebro en diferentes áreas, lo que permite un análisis más detallado y una mayor precisión en la medición de las señales EEG.
+En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRACORTEX "MARK IV" EEG HEADSET con 8 canales y el dispositivo de adquisición de señales biomédicas, Bitalino. El objetivo fue familiarizarse con la adquisición, el análisis y la interpretación de señales EEG. Cada uno de los 8 canales se refiere a una ubicación específica en la cabeza, de acuerdo con el sistema internacional 10-20 utilizado para la colocación de electrodos en el cuero cabelludo [1]. La disposición de los electrodos permite la monitorización y registro de la actividad eléctrica del cerebro en diferentes áreas, lo que permite un análisis más detallado y una mayor precisión en la medición de las señales EEG.
 
 <p align="center">
   <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png">
@@ -25,24 +25,22 @@ En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRA
 
 <h2 align="center">MARCO TEÓRICO</h2>
 
+La electroencefalografía (EEG) es una técnica de registro de los potenciales eléctricos generados por las sinapsis de las neuronas y por lo tanto monitorear la actividad cerebral. Comúnmente, para la adquisición de señales EEG para su uso clínico y académico se utilizan electrodos de superficie, los cuales son colocados sobre el cuero cabelludo del paciente/participante normalmente apoyados por gel conductor o solución salina.
+
 ### La señal de EEG:
 
-El EEG es una señal eléctrica generada por el cerebro, más específico por varias partes del cerebro, la cual puede ser utilizada para el diagnóstico de ciertas patologías y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica. 
+Esta señal se carácteiza por:
+* Ser dinámica
+* Existe una simetría entre ambos hemisferios(izquierdo y derecho) 
+* No presentar algún patrón en la señal
+* Presentar muscho ruido y artefactos
 
-Se graficaron estas señales de EEG, las cuales son la representación de las actividades neuronales. Además, son las integrales de los potenciales activos que se obtienen del cerebro con diversas latencias y poblaciones en todo instante de tiempo (1). Estas señales son dinámicas y no presentan un patrón definido. Su adquisición nos permite analizar el estado mental del usuario; sin embargo, son complejas, no estacionarias y presentan ruido. Por lo tanto, para analizarlas se requiere un procesamiento de señal específico. 
-
-<p align="center">
-  <img width="600" height="400"src="">
-</p>
-<em><p align="center">Figura 1. Señal ECG.</p></em>
-
-### Ondas en el dominio de frecuencia que conforman al EEG
-
+Además, cabe mencionar que el análisis en frecuencia de este tipo de señal es fundamental, ya que nos ofrece más información que en el análisis en el tiempo. En el análisi den frecuencia podemos detectar la presencia de ondas Delta, Alpha, Beta y Gamma. Las cuales se pueden separar por ondas rápidas y ondas lentas. Las presencia de estas ondas nos indica una actividad cerebral específica. 
 
 <p align="center">
-  <img width="600" height="400"src="">
+  <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233340733-f3c1c307-53af-4fd1-8bc0-fa12df6a6666.png">
 </p>
-<em><p align="center">Figura 2. Picos y valles de una señal de ECG [5].</p></em>
+<em><p align="center">Figura 2. Ondas cerebrales.</p></em>
 
 ### Transformada rápida de Fourier (FFT)
 La transformada rápida de Fourier es una herramienta que nos permite conocer qué frecuencias de onda sinusoidal componen una señal. La FFT convierte una señal en componentes espectrales individuales y, por lo tanto, proporciona información de frecuencia sobre la señal [7]. Es por ello que se aplicó la transformada rápida de Fourier a las señales adquiridas.
@@ -77,18 +75,20 @@ El objetivo de esta experiencia de laboratorio es obtener las señales electroen
 
 <em><p align="center">Figura 3. Posicionamiento de los electrodos con OpenBCI y BiTalino.</p></em>
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
-- FALTA INFO
+- BITalino (r)evolution Lab Guide:EXPERIMENTAL GUIDES TO MEET & LEARN YOUR BIOSIGNALS [2]
+- OpenCIB [3]  
 
-Lo más resaltante es que el paciente esté en una posición cómoda, relajado, sin ningún objeto metálico y que el lugar donde se 
+Lo más resaltante es que el voluntario esté en una posición cómoda, relajado, sin ningún objeto metálico y que el lugar donde se 
 coloquen los respectivos electrodos sobre la piel este limpia.
-Además, se debe asegurar la correcta colocación de los electrodos positivo, negativo y de referencia en sus respectivos lugares según indican las guías consultadas.
+Además, con respecto al casco de electrodos, se tiene que alinear el orificio del centro con la nariz, asimismo, ajustar los electodos una vez colocado.
 
 <h2 align="center">TOMA DE LA SEÑAL</h2>
 
-Antes de la realización de cada ejercicio, se dejó que el participante descansara 30 segundos con la finalidad de encontrar un estado base
+Antes de la realización de cada ejercicio, se dejó que el participante descansara 30 segundos con la finalidad de encontrar un estado base.
 
 ### Ejercicio 1: Abrir y cerrar los ojos
-Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo periodo de tiempo. Esto se repitió 5 veces
+
+Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo periodo de tiempo, esto se repitió 5 veces.
 
 <div align="center">
  <video src="https://user-images.githubusercontent.com/128627158/233190763-8cbee2e9-f066-40b2-b163-09381bfdc946.mp4" width="400" height="400">
