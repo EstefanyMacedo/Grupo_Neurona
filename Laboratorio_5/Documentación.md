@@ -3,15 +3,15 @@
 ## Tabla de contenidos
 
 + [Introducción](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#introducci%C3%B3n-)
-+ [Marco Teórico](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#marco-te%C3%B3rico)
-+ [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#materiales)
-+ [Desarrollo del laboratorio](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#desarrollo-del-laboratorio)
++ [Marco Teórico](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#marco-te%C3%B3rico)
++ [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#materiales)
++ [Desarrollo del laboratorio](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#desarrollo-del-laboratorio)
 + [Posicionamiento de electrodos](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#posicionamiento-de-electrodos)
-+ [Toma de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#toma-de-la-se%C3%B1al)
-+ [Resultados y análisis de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#resultados-y-an%C3%A1lisis-de-la-se%C3%B1al)
-+ [Conclusiones](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#conclusiones)
++ [Toma de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#toma-de-la-se%C3%B1al)
++ [Resultados y análisis de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#resultados-y-an%C3%A1lisish2)
++ [Conclusiones](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#conclusiones)
 + [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Archivos)
-+ [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Laboratorio_5/Documentaci%C3%B3n.md#bibliografia)
++ [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#bibliografia)
 
 
 <h2 align="center">INTRODUCCIÓN </h2>
@@ -127,7 +127,7 @@ Durante este ejercicio se le taparon los ojos al particiante durante 5 minutos y
 </div>
 <em><p align="center">Ejercicio 3 medido con BiTalino</p></em>
 
-<h2 align="center">RESULTADOS Y ANÁLISIS/h2>
+<h2 align="center">RESULTADOS Y ANÁLISIS</h2>
  
 <em><h3>Resultado en el rango del tiempo</h3></em>
 
