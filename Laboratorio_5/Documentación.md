@@ -35,7 +35,7 @@ Esta señal se carácteiza por:
 * No presentar algún patrón en la señal
 * Presentar muscho ruido y artefactos
 
-Además, cabe mencionar que el análisis en frecuencia de este tipo de señal es fundamental, ya que nos ofrece más información que en el análisis en el tiempo. En el análisi den frecuencia podemos detectar la presencia de ondas Delta, Alpha, Beta y Gamma. Las cuales se pueden separar por ondas rápidas y ondas lentas. Las presencia de estas ondas nos indica una actividad cerebral específica. 
+Además, cabe mencionar que el análisis en frecuencia de este tipo de señal es fundamental, ya que nos ofrece más información que en el análisis en el tiempo. En el análisi den frecuencia podemos detectar la presencia de ondas Delta, Alpha, Beta y Gamma. Las cuales se pueden separar por ondas rápidas y ondas lentas. Las presencia de estas ondas nos indica una actividad cerebral específica [2]. 
 
 <p align="center">
   <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
@@ -43,7 +43,7 @@ Además, cabe mencionar que el análisis en frecuencia de este tipo de señal es
 <em><p align="center">Figura 2. Ondas cerebrales.</p></em>
 
 ### Transformada rápida de Fourier (FFT)
-La transformada rápida de Fourier es una herramienta que nos permite conocer qué frecuencias de onda sinusoidal componen una señal. La FFT convierte una señal en componentes espectrales individuales y, por lo tanto, proporciona información de frecuencia sobre la señal [7]. Es por ello que se aplicó la transformada rápida de Fourier a las señales adquiridas.
+La transformada rápida de Fourier es una herramienta que nos permite conocer qué frecuencias de onda sinusoidal componen una señal. La FFT convierte una señal en componentes espectrales individuales y, por lo tanto, proporciona información de frecuencia sobre la señal [3]. Es por ello que se aplicó la transformada rápida de Fourier a las señales adquiridas.
 
 <h2 align="center">MATERIALES</h2>
 
@@ -75,8 +75,8 @@ El objetivo de esta experiencia de laboratorio es obtener las señales electroen
 
 <em><p align="center">Figura 3. Posicionamiento de los electrodos con OpenBCI y BiTalino.</p></em>
 Se tomaron referencias de la colocación de los electrodos y buenas prácticas durante la toma de datos las presentes guías:
-- BITalino (r)evolution Lab Guide:EXPERIMENTAL GUIDES TO MEET & LEARN YOUR BIOSIGNALS [2]
-- OpenCIB [3]  
+- BITalino (r)evolution Lab Guide:EXPERIMENTAL GUIDES TO MEET & LEARN YOUR BIOSIGNALS [4]
+- OpenCIB [5]  
 
 Lo más resaltante es que el voluntario esté en una posición cómoda, relajado, sin ningún objeto metálico y que el lugar donde se 
 coloquen los respectivos electrodos sobre la piel este limpia.
@@ -206,7 +206,7 @@ Se relaizó la Transformada de Fourier a los canales con mayor información.
    
 Para las señales obtenidas con el OpenBIC se pudieron observar señales capturadas lo suficientemente optimas, con poco ruido y lo suficientemente sensible ante las variaciones y estimulos mentales del sujeto de prueba; esto lo pudimos evidenciar luego de realizar los ejercicios de estimulo correspondientes, donde en base a una señal de reposo o "base" los picos y patrones de la señal se vieron aumentados y alterados progresivamente de acuerdo al esfuerzo mental que el sujeto realizaba; siendo así, donde se obtuvo un mayor estimulo en la prueba de ojos vendados y exposicion a la luz, como segundo lugar la prueba de razonamiento matemático y por ultimo la prueba de abrir y cerrar los ojos.
    
-**Análisis en el tiempo - Ejercicio1:** En los canales 0, 6 y 7 se observa que la mayor actividad cerebral (mV) se da en los primeros segundos de la toma de datos, dado que se observa una mayor amplitud. Por otro lado, los canales 1, 4 y 5 registran mayor actividad cerebral en los segundos finales. Esto puede deberse a que en este ejercicio se le solicitó al participante que abra y cierra los ojos (y en este momento se le solicitó relajarse), teniendo de esta forma periodos de mayor actividad cerebral (ojos abiertos) y periodos con menor actividad cerebral (ojos cerrados). De acuerdo a un experimento realizado por Barry et al. [cita], en adultos jóvenes y niños, el estado de reposo con los ojos cerrados es uno de baja excitación EEG, y el cambio a los ojos abiertos implica principalmente un aumento de la excitación.[4]
+**Análisis en el tiempo - Ejercicio1:** En los canales 0, 6 y 7 se observa que la mayor actividad cerebral (mV) se da en los primeros segundos de la toma de datos, dado que se observa una mayor amplitud. Por otro lado, los canales 1, 4 y 5 registran mayor actividad cerebral en los segundos finales. Esto puede deberse a que en este ejercicio se le solicitó al participante que abra y cierra los ojos (y en este momento se le solicitó relajarse), teniendo de esta forma periodos de mayor actividad cerebral (ojos abiertos) y periodos con menor actividad cerebral (ojos cerrados). De acuerdo a un experimento realizado por Barry et al. [cita], en adultos jóvenes y niños, el estado de reposo con los ojos cerrados es uno de baja excitación EEG, y el cambio a los ojos abiertos implica principalmente un aumento de la excitación.[6]
 
 **Análisis en la frecuencia - Ejercicio1:** De acuerdo al espectro de la FFT, la mayor parte de la señal tiene frecuencias que oscilan entre los 0.1-100 Hz, lo cual corresponde a las ondas EEG conocidas. Sin embargo, se observan también picos en frecuencias altas que probablemente correspondan a artefactos.
  
@@ -229,17 +229,20 @@ Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a f
  <p align="center">
   <img width="500" height="400"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
 </p>
-  <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [5]</p></em>
+  <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [7]</p></em>
  
 ## Bibliografia
  
 1- American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. 
   doi:10.1097/00004691-199104000-00007
+2- Farnsworth, B. "EEG (Electroencephalography): The Complete Pocket Guide
+ 
+3- BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+
+4- BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
   
-2- BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+5- Open Source Tools for Neuroscience [Internet]. Openbci.com. 2023 [cited 2023 Apr 20]. Available from: https://openbci.com/?_gl=1*t5mspr*_ga*NDcwMDMwMzQzLjE2ODE4NjA4NzQ.*_ga_HVMLC0ZWWS*MTY4MTg2MDg3NC4xLjEuMTY4MTg2MDkxMC4yNC4wLjA.
   
-3- Open Source Tools for Neuroscience [Internet]. Openbci.com. 2023 [cited 2023 Apr 20]. Available from: https://openbci.com/?_gl=1*t5mspr*_ga*NDcwMDMwMzQzLjE2ODE4NjA4NzQ.*_ga_HVMLC0ZWWS*MTY4MTg2MDg3NC4xLjEuMTY4MTg2MDkxMC4yNC4wLjA.
+6- R. J. Barry and F. M. De Blasio, “EEG differences between eyes-closed and eyes-open resting remain in healthy ageing,” vol. 129, pp. 293–304, 2017, doi: 10.1016/j.biopsycho.2017.09.010. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0301051117302454
   
-4- R. J. Barry and F. M. De Blasio, “EEG differences between eyes-closed and eyes-open resting remain in healthy ageing,” vol. 129, pp. 293–304, 2017, doi: 10.1016/j.biopsycho.2017.09.010. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0301051117302454
-  
-5- Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
+7- Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
