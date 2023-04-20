@@ -201,7 +201,16 @@ Para este item se aplicó la Transformada de Fourier a los datos hallados en el 
 ### Discusión de las señales recolectadas con OpenBIC:
    
 Para las señales obtenidas con el OpenBIC se pudieron observar señales capturadas lo suficientemente optimas, con poco ruido y lo suficientemente sensible ante las variaciones y estimulos mentales del sujeto de prueba; esto lo pudimos evidenciar luego de realizar los ejercicios de estimulo correspondientes, donde en base a una señal de reposo o "base" los picos y patrones de la señal se vieron aumentados y alterados progresivamente de acuerdo al esfuerzo mental que el sujeto realizaba; siendo así, donde se obtuvo un mayor estimulo en la prueba de ojos vendados y exposicion a la luz, como segundo lugar la prueba de razonamiento matemático y por ultimo la prueba de abrir y cerrar los ojos.
+   
+**Análisis en el tiempo - Ejercicio1:** En los canales 0, 6 y 7 se observa que la mayor actividad cerebral (mV) se da en los primeros segundos de la toma de datos, dado que se observa una mayor amplitud. Por otro lado, los canales 1, 4 y 5 registran mayor actividad cerebral en los segundos finales. Esto puede deberse a que en este ejercicio se le solicitó al participante que abra y cierra los ojos (y en este momento se le solicitó relajarse), teniendo de esta forma periodos de mayor actividad cerebral (ojos abiertos) y periodos con menor actividad cerebral (ojos cerrados). De acuerdo a un experimento realizado por Barry et al. [cita], en adultos jóvenes y niños, el estado de reposo con los ojos cerrados es uno de baja excitación EEG, y el cambio a los ojos abiertos implica principalmente un aumento de la excitación.
+   Barry, R. J., & De Blasio, F. M. (2017). EEG differences between eyes-closed and eyes-open resting remain in healthy ageing. Biological psychology, 129, 293–304. https://doi.org/10.1016/j.biopsycho.2017.09.010
+
+**Análisis en la frecuencia - Ejercicio1:** De acuerdo al espectro de la FFT, la mayor parte de la señal tiene frecuencias que oscilan entre los 0.1-100 Hz, lo cual corresponde a las ondas EEG conocidas. Sin embargo, se observan también picos en frecuencias altas que probablemente correspondan a artefactos.
  
+**Análisis en el tiempo - Ejercicio2:** Al igual que en el Ejercicio 1 se observan periodos de mayor actividad cerebral y periodos con menor actividad cerebral. En este ejercicio se le solicitó al participante mantener los ojos cerrados y se le realizaron ciertas preguntas. En la mayoría de los canales se observan comportamientos similares a los del ejercicio 1, pero con la diferencia marcada de ciertos picos de actividad cerebral, lo que deducimos corresponde al momento en el tiempo en que el participante piensa en la respuesta a la pregunta que se le realizó.
+
+**Análisis en la frecuencia - Ejercicio2:** De acuerdo al espectro de la FFT, hay una diferencia respecto al ejercicio 1. En el ejercicio 1 las frecuencias presentaban una amplitud decayente entre 0.1-100 Hz. Siendo las frecuencias con mayor presencia las delta,teta y alfa. En el ejercicio 2, algunos canales también presentan este comportamiento pero otros canales presentan una señal con más frecuencias alrededor de 100 Hz, es decir corresponden mayormente a ondas Gama, que justamente está relacionado al estado cerebral de mayor atención, según la Tabla 1. Esto se relaciona al hecho de que el participante tuvo que requerir una mayor actividad cerebral para formular una respuesta.
+   
 ### Discusión de las señales recolectadas con bitalino:
 
 Para las señales obtenidas con el bitalino, se pudieron obtener señales razonablemente optimas, ya que estas señales obtenidas contaban con mas ruido evidenciado en cuanto al patron de ondas mostradas en el monitor, pero en cuanto a los ejercicios de estimulo mencionados con anterioridad, si se pudo observar el mismo patron cumpliendo que las variaciones en la señal se dieron con mayor intensidad para la prueba de ojos vendados y exposicion a la luz, como segundo lugar la prueba de razonamiento matemático y por ultimo la prueba de abrir y cerrar los ojos.
@@ -209,15 +218,17 @@ Para las señales obtenidas con el bitalino, se pudieron obtener señales razona
 
 ### Conclusiones y comparaciones: 
  
-Una de las mas grandes diferencias entre la adquisicion de señales EEG en cuanto al OpenBIC y bitalino es que el primero contaba con mayor puntos de contacto en cuanto a los electrodos usados con la superficie del craneo, por lo que las señales obtenidas son mas fidedignas a comparacion del bitalino , en el cual solo se utilizaron 3 puntos como referencia para la adquisicion de las señales.
+Una de las mas grandes diferencias entre la adquisicion de señales EEG en cuanto al OpenBIC y bitalino es que el primero contaba con mayor puntos de contacto en cuanto a los electrodos usados con la superficie del craneo, por lo que las señales obtenidas son mas fidedignas a comparacion del bitalino , en el cual solo se utilizaron 3 puntos como referencia para la adquisicion de las señales. 
+
+Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a frecuencias altas que no correspoden totalmente a la actividad cerebral, sino a posibles artefactos. La fuente de artefactos puede provenir de problemas relacionados con el instrumento, como electrodos defectuosos, ruido de línea o alta impedancia de los electrodos, o pueden provenir de la fisiología del sujeto que se está registrando. Esto puede incluir parpadeos y movimientos oculares, actividad cardíaca y actividad muscular. Esto perjudica de cierta manera el análisis de la señal EEG, dado que como se observa en la tabla inferior, las ondas EEG corresponden a ciertos estados cerebrales como: relajación , concentración o nervios. 
  
- ### Discusión de FFT de las señales:
-
-
+ 
  <p align="center">
   <img width="300" height="300"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
 </p>
+  <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [cita]</p></em>
    
+   Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
 
  
 ## Bibliografia
