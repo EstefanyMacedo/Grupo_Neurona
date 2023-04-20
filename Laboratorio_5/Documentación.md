@@ -78,7 +78,6 @@ Lo más resaltante es que el paciente esté en una posición cómoda, relajado, 
 coloquen los respectivos electrodos sobre la piel este limpia.
 Además, se debe asegurar la correcta colocación de los electrodos positivo, negativo y de referencia en sus respectivos lugares según indican las guías consultadas.
 
-
 <h2 align="center">TOMA DE LA SEÑAL</h2>
 
 Antes de la realización de cada ejercicio, se dejó que el participante descansara 30 segundos con la finalidad de encontrar un estado base
@@ -93,7 +92,7 @@ Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo
 <em><p align="center">Ejercicio 1 medido con el OpenBCI</p></em>
  
  <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/233203116-a714a8b0-e9f2-4880-a415-9cd1e2eab56f.mp4">
+    <video src="">
    
 </div>
  
@@ -126,20 +125,52 @@ Durante este ejercicio se le taparon los ojos al particiante durante 5 minutos y
 <h2 align="center">RESULTADOS Y ANÁLISIS DE LA SEÑAL</h2>
  
 ### Resultados
-  
+
 <em><h3>Análisis en el rango del tiempo</h3></em>
 
-<p align="center">
+<h3 align="center">Resultados del ejercicio 1</h3>
+<p float="right">
+  <img src="https://user-images.githubusercontent.com/128627158/233239858-04f0bdac-b309-4b31-811e-35556c5c4085.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233240094-04eb3750-6477-4b18-9b22-25f48b993640.png" width="500" height="400"/> 
+</p>
+<em><p align="center">Figura x x. Señal ploteada de los 8 canales de OpenBCI.</p></em>
+
+ <p align="center">
   <img width="700" height="500"src="">
+</p>
+<em><p align="center">Figura x x. Señal ploteada en Opensignals.</p></em>
+
+<h3 align="center">Resultados del ejercicio 2</h3>
+<p float="right">
+  <img src="https://user-images.githubusercontent.com/128627158/233242915-bcab816b-fa3f-4a84-8c4e-e6489937f55f.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233243160-a8da9313-12a3-46a2-a8f2-e282ffd9b054.png" width="500" height="400"/> 
+</p>
+<em><p align="center">Figura x x. Señal ploteada de los 8 canales de OpenBCI.</p></em>
+ <p align="center">
+  <img width="700" height="500"src="">
+</p>
+<em><p align="center">Figura x x. Señal ploteada en Opensignals.</p></em>
+<h3 align="center">Resultados del ejercicio 3</h3>
+ <p align="center">
+  <img width="700" height="500"src="">
+</p>
+<em><p align="center">Figura x x. Señal ploteada en Opensignals.</p></em>
+
+<em><h3>Análisis en el rango de la frecuencia</h3></em>
+
+<h3 align="center">Resultados del ejercicio 1</h3>
+ <p align="center">
+  <img width="800" height="500"src="https://user-images.githubusercontent.com/128627158/233244717-a7cc9790-5de0-4fdb-b8c7-9c0af6ce7f7f.png">
 </p>
 <em><p align="center">Datos procesados a través de Python. OpenBCI </p></em>
  <p align="center">
   <img width="700" height="500"src="">
 </p>
 <em><p align="center">Datos graficados en Python. BiTalino</p></em>
-
-<em><h3>Análisis en el rango de la frecuencia</h3></em>
-  
+ <p float="right">
+  <img src="https://user-images.githubusercontent.com/128627158/233239858-04f0bdac-b309-4b31-811e-35556c5c4085.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233240094-04eb3750-6477-4b18-9b22-25f48b993640.png" width="500" height="400"/> 
+</p>
 Para este item se aplicó la Transformada de Fourier a los datos hallados en el dominio del tiempo
 <p align="center">
   <img width="700" height="500"src="">
