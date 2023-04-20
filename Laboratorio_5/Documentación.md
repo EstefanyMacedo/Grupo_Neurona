@@ -176,7 +176,7 @@ Se relaizó la Transformada de Fourier a los canales con mayor información.
 <em><p align="center">Figura 11.Datos procesados a través de Python. OpenBCI </p></em>
   
  <p align="center">
-  <img width="800" height="500"src="">
+  <img width="800" height="500"src="https://user-images.githubusercontent.com/128627158/233405019-7798d506-142c-4eba-b124-e1829be233af.png">
 </p>
 <em><p align="center">Figura 12. Datos procesados a través de Python. BiTalino </p></em> 
 
@@ -189,13 +189,14 @@ Se relaizó la Transformada de Fourier a los canales con mayor información.
 <em><p align="center">Figura 13. Datos procesados a través de Python. OpenBCI </p></em>
   
  <p align="center">
-  <img width="800" height="500"src="">
+  <img width="800" height="500"src="https://user-images.githubusercontent.com/128627158/233405447-e0a551e4-c737-487d-b9da-0cb1113eda71.png">
 </p>
 <em><p align="center">Figura 14. Datos procesados a través de Python. BiTalino </p></em>
   
  <h3 align="center">Resultados del ejercicio 3</h3>
-   <p align="center">
-  <img width="800" height="500"src="">
+ <p float="right">
+  <img src="https://user-images.githubusercontent.com/128627158/233405781-bb8f98f9-5847-497b-8ae7-ccbfa6667089.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233405962-d195e025-c4b5-4e7e-97e1-f2d2f565508a.png" width="500" height="400"/> 
 </p>
 <em><p align="center">Figura 14. Datos procesados a través de Python. BiTalino </p></em> 
 
