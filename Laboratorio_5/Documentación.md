@@ -16,19 +16,20 @@
 
 <h2 align="center">INTRODUCCIÓN </h2>
 
-En este laboratorio, utilizaremos principalmente el OpenBCI electrode cap, para extraer, medir y analizar señales encefalográficas (EEG). De la misma forma, realizaremos una comparacion de la señal adquirida con el integrado de bitalino para EEG y sacar conclusiones de acuerdo a diferentes estímulos a los cuales el sujeto de prueba sera sometido.
+En este laboratorio, utilizaremos principalmente el OpenBCI electrode cap, para extraer, medir y analizar señales encefalográficas (EEG). De la misma forma, realizaremos una comparación de la señal adquirida con el integrado de BiTalino para EEG y sacar conclusiones de acuerdo a diferentes estímulos a los cuales el sujeto de prueba será sometido.
 
-(imagenes)
-
-El EEG es una señal eléctrica generada por el cerebro, mas especifico por varias partes del cerebro, la cual puede ser utilizada para el diagnostico de ciertas patologias y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica. 
-
-Se graficaron estas señales de EEG, las cuales son la representación de las actividades neuronales. Además, son las integrales de los potenciales activos que se obtienen del cerebro con diversas latencias y poblaciones en todo instante de tiempo (1). Estas señales son dinámicas y no presentan un patrón definido. La adquisición de estas señales nos permite analizar el estado mental del usuario. Sin embargo, estas señales son complejas, no estacionarias y presentan ruido. Por lo tanto, para analizarlas se requiere un procesamiento de señal específico. 
-
-(creo que esto iria mejor en marco teorico)
+<p align="center">
+  <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png">
+</p>
+<em><p align="center">Figura 1. Ubicación de headset para la obtención de señales de EEG.</p></em>
 
 <h2 align="center">MARCO TEÓRICO</h2>
 
 ### La señal de EEC:
+
+El EEG es una señal eléctrica generada por el cerebro, más específico por varias partes del cerebro, la cual puede ser utilizada para el diagnóstico de ciertas patologías y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica. 
+
+Se graficaron estas señales de EEG, las cuales son la representación de las actividades neuronales. Además, son las integrales de los potenciales activos que se obtienen del cerebro con diversas latencias y poblaciones en todo instante de tiempo (1). Estas señales son dinámicas y no presentan un patrón definido. Su adquisición nos permite analizar el estado mental del usuario; sin embargo, son complejas, no estacionarias y presentan ruido. Por lo tanto, para analizarlas se requiere un procesamiento de señal específico. 
 
 <p align="center">
   <img width="600" height="400"src="">
