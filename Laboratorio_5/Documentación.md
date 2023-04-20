@@ -235,9 +235,10 @@ Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a f
  
 1- American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. 
   doi:10.1097/00004691-199104000-00007
+  
 2- Farnsworth, B. "EEG (Electroencephalography): The Complete Pocket Guide
  
-3- BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+3- FFT. (n.d.). Nti-audio.com. Retrieved April 12, 2023, from https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft 
 
 4- BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
   
