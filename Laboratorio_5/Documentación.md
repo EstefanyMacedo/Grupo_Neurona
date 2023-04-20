@@ -205,8 +205,7 @@ Se relaizó la Transformada de Fourier a los canales con mayor información.
    
 Para las señales obtenidas con el OpenBIC se pudieron observar señales capturadas lo suficientemente optimas, con poco ruido y lo suficientemente sensible ante las variaciones y estimulos mentales del sujeto de prueba; esto lo pudimos evidenciar luego de realizar los ejercicios de estimulo correspondientes, donde en base a una señal de reposo o "base" los picos y patrones de la señal se vieron aumentados y alterados progresivamente de acuerdo al esfuerzo mental que el sujeto realizaba; siendo así, donde se obtuvo un mayor estimulo en la prueba de ojos vendados y exposicion a la luz, como segundo lugar la prueba de razonamiento matemático y por ultimo la prueba de abrir y cerrar los ojos.
    
-**Análisis en el tiempo - Ejercicio1:** En los canales 0, 6 y 7 se observa que la mayor actividad cerebral (mV) se da en los primeros segundos de la toma de datos, dado que se observa una mayor amplitud. Por otro lado, los canales 1, 4 y 5 registran mayor actividad cerebral en los segundos finales. Esto puede deberse a que en este ejercicio se le solicitó al participante que abra y cierra los ojos (y en este momento se le solicitó relajarse), teniendo de esta forma periodos de mayor actividad cerebral (ojos abiertos) y periodos con menor actividad cerebral (ojos cerrados). De acuerdo a un experimento realizado por Barry et al. [cita], en adultos jóvenes y niños, el estado de reposo con los ojos cerrados es uno de baja excitación EEG, y el cambio a los ojos abiertos implica principalmente un aumento de la excitación.
-   Barry, R. J., & De Blasio, F. M. (2017). EEG differences between eyes-closed and eyes-open resting remain in healthy ageing. Biological psychology, 129, 293–304. https://doi.org/10.1016/j.biopsycho.2017.09.010
+**Análisis en el tiempo - Ejercicio1:** En los canales 0, 6 y 7 se observa que la mayor actividad cerebral (mV) se da en los primeros segundos de la toma de datos, dado que se observa una mayor amplitud. Por otro lado, los canales 1, 4 y 5 registran mayor actividad cerebral en los segundos finales. Esto puede deberse a que en este ejercicio se le solicitó al participante que abra y cierra los ojos (y en este momento se le solicitó relajarse), teniendo de esta forma periodos de mayor actividad cerebral (ojos abiertos) y periodos con menor actividad cerebral (ojos cerrados). De acuerdo a un experimento realizado por Barry et al. [cita], en adultos jóvenes y niños, el estado de reposo con los ojos cerrados es uno de baja excitación EEG, y el cambio a los ojos abiertos implica principalmente un aumento de la excitación.[4]
 
 **Análisis en la frecuencia - Ejercicio1:** De acuerdo al espectro de la FFT, la mayor parte de la señal tiene frecuencias que oscilan entre los 0.1-100 Hz, lo cual corresponde a las ondas EEG conocidas. Sin embargo, se observan también picos en frecuencias altas que probablemente correspondan a artefactos.
  
@@ -229,7 +228,7 @@ Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a f
  <p align="center">
   <img width="500" height="400"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
 </p>
-  <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [cita]</p></em>
+  <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [5]</p></em>
    
    Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
 
@@ -237,5 +236,7 @@ Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a f
 ## Bibliografia
  
 [1] American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. doi:10.1097/00004691-199104000-00007
-(1) Fundamentals of EEG Signal Processing. EEG Signal Processing and Machine Learning. 2021;:77–113.
-
+[2]1.BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+[3]1.Open Source Tools for Neuroscience [Internet]. Openbci.com. 2023 [cited 2023 Apr 20]. Available from: https://openbci.com/?_gl=1*t5mspr*_ga*NDcwMDMwMzQzLjE2ODE4NjA4NzQ.*_ga_HVMLC0ZWWS*MTY4MTg2MDg3NC4xLjEuMTY4MTg2MDkxMC4yNC4wLjA.
+[4]R. J. Barry and F. M. De Blasio, “EEG differences between eyes-closed and eyes-open resting remain in healthy ageing,” vol. 129, pp. 293–304, 2017, doi: 10.1016/j.biopsycho.2017.09.010. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0301051117302454
+[5]Fundamentals of EEG Signal Processing. EEG Signal Processing and Machine Learning. 2021;:77–113.
