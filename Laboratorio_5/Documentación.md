@@ -20,7 +20,11 @@ En este laboratorio, utilizaremos principalmente el OpenBCI electrode cap, para 
 
 (imagenes)
 
-El EEG es una señal eléctrica generada por el cerebro, mas especifico por varias partes del cerebro, la cual puede ser utilizada para el diagnostico de ciertas patologias y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica. (creo que esto iria mejor en marco teorico)
+El EEG es una señal eléctrica generada por el cerebro, mas especifico por varias partes del cerebro, la cual puede ser utilizada para el diagnostico de ciertas patologias y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica. 
+
+Se graficaron estas señales de EEG, las cuales son la representación de las actividades neuronales. Además, son las integrales de los potenciales activos que se obtienen del cerebro con diversas latencias y poblaciones en todo instante de tiempo (1). Estas señales son dinámicas y no presentan un patrón definido. La adquisición de estas señales nos permite analizar el estado mental del usuario. Sin embargo, estas señales son complejas, no estacionarias y presentan ruido. Por lo tanto, para analizarlas se requiere un procesamiento de señal específico. 
+
+(creo que esto iria mejor en marco teorico)
 
 <h2 align="center">MARCO TEÓRICO</h2>
 
@@ -179,5 +183,5 @@ Una de las mas grandes diferencias entre la adquisicion de señales EEG en cuant
  
 ## Bibliografia
  
-1. 
+(1) Fundamentals of EEG Signal Processing. EEG Signal Processing and Machine Learning. 2021;:77–113.  
 
