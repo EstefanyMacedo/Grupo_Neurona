@@ -38,7 +38,7 @@ Esta señal se carácteiza por:
 Además, cabe mencionar que el análisis en frecuencia de este tipo de señal es fundamental, ya que nos ofrece más información que en el análisis en el tiempo. En el análisi den frecuencia podemos detectar la presencia de ondas Delta, Alpha, Beta y Gamma. Las cuales se pueden separar por ondas rápidas y ondas lentas. Las presencia de estas ondas nos indica una actividad cerebral específica. 
 
 <p align="center">
-  <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233340733-f3c1c307-53af-4fd1-8bc0-fa12df6a6666.png">
+  <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
 </p>
 <em><p align="center">Figura 2. Ondas cerebrales.</p></em>
 
@@ -94,14 +94,14 @@ Se le pidió al participante que abriera 5 segundos y cerrara los ojos, el mismo
  <video src="https://user-images.githubusercontent.com/128627158/233190763-8cbee2e9-f066-40b2-b163-09381bfdc946.mp4" width="400" height="400">
   </div>
  
-<em><p align="center">Ejercicio 1 medido con el OpenBCI</p></em>
+<em><p align="center">Ejercicio 1 medido con OpenBCI</p></em>
  
  <div align="center">
-    <video src="">
+    <video src="https://user-images.githubusercontent.com/128627158/233344519-4b325302-179a-4581-8910-0a7f7f5c02e7.mp4">
    
 </div>
  
-<em><p align="center">Ejercicio 1 medido con el BiTalino</p></em>
+<em><p align="center">Ejercicio 1 medido con BiTalino</p></em>
 
 ### Ejercicio 2: Ejercicios de razonamiento matemático
 
@@ -111,90 +111,93 @@ Durante este ejercicio se le presentaron 5 preguntas de razonamiento matemático
     <video src="https://user-images.githubusercontent.com/128627158/233207943-97a08def-e021-4a2a-a767-60c2f35d8237.mp4">
 </div>
  
- <em><p align="center">Ejercicio 2 medido con el OpenBCI</p></em>
+ <em><p align="center">Ejercicio 2 medido con OpenBCI</p></em>
  
  <div align="center">
     <video src="https://user-images.githubusercontent.com/128627158/233214573-0f65be6b-71d0-4c0d-a914-4ea86ec33c2e.mp4">
    
 </div>
  
-<em><p align="center">Ejercicio 2 medido con el BiTalino</p></em>
+<em><p align="center">Ejercicio 2 medido con BiTalino</p></em>
  
 ### Ejercicio 3: Exposición brusca a la luz
 Durante este ejercicio se le taparon los ojos al particiante durante 5 minutos y después se le sometió a un flash bruscamente. Cabe mencionar que el este ejercicio solo se realizó con el BiTalino.
 <div align="center">
-    <video src="https://user-images.githubusercontent.com/128627158/233213583-0278e03a-d092-4546-8363-64c821370249.mp4">
+    <video src="https://user-images.githubusercontent.com/128627158/233344898-ebf3e881-2bdd-49bd-806f-e80c1362fec6.mp4">
 </div>
-<em><p align="center">Ejercicio 3 medido con el BiTalino</p></em>
+<em><p align="center">Ejercicio 3 medido con BiTalino</p></em>
 
-<h2 align="center">RESULTADOS Y ANÁLISIS DE LA SEÑAL</h2>
+<h2 align="center">RESULTADOS Y ANÁLISIS/h2>
  
-### Resultados
-
-<em><h3>Análisis en el rango del tiempo</h3></em>
+<em><h3>Resultado en el rango del tiempo</h3></em>
 
 <h3 align="center">Resultados del ejercicio 1</h3>
 <p float="right">
   <img src="https://user-images.githubusercontent.com/128627158/233239858-04f0bdac-b309-4b31-811e-35556c5c4085.png" width="500" height="400"/>
   <img src="https://user-images.githubusercontent.com/128627158/233240094-04eb3750-6477-4b18-9b22-25f48b993640.png" width="500" height="400"/> 
 </p>
-<em><p align="center">Figura x x. Señal ploteada de los 8 canales de OpenBCI.</p></em>
+<em><p align="center">Figura 4-5. Señal obtenida de los 8 canales en el dominio del tiempo.</p></em>
 
  <p align="center">
-  <img width="700" height="500"src="">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/233356776-83dc409b-d3e4-4e7a-924c-bb485e0bd61b.png">
 </p>
-<em><p align="center">Figura x x. Señal ploteada en Opensignals.</p></em>
+<em><p align="center">Figura 6. Señal obtenida por BiTalino en el dominio deL tiempo.</p></em>
 
 <h3 align="center">Resultados del ejercicio 2</h3>
 <p float="right">
   <img src="https://user-images.githubusercontent.com/128627158/233242915-bcab816b-fa3f-4a84-8c4e-e6489937f55f.png" width="500" height="400"/>
   <img src="https://user-images.githubusercontent.com/128627158/233243160-a8da9313-12a3-46a2-a8f2-e282ffd9b054.png" width="500" height="400"/> 
 </p>
-<em><p align="center">Figura x x. Señal ploteada de los 8 canales de OpenBCI.</p></em>
+<em><p align="center">Figura 7-8. Señal obtenida de los 8 canales en el dominio del tiempo.</p></em>
+  
  <p align="center">
-  <img width="700" height="500"src="">
+  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/233356610-af8ab533-4a38-48d5-af93-e787b7a5d0a3.png">
 </p>
-<em><p align="center">Figura x x. Señal ploteada en Opensignals.</p></em>
+<em><p align="center">Figura 9. Señal obtenida por BiTalino en el dominio deL tiempo BiTalino.</p></em>
+  
 <h3 align="center">Resultados del ejercicio 3</h3>
- <p align="center">
-  <img width="700" height="500"src="">
+  
+<p float="right">
+  <img src="https://user-images.githubusercontent.com/128627158/233356293-03fc981e-9cde-4970-9782-791b82573722.png" width="500" height="400"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233357122-382934c4-f073-4e8a-91d8-8b8e2ff9d8f8.png" width="500" height="400"/> 
 </p>
-<em><p align="center">Figura x x. Señal ploteada en Opensignals.</p></em>
+<em><p align="center">Figura 10. Señal obtenida por BiTalino en el dominio deL tiempo</p></em>
 
 <em><h3>Análisis en el rango de la frecuencia</h3></em>
 
+Se relaizó la Transformada de Fourier a los canales con mayor información.
+  
 <h3 align="center">Resultados del ejercicio 1</h3>
- <p align="center">
-  <img width="800" height="500"src="https://user-images.githubusercontent.com/128627158/233244717-a7cc9790-5de0-4fdb-b8c7-9c0af6ce7f7f.png">
-</p>
-<em><p align="center">Datos procesados a través de Python. OpenBCI </p></em>
- <p align="center">
-  <img width="700" height="500"src="">
-</p>
-<em><p align="center">Datos graficados en Python. BiTalino</p></em>
+  
  <p float="right">
-  <img src="https://user-images.githubusercontent.com/128627158/233239858-04f0bdac-b309-4b31-811e-35556c5c4085.png" width="500" height="400"/>
-  <img src="https://user-images.githubusercontent.com/128627158/233240094-04eb3750-6477-4b18-9b22-25f48b993640.png" width="500" height="400"/> 
+  <img src="https://user-images.githubusercontent.com/128627158/233348959-5a2e9d0a-7a4d-4db9-9b85-c81e770b8803.png" width="500" height="600"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233351132-f3d15b4a-fcb9-4e79-a209-38e3e3cf12c9.png" width="500" height="600"/> 
 </p>
-Para este item se aplicó la Transformada de Fourier a los datos hallados en el dominio del tiempo
-<p align="center">
-  <img width="700" height="500"src="">
-</p>
-<em><p align="center">Datos procesados a través de Python. OpenBCI </p></em>
+<em><p align="center">Figura 11.Datos procesados a través de Python. OpenBCI </p></em>
+  
  <p align="center">
-  <img width="700" height="500"src="">
+  <img width="800" height="500"src="">
 </p>
-<em><p align="center">Datos graficados en Python. BiTalino</p></em>
+<em><p align="center">Figura 12. Datos procesados a través de Python. BiTalino </p></em> 
 
-<p align="center">
-  <img width="700" height="500"src="https://user-images.githubusercontent.com/128627158/231635768-e2e3bc1f-fea0-4493-a1b4-1fd46edc8fc4.png">
+<h3 align="center">Resultados del ejercicio 2</h3>
+  
+ <p float="right">
+  <img src="https://user-images.githubusercontent.com/128627158/233351686-6113e151-5f02-4ee8-a917-ac9c11f548ec.png" width="500" height="700"/>
+  <img src="https://user-images.githubusercontent.com/128627158/233355228-3f7f95d0-eff5-4adc-8bc8-e7769921f203.png" width="500" height="700"/> 
 </p>
-<em><p align="center">Transformada de Fourier del estado Basal.</p></em>
-
-</div>
-<em><p align="center">Toma de datos</p></em>
-
- 
+<em><p align="center">Figura 13. Datos procesados a través de Python. OpenBCI </p></em>
+  
+ <p align="center">
+  <img width="800" height="500"src="">
+</p>
+<em><p align="center">Figura 14. Datos procesados a través de Python. BiTalino </p></em>
+  
+ <h3 align="center">Resultados del ejercicio 3</h3>
+   <p align="center">
+  <img width="800" height="500"src="">
+</p>
+<em><p align="center">Figura 14. Datos procesados a través de Python. BiTalino </p></em> 
 
  <h2 align="center">CONCLUSIONES</h2>
  
@@ -224,7 +227,7 @@ Asimismo, como se mencionó en el análisis en frecuencia, se observan picos a f
  
  
  <p align="center">
-  <img width="300" height="300"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
+  <img width="500" height="400"src="https://user-images.githubusercontent.com/128627620/233263839-489245ae-1694-40df-9b07-78f6aabf2e27.png">
 </p>
   <em><p align="center">Tabla 1: Ondas EEG y estados cerebrales [cita]</p></em>
    
