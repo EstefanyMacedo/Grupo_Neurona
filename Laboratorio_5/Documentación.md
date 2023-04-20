@@ -16,7 +16,7 @@
 
 <h2 align="center">INTRODUCCIÓN </h2>
 
-En este laboratorio, utilizaremos principalmente el OpenBCI electrode cap, para extraer, medir y analizar señales encefalográficas (EEG). De la misma forma, realizaremos una comparación de la señal adquirida con el integrado de BiTalino para EEG y sacar conclusiones de acuerdo a diferentes estímulos a los cuales el sujeto de prueba será sometido.
+En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRACORTEX "MARK IV" EEG HEADSET con 8 canales y el dispositivo de adquisición de señales biomédicas, Bitalino. El objetivo fue familiarizarse con la adquisición, el análisis yla interpretación de señales EEG. Cada uno de los 8 canales se refiere a una ubicación específica en la cabeza, de acuerdo con el sistema internacional 10-20 utilizado para la colocación de electrodos en el cuero cabelludo [1]. La disposición de los electrodos permite la monitorización y registro de la actividad eléctrica del cerebro en diferentes áreas, lo que permite un análisis más detallado y una mayor precisión en la medición de las señales EEG.
 
 <p align="center">
   <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png">
