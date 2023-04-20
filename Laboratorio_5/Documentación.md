@@ -25,7 +25,7 @@ En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRA
 
 <h2 align="center">MARCO TEÓRICO</h2>
 
-### La señal de EEC:
+### La señal de EEG:
 
 El EEG es una señal eléctrica generada por el cerebro, más específico por varias partes del cerebro, la cual puede ser utilizada para el diagnóstico de ciertas patologías y transtornos neurodegenerativos. De ello radica la importancia de aprender, saber extraer y analizar señales EEG  para cualquier persona interesada en la medicina o la ingeniería biomédica. 
 
