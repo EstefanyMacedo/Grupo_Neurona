@@ -1,3 +1,4 @@
+$ cd ~/ISB/Laboratorios
 ## Generación de señales
 
 Carácterísticas y comparación:
