@@ -50,9 +50,8 @@ A continuacion mostraremos los resultados de las señales extraidas de nuestro d
 | Post-Ejercicio | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103704368429154425/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103707963354513471/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103708931810926704/image.png"> |
 
 </div>
-**IIR:** 
-<br>
- Se puede observar que ambos filtros muestran buenos resultados. En otros estudios se ha analizado el rendimiento de estos filtros para señales ECG: Guler et al. mostraron que los filtros IIR elípticos proporcionan una mayor atenuación de ruido en la banda de rechazo en comparación con los filtros Butterworth, pero también presentaron una mayor distorsión en la banda de paso [3]. Ye et al. mostraron que los filtros Butterworth son más adecuados para eliminar estos artefactos, mientras que los filtros elípticos pueden ser más adecuados para aplicaciones que requieren una alta precisión en la detección de eventos ECG [4]. Asimismo, Çiloglu et al. mostraron que los filtros elípticos proporcionaron una mayor precisión en la detección de arritmias en comparación con los filtros Butterworth [5].
+**IIR** 
+<br> Se puede observar que ambos filtros muestran buenos resultados. En otros estudios se ha analizado el rendimiento de estos filtros para señales ECG: Guler et al. mostraron que los filtros IIR elípticos proporcionan una mayor atenuación de ruido en la banda de rechazo en comparación con los filtros Butterworth, pero también presentaron una mayor distorsión en la banda de paso [3]. Ye et al. mostraron que los filtros Butterworth son más adecuados para eliminar estos artefactos, mientras que los filtros elípticos pueden ser más adecuados para aplicaciones que requieren una alta precisión en la detección de eventos ECG [4]. Asimismo, Çiloglu et al. mostraron que los filtros elípticos proporcionaron una mayor precisión en la detección de arritmias en comparación con los filtros Butterworth [5].
   
 </div>
        
