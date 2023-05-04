@@ -31,7 +31,16 @@ En el caso de los filtros FIR, para su diseño, se debe escoger la ventana aprop
 
 <h2 align="center">RESULTADOS</h2>
 A continuacion mostraremos los resultados de las señales extraidas de nuestro data-set (estado basal, sin respirar, y ejercicio),pasados mediante un filtro IIR de tipo butterworth.
+<div align="center">
 
+|   **Estado**   | **Señal cruda** |  **Filtro IIR: Butterworth**  | **Filtro IIR: Elíptica**  | **Filtro FIR: Hamming**  | **Filtro FIR: Blackman**  |
+|:-------------------:|:---------------:|:------------:|:------------:|:------------:|:------------:|
+| Basal | imagen | imagen | imagen | imagen | imagen |
+|      Aguantando la respiración    | imagen | imagen | imagen| imagen | imagen |
+| Post-Ejercicio | imagen | imagen | imagen| imagen | imagen |
+
+
+</div>
        
 
 <h2 align="center">Bibliografía</h2>
