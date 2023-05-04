@@ -31,15 +31,21 @@ En el caso de los filtros FIR, para su diseño, se debe escoger la ventana aprop
 <em><p align="center">Figura 2. Tipos de ventanas para el diseño de filtros digitales.</p></em>
 
 <h2 align="center">RESULTADOS</h2>
-A continuacion mostraremos los resultados de las señales extraidas de nuestro data-set (estado basal, sin respirar, y ejercicio),pasados mediante un filtro IIR de tipo butterworth.
+A continuacion mostraremos los resultados de las señales extraidas de nuestro data-set (estado basal, sin respirar, y ejercicio). Estas señales fueron pasadas por un filtro IIR de tipo butterworth y Eliptica. Además, más abajo se muestran los resultados de aplicar un filtro FIR de tipo Hamming y Blackman respectivamente. 
 <div align="center">
 
-|   **Estado**   | **Señal cruda** |  **Filtro IIR: Butterworth**  | **Filtro IIR: Elíptica**  | **Filtro FIR: Hamming**  | **Filtro FIR: Blackman**  |
-|:-------------------:|:---------------:|:------------:|:------------:|:------------:|:------------:|
+|   **Estado**   | **Señal cruda** |  **Filtro IIR: Butterworth**  | **Filtro IIR: Elíptica**  |
+|:-------------------:|:---------------:|:------------:|:------------:|
 | Basal | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103701538062479400/image.png">| <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103701720137216143/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103706165768110140/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103707818378412164/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103708799925239828/image.png"> |
 |      Aguantando la respiración    | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103702258400637020/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103702307809533972/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103706273901465711/image.png">| <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103707878247911494/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103708871148699720/image.png"> |
 | Post-Ejercicio | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103704368429154425/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103704444551573565/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103706333049532546/image.png">| <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103707963354513471/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103708931810926704/image.png"> |
 
+  
+|   **Estado**   | **Señal cruda** | **Filtro FIR: Hamming**  | **Filtro FIR: Blackman**  |
+|:-------------------:|:---------------:|:------------:|:------------:|
+| Basal | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103701538062479400/image.png">| <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103707818378412164/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103708799925239828/image.png"> |
+|      Aguantando la respiración    | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103702258400637020/image.png"> |  <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103707878247911494/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103708871148699720/image.png"> |
+| Post-Ejercicio | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103704368429154425/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103707963354513471/image.png"> | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103708931810926704/image.png"> |
 
 </div>
        
