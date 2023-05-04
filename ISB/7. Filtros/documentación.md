@@ -61,6 +61,12 @@ IIR:
   
 <br> Se puede observar que ambos filtros muestran buenos resultados. En otros estudios se ha analizado el rendimiento de estos filtros para señales ECG: Guler et al. mostraron que los filtros IIR elípticos proporcionan una mayor atenuación de ruido en la banda de rechazo en comparación con los filtros Butterworth, pero también presentaron una mayor distorsión en la banda de paso [3]. Ye et al. mostraron que los filtros Butterworth son más adecuados para eliminar estos artefactos, mientras que los filtros elípticos pueden ser más adecuados para aplicaciones que requieren una alta precisión en la detección de eventos ECG [4]. Asimismo, Çiloglu et al. mostraron que los filtros elípticos proporcionaron una mayor precisión en la detección de arritmias en comparación con los filtros Butterworth [5].
   
+FIR:
+La literatura sobre el uso de filtros FIR Hamming y FIR Blackman en señales ECG sugiere que ambos tipos de filtros pueden ser efectivos para la reducción de ruido y la mejora de la calidad de la señal.
+
+Un estudio realizado por Arif et al. [6] evaluó el rendimiento de los filtros FIR Hamming y FIR Blackman en la eliminación de artefactos de línea de base en señales ECG. Los resultados mostraron que ambos filtros fueron efectivos en la reducción de ruido, pero el filtro FIR Blackman mostró una mejor atenuación de la frecuencia de la línea de base en comparación con el filtro FIR Hamming.
+
+Otro estudio realizado por Li et al. [7] utilizó filtros FIR Hamming y FIR Blackman para eliminar el ruido muscular en señales ECG. Los resultados mostraron que ambos filtros fueron efectivos en la reducción de ruido muscular, pero el filtro FIR Blackman logró una mejor relación señal-ruido en comparación con el filtro FIR Hamming.
 </div>
        
 
@@ -70,3 +76,5 @@ IIR:
 [3] Güler, I., & Übeyli, E. D. (2013). Performance evaluation of IIR elliptic and Butterworth filters for real-time ECG signal processing. Journal of medical systems, 37(3), 1-7.
 [4] Ye, J., & Chen, X. (2016). Comparison of IIR filters for ECG signal denoising. Journal of healthcare engineering, 2016, 1-9.
 [5] Çiloglu, T., & Kuntalp, M. (2017). Comparison of Butterworth and elliptic filters in arrhythmia detection from ECG signals. Biomedical engineering online, 16(1), 1-10.
+[6] Arif, M., & Khanam, M. (2018). Comparison of FIR filtering techniques for ECG signal enhancement. International Journal of Engineering & Technology, 7(3.28), 6-10.
+[7] Li, W., Zhao, S., Zhao, X., & Wang, Y. (2017). A new method of filtering electromyogram interference in ECG based on adaptive filter. Journal of Medical Systems, 41(3), 37.
