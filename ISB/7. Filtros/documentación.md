@@ -31,6 +31,12 @@ En el caso de los filtros FIR, para su diseño, se debe escoger la ventana aprop
 </p>
 <em><p align="center">Figura 2. Tipos de ventanas para el diseño de filtros digitales.</p></em>
 
+Hamming y Blackman son ambas ventanas comúnmente usadas en el diseño de filtros FIR (respuesta finita al impulso). Aquí hay algunas diferencias entre los filtros FIR Hamming y Blackman:
+
+Ventana Hamming: Tiene un lóbulo principal más ancho y lóbulos laterales más pequeños que una ventana rectangular, lo que la convierte en una opción popular para muchas aplicaciones. La ventana Hamming también tiene una transición más suave desde la banda de paso hasta la banda de rechazo en comparación con la ventana rectangular, lo que resulta en una mejor atenuación de frecuencias no deseadas. Sin embargo, el lóbulo principal más ancho también significa que los filtros Hamming tienen una atenuación de banda de rechazo más baja en comparación con otras ventanas como Blackman.
+
+Ventana Blackman: Tiene un lóbulo principal más estrecho y lóbulos laterales más grandes que una ventana Hamming, lo que la hace más adecuada para aplicaciones que requieren una transición más aguda desde la banda de paso hasta la banda de rechazo. Las ventanas Blackman también tienen una atenuación de banda de rechazo más alta que las ventanas Hamming, lo que las convierte en una buena opción para aplicaciones que requieren una filtración más precisa. Sin embargo, los lóbulos laterales más grandes pueden provocar más distorsión en la señal filtrada en comparación con los filtros Hamming.
+
 <h2 align="center">RESULTADOS</h2>
 A continuacion mostraremos los resultados de las señales extraidas de nuestro data-set (estado basal, sin respirar, y ejercicio). Estas señales fueron pasadas por un filtro IIR de tipo butterworth y Eliptica. Además, más abajo se muestran los resultados de aplicar un filtro FIR de tipo Hamming y Blackman respectivamente. 
 <div align="center">
