@@ -18,5 +18,5 @@ Luego, definimos el filtro con la función butter, especificando el tipo de filt
 
 
 <h2 align="center">Bibliografía</h2>
-[1] Raja, R. and Rajaguru, R., "A Comparative Study of IIR and FIR Filters for ECG Signal Processing," International Journal of Engineering Science and Computing, vol. 6, no. 6, pp. 7128-7133, 2016. Available: https://www.ijesc.org/upload/b17f3cdd290a5e5f0328795f2a5a4c4d.A%20Comparative%20Study%20of%20IIR%20and%20FIR%20Filters%20for%20ECG%20Signal%20Processing.pdf   
-[2] Li, Y., Li, Z., Zhang, H., Wang, Y. and Yang, Z., "Comparison of ECG Signal Filtering Methods," Proceedings of the 2015 IEEE International Conference on Signal Processing, Communications and Computing, pp. 1-5, 2015. Available: https://ieeexplore.ieee.org/document/7312973 
+1- Raja, R. and Rajaguru, R., "A Comparative Study of IIR and FIR Filters for ECG Signal Processing," International Journal of Engineering Science and Computing, vol. 6, no. 6, pp. 7128-7133, 2016. Available: https://www.ijesc.org/upload/b17f3cdd290a5e5f0328795f2a5a4c4d.A%20Comparative%20Study%20of%20IIR%20and%20FIR%20Filters%20for%20ECG%20Signal%20Processing.pdf   
+2- Li, Y., Li, Z., Zhang, H., Wang, Y. and Yang, Z., "Comparison of ECG Signal Filtering Methods," Proceedings of the 2015 IEEE International Conference on Signal Processing, Communications and Computing, pp. 1-5, 2015. Available: https://ieeexplore.ieee.org/document/7312973 
