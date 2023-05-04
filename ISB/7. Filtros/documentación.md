@@ -30,13 +30,15 @@ En el caso de los filtros FIR, para su diseño, se debe escoger la ventana aprop
 <em><p align="center">Figura 2. Tipos de ventanas para el diseño de filtros digitales.</p></em>
 
 <h2 align="center">RESULTADOS</h2>
-A continuacion mostraremos los Resultados Para las señales extraidas de nuestro data-set (estado basal, sin-respirar, y ejercicio), los cuales fueron filtrados mediante un filtro IIR de tipo butterworth.
+A continuacion mostraremos los resultados de las señales extraidas de nuestro data-set (estado basal, sin respirar, y ejercicio),pasados mediante un filtro IIR de tipo butterworth.
 
 <h2 align="left">Basal</h2>
-
+       <img width="600" height="400"src=[Filtro_IIR_butterworth_basal](https://user-images.githubusercontent.com/43081287/236096605-f69ea46e-8744-42fe-b7d5-f0afb9b0f573.jpg)
 <h2 align="left">Sin-respirar</h2>
+        <img width="600" height="400"src=[Filtro_IIR_butterworth_respi](https://user-images.githubusercontent.com/43081287/236096704-f3023b5f-6c1e-4e1b-9b0c-e311ba4b2326.jpg)
 
 <h2 align="left">Ejercicio</h2>
+        <img width="600" height="400"src=[Filtro_IIR_butterworth_ejer](https://user-images.githubusercontent.com/43081287/236096776-87f47b4e-ea4d-43dd-9ba9-b3a3341d61e2.jpg)
 
 <h2 align="center">Bibliografía</h2>
 [1] Raja, R. and Rajaguru, R., "A Comparative Study of IIR and FIR Filters for ECG Signal Processing," International Journal of Engineering Science and Computing, vol. 6, no. 6, pp. 7128-7133, 2016. Available: https://www.ijesc.org/upload/b17f3cdd290a5e5f0328795f2a5a4c4d.A%20Comparative%20Study%20of%20IIR%20and%20FIR%20Filters%20for%20ECG%20Signal%20Processing.pdf   
