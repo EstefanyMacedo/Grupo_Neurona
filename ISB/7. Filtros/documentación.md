@@ -32,12 +32,6 @@ En el caso de los filtros FIR, para su diseño, se debe escoger la ventana aprop
 <h2 align="center">RESULTADOS</h2>
 A continuacion mostraremos los resultados de las señales extraidas de nuestro data-set (estado basal, sin respirar, y ejercicio),pasados mediante un filtro IIR de tipo butterworth.
 
-<h2 align="left">Basal</h2>
-       
-<h2 align="left">Sin-respirar</h2>
-        
-
-<h2 align="left">Ejercicio</h2>
        
 
 <h2 align="center">Bibliografía</h2>
