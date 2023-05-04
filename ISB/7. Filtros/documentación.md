@@ -4,7 +4,7 @@
 Es posible elegir diferentes tipos de filtros analógicos como los que se muestran en la Figura 1. Cada uno de estos es elegido respecto a las características deseadas de la salida como el rizado máximo o mínimo, atenuación, tamaño de la banda de transición o propiedades específicas de cada filtro.
 
 <p align="center">
-  <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png](https://user-images.githubusercontent.com/128627312/236081055-a75a374e-5e0c-4370-bfc1-372ce90d89ee.png">
+  <img width="350" height="400"src="https://user-images.githubusercontent.com/128627312/236081055-a75a374e-5e0c-4370-bfc1-372ce90d89ee.png">
 </p>
 <em><p align="center">Figura 1. Tipos de filtros digitales.</p></em>
 
@@ -25,7 +25,7 @@ Luego, definimos el filtro con la función butter, especificando el tipo de filt
 En el caso de los filtros FIR, para su diseño, se debe escoger la ventana apropiada para su desarrollo. Los tipos de ventanas se muestran en la Figura 2. Es posible inferir que la ventana rectangular engloba más valores que el resto de ventana.
 
 <p align="center">
-  <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png](https://user-images.githubusercontent.com/128627312/236081055-a75a374e-5e0c-4370-bfc1-372ce90d89ee.png)](https://user-images.githubusercontent.com/128627312/236081059-e05caf58-ac57-443f-881d-7bfbc9a16605.png">
+  <img width="600" height="400"src="https://user-images.githubusercontent.com/128627312/236081059-e05caf58-ac57-443f-881d-7bfbc9a16605.png">
 </p>
 <em><p align="center">Figura 2. Tipos de ventanas para el diseño de filtros digitales.</p></em>
 
