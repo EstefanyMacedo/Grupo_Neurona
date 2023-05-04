@@ -36,7 +36,7 @@ A continuacion mostraremos los resultados de las señales extraidas de nuestro d
 
 |   **Estado**   | **Señal cruda** |  **Filtro IIR: Butterworth**  | **Filtro IIR: Elíptica**  | **Filtro FIR: Hamming**  | **Filtro FIR: Blackman**  |
 |:-------------------:|:---------------:|:------------:|:------------:|:------------:|:------------:|
-| Basal | <img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">| imagen | imagen | imagen | imagen |
+| Basal | <img width="200" height="150" src="https://cdn.discordapp.com/attachments/781169694949244932/1103700439763013733/basal_original.jpg">| imagen | imagen | imagen | imagen |
 |      Aguantando la respiración    | imagen | imagen | imagen| imagen | imagen |
 | Post-Ejercicio | imagen | imagen | imagen| imagen | imagen |
 
