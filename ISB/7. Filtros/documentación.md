@@ -27,7 +27,7 @@ En el caso de los filtros FIR, para su diseño, se debe escoger la ventana aprop
 <p align="center">
   <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png](https://user-images.githubusercontent.com/128627312/236081055-a75a374e-5e0c-4370-bfc1-372ce90d89ee.png)](https://user-images.githubusercontent.com/128627312/236081059-e05caf58-ac57-443f-881d-7bfbc9a16605.png">
 </p>
-<em><p align="center">Figura 1. Tipos de filtros digitales.</p></em>
+<em><p align="center">Figura 2. Tipos de ventanas para el diseño de filtros digitales.</p></em>
 
 <h2 align="center">Bibliografía</h2>
 [1] Raja, R. and Rajaguru, R., "A Comparative Study of IIR and FIR Filters for ECG Signal Processing," International Journal of Engineering Science and Computing, vol. 6, no. 6, pp. 7128-7133, 2016. Available: https://www.ijesc.org/upload/b17f3cdd290a5e5f0328795f2a5a4c4d.A%20Comparative%20Study%20of%20IIR%20and%20FIR%20Filters%20for%20ECG%20Signal%20Processing.pdf   
