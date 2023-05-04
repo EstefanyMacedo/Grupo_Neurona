@@ -3,6 +3,10 @@
 <h2 align="center">FILTRO IIR</h2>
 Es posible elegir diferentes tipos de filtros analógicos como los que se muestran en la Figura 1. Cada uno de estos es elegido respecto a las características deseadas de la salida como el rizado máximo o mínimo, atenuación, tamaño de la banda de transición o propiedades específicas de cada filtro.
 
+<p align="center">
+  <img width="600" height="400"src="[https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png](https://user-images.githubusercontent.com/128627312/236081055-a75a374e-5e0c-4370-bfc1-372ce90d89ee.png)">
+</p>
+<em><p align="center">Figura 1. Tipos de filtros digitales.</p></em>
 
 Se eligió un filtro Butterworth para filtrar las señales ECG debido a su respuesta en frecuencia suave y fase lineal. A continuación se presenta algunas de sus ventajas para esta aplicación [1][2]:
 
