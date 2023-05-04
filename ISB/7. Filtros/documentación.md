@@ -3,7 +3,7 @@
 <h2 align="center">FILTRO IIR</h2>
 Se eligió un filtro Butterworth para filtrar las señales ECG debido a su respuesta en frecuencia suave y fase lineal. A continuación se presenta algunas de sus ventajas para esta aplicación [1][2]:
 
--Respuesta en frecuencia suave: El filtro Butterworth tiene una respuesta en frecuencia plana dentro de su banda de paso, lo que significa que atenúa las frecuencias fuera de la banda de paso suavemente y sin ondulaciones. Esto lo convierte en una buena opción para filtrar señales de ECG ya que la banda de paso contiene componentes de frecuencia importantes que deben ser preservados mientras se atenúan las frecuencias no deseadas.
+- Respuesta en frecuencia suave: El filtro Butterworth tiene una respuesta en frecuencia plana dentro de su banda de paso, lo que significa que atenúa las frecuencias fuera de la banda de paso suavemente y sin ondulaciones. Esto lo convierte en una buena opción para filtrar señales de ECG ya que la banda de paso contiene componentes de frecuencia importantes que deben ser preservados mientras se atenúan las frecuencias no deseadas.
 
 - Respuesta de fase lineal: El filtro Butterworth tiene una respuesta de fase lineal, lo que significa que introduce un retardo constante a todos los componentes de frecuencia de la señal. Esto es deseable para señales de ECG ya que preserva la forma de la señal y no distorsiona la forma de onda.
 
