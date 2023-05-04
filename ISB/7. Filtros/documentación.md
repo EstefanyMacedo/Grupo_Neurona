@@ -62,7 +62,7 @@ IIR:
 <br> Se puede observar que ambos filtros muestran buenos resultados. En otros estudios se ha analizado el rendimiento de estos filtros para señales ECG: Guler et al. mostraron que los filtros IIR elípticos proporcionan una mayor atenuación de ruido en la banda de rechazo en comparación con los filtros Butterworth, pero también presentaron una mayor distorsión en la banda de paso [3]. Ye et al. mostraron que los filtros Butterworth son más adecuados para eliminar estos artefactos, mientras que los filtros elípticos pueden ser más adecuados para aplicaciones que requieren una alta precisión en la detección de eventos ECG [4]. Asimismo, Çiloglu et al. mostraron que los filtros elípticos proporcionaron una mayor precisión en la detección de arritmias en comparación con los filtros Butterworth [5].
   
 FIR:
-La literatura sobre el uso de filtros FIR Hamming y FIR Blackman en señales ECG sugiere que ambos tipos de filtros pueden ser efectivos para la reducción de ruido y la mejora de la calidad de la señal.
+<br> La literatura sobre el uso de filtros FIR Hamming y FIR Blackman en señales ECG sugiere que ambos tipos de filtros pueden ser efectivos para la reducción de ruido y la mejora de la calidad de la señal.
 
 Un estudio realizado por Arif et al. [6] evaluó el rendimiento de los filtros FIR Hamming y FIR Blackman en la eliminación de artefactos de línea de base en señales ECG. Los resultados mostraron que ambos filtros fueron efectivos en la reducción de ruido, pero el filtro FIR Blackman mostró una mejor atenuación de la frecuencia de la línea de base en comparación con el filtro FIR Hamming.
 
