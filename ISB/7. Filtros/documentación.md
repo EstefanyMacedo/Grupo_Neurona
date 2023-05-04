@@ -21,6 +21,7 @@ Para el diseño del filtro IIR, empleamos la función buttord de la librería sc
 
 Luego, definimos el filtro con la función butter, especificando el tipo de filtro, el cual en este caso, se trata de un filtro pasabajas. Asimismo, el parámetro analog se define como True, ya que esto nos permite diseñar un filtro analógico. El filtro diseñado se puede encontrar en los archivos.
 
+
 <h2 align="center">FILTRO FIR</h2>
 En el caso de los filtros FIR, para su diseño, se debe escoger la ventana apropiada para su desarrollo. Los tipos de ventanas se muestran en la Figura 2. Es posible inferir que la ventana rectangular engloba más valores que el resto de ventana.
 
@@ -35,7 +36,7 @@ A continuacion mostraremos los resultados de las señales extraidas de nuestro d
 
 |   **Estado**   | **Señal cruda** |  **Filtro IIR: Butterworth**  | **Filtro IIR: Elíptica**  | **Filtro FIR: Hamming**  | **Filtro FIR: Blackman**  |
 |:-------------------:|:---------------:|:------------:|:------------:|:------------:|:------------:|
-| Basal | imagen | imagen | imagen | imagen | imagen |
+| Basal | <img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">| imagen | imagen | imagen | imagen |
 |      Aguantando la respiración    | imagen | imagen | imagen| imagen | imagen |
 | Post-Ejercicio | imagen | imagen | imagen| imagen | imagen |
 
