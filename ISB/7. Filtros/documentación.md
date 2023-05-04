@@ -6,7 +6,7 @@ Es posible elegir diferentes tipos de filtros analógicos como los que se muestr
 <p align="center">
   <img width="350" height="400"src="https://user-images.githubusercontent.com/128627312/236081059-e05caf58-ac57-443f-881d-7bfbc9a16605.png">
 </p>
-<em><p align="center">Figura 1. Tipos de filtros digitales.</p></em>
+<em><p align="center">Figura 1. Tipos de filtros electrónicos.</p></em>
 
 Se eligió un filtro Butterworth para filtrar las señales ECG debido a su respuesta en frecuencia suave y fase lineal. A continuación se presenta algunas de sus ventajas para esta aplicación [1][2]:
 
