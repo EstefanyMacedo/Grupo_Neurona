@@ -1,36 +1,33 @@
 <h1 align="center">INTRODUCCIÓN A IA</h1>
+El objetivo de esta experiencia del laboratorio es entrenar a una Inteligencia Artificial con la finalidad de que nos ayude a clasificar y distinguir data. El tipo información que se puede procesar puede variar desde imágenes hasta señales eléctricas de EEG, es por eso que se pensó en el uso del Arduino Tiny Machine Learning Kit en conjunto al software Edge Impulse, ya que nos permite conectar distintos sensores. Sin embargo; por motivos de instalación, conexión y lentitud de la propia cámara del kit no se pudo realizar, pero en su lugar se entrenó el software "Teachable machine"  para que el reconocimiento y diferenciación de tres objetos.
 
-## Tabla de contenidos
+### Parámetros de entrenamiento
 
-+ [Introducción](url)
-+ [Interpretación y conclusiones](url)
+<p align="center">
+  <img width="300" height="600"src="https://github.com/EstefanyMacedo/Grupo_Neurona/assets/128627158/4c5113ea-f24c-4182-94ed-e1486ec67a86">
+</p>
 
-<H2 align="center">INTRODUCCIÓN</h2>
-La electroencefalografía (EEG) es una técnica de registro de los potenciales eléctricos generados por las sinapsis de las neuronas y por lo tanto monitorear la actividad cerebral. Comúnmente, para la adquisición de señales EEG para su uso clínico y académico se utilizan electrodos de superficie, los cuales son colocados sobre el cuero cabelludo del paciente/participante normalmente apoyados por gel conductor o solución salina.
+<p align="center">
+  <img width="400" height="400"src="https://github.com/EstefanyMacedo/Grupo_Neurona/assets/128627158/6ea77d4a-4f59-444d-a742-861c596580c2">
+</p>
 
-### La señal de EEG
+### Primer objeto
+<p align="center">
+  <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
+</p>
 
-Esta señal se carácteiza por:
-* Ser dinámica
-* Existe una simetría entre ambos hemisferios(izquierdo y derecho) 
-* No presentar algún patrón en la señal
-* Presentar muscho ruido y artefactos
 
-Además, cabe mencionar que el análisis en frecuencia de este tipo de señal es fundamental, ya que nos ofrece más información que en el análisis en el tiempo. En el análisi den frecuencia podemos detectar la presencia de ondas Delta, Alpha, Beta y Gamma. Las cuales se pueden separar por ondas rápidas y ondas lentas. Las presencia de estas ondas nos indica una actividad cerebral específica.
+### Segundo objeto
+<p align="center">
+  <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
+</p>
+
+
+### Tercer objeto
 
 <p align="center">
   <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
 </p>
-<em><p align="center">Figura 1. Ondas cerebrales.</p></em>
 
-<H2 align="center">INTERPRETACIÓN Y CONCLUSIONES</h2>
-Es de suma importancia determinar una buena frecuencia de muestreo y cantidad de muestras, ya que las ondas EEG al no tener un patrón característico inclusive para la misma persona y picos muchas veces muy juntos, puede alterar en la visualización de las ondas respectivas y su posterior análisis 
 
-Luego del filtrado respectivo a los diferentes canales de la adquisición, se realizó la obtención de las ondas alpha y beta respectivamente para diferentes canales utilizando una frecuencia de corte adecuada para cada una, con lo cual se puede concluir que mediante un buen filtrado de la señal estas ondas pueden ser obtenidas y  caracterizadas conociendo el estándar y patrón de amplitud de las mismas para poder compararlas.
-
-Al obtener las ondas alpha y beta y realizar el análisis en frecuencia, se puede observar en las gráficas, como para las frecuencias específicas para cada una se cumplen de acorde a lo mencionado en teoría ( ALPHA: (8-13 Hz). BETA: (13-25 Hz) )
-
-<p align="center">
-  <img width="600" height="400"src="https://media.discordapp.net/attachments/781169694949244932/1114645602882551959/image.png?width=587&height=356">
-</p>
-<em><p align="center">Figura 2. FFT canal 3 con solo la onda alfa</p></em>
+<H2 align="center">VÍDEO</h2>
