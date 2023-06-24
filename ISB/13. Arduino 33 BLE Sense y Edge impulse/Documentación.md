@@ -21,3 +21,6 @@ El objetivo de esta experiencia del laboratorio es entrenar a una Inteligencia A
 <p align="center">
   <img width="400" height="600"src="https://media.discordapp.net/attachments/781169694949244932/1121992652678774885/image.png?width=319&height=683">
 </p>
+
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hf1DjXajRi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
