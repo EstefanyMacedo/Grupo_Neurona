@@ -13,21 +13,11 @@ El objetivo de esta experiencia del laboratorio es entrenar a una Inteligencia A
 
 ### Primer objeto
 <p align="center">
-  <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
+  <img width="400" height="600"src="https://media.discordapp.net/attachments/781169694949244932/1121992536349741066/image.png?width=305&height=682">
 </p>
 
 
 ### Segundo objeto
 <p align="center">
-  <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
+  <img width="400" height="600"src="https://media.discordapp.net/attachments/781169694949244932/1121992652678774885/image.png?width=319&height=683">
 </p>
-
-
-### Tercer objeto
-
-<p align="center">
-  <img width="600" height="400"src="https://images.squarespace-cdn.com/content/v1/5908027c20099e374ad3d70e/1502177644442-PG1ZBJAESW2J2FQ20V1E/eeg-waves-normal?format=1000w">
-</p>
-
-
-<H2 align="center">VÍDEO</h2>
