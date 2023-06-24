@@ -1,4 +1,4 @@
-<h1 align="center">RECOLECCIÓN DE SEÑALES ELECTROCARDIOGRÁFICAS</h1>
+<h1 align="center">INTRODUCCIÓN A IA</h1>
 
 ## Tabla de contenidos
 
