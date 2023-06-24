@@ -23,4 +23,7 @@ El objetivo de esta experiencia del laboratorio es entrenar a una Inteligencia A
 </p>
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hf1DjXajRi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://github.com/EstefanyMacedo/Grupo_Neurona/assets/128627158/dd682cc4-b688-42be-be4d-f4a966f0fe93
+
