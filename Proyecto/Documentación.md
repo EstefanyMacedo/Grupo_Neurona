@@ -2,15 +2,18 @@
 <h1 align="center">Fortaleciendo las interacciones de individuos con síndrome de enclaustramiento a través de interfaces cerebro-computadora de imágenes motoras basadas en EEG</h1>
 
 ## Tabla de contenidos
-+ [¿QUIÉNES SOMOS?])()
++ [¿QUIÉNES SOMOS?]()
 + [RESUMEN]()
 + [MOTIVACIÓN]()
 + [PRINCIPALES HALLAZGOS]()
   
 <h2 align="center">RESUMEN</h2>
 
-En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRACORTEX "MARK IV" EEG HEADSET con 8 canales y el dispositivo de adquisición de señales biomédicas, Bitalino. El objetivo fue familiarizarse con la adquisición, el análisis y la interpretación de señales EEG. Cada uno de los 8 canales se refiere a una ubicación específica en la cabeza, de acuerdo con el sistema internacional 10-20 utilizado para la colocación de electrodos en el cuero cabelludo [1]. La disposición de los electrodos permite la monitorización y registro de la actividad eléctrica del cerebro en diferentes áreas, lo que permite un análisis más detallado y una mayor precisión en la medición de las señales EEG.
-
+El síndrome de enclaustramiento (LIS) se caracteriza por el estado consciente de una persona sin la capacidad de expresarse físicamente. Esta condición, que presenta una alta complejidad y dificultades en su diagnóstico preciso, carece actualmente de una cura o tratamiento estándar efectivo. La rareza del síndrome y la falta de eficiencia en el diagnóstico dificultan la determinación precisa de su prevalencia. Las personas que padecen de LIS experimentan una amplia gama de limitaciones, incluida la pérdida de movimiento voluntario y comunicación, manteniendo al mismo tiempo la conciencia y las capacidades cognitivas intactas.
+La electroencefalografía (EEG) es una técnica utilizada para analizar y estudiar la actividad eléctrica del cerebro, en la cual  las señales son obtenidas mediante la aplicación de electrodos en el cuero cabelludo y son transferidas a una computadora para su posterior procesamiento y análisis.
+La adquisición de señales EEG se ha propuesto como un método para facilitar la interacción en pacientes con síndrome de enclaustramiento, utilizando únicamente la actividad cerebran. 
+Hasta la actualidad si bien se han desarrollado diversas tecnologías y estrategias para ayudar a las personas con síndrome de enclaustramiento a comunicarse y conectarse con el mundo exterior, como dispositivos de comunicación alternativa y aumentativa (CAA) o la detección de patrones de actividad cerebral y rehabilitación intensiva, las personas con este síndrome  aún pueden enfrentar desafíos significativos para comunicarse y participar plenamente en la vida cotidiana, requiriendo a menudo un equipo interdisciplinario de profesionales de la salud para atender sus necesidades. Por lo tanto, en este artículo se plantea el estudio de la posible aplicación de motor imaging (MI) para la movilización de una silla de ruedas para las personas con LIS.
+Debido a la alerta, la conciencia, y la principal limitación de movimiento por parte de las personas que sufren del síndrome de enclaustramiento,  varios autores han identificado la necesidad de establecer una base de comunicación para estos pacientes.
 <p align="center">
   <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png">
 </p>
