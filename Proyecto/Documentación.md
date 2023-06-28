@@ -1,20 +1,13 @@
-<h1 align="center">RECOLECCIÓN DE SEÑALES ELECTROENCEFALOGRAFÍAS</h1>
+<h1 align="center">Enhancing Interactions with Locked-In Syndrome Individuals through EEG-Based Motor-Imagery Brain-Computer Interfaces</h1>
+<h1 align="center">Fortaleciendo las interacciones de individuos con síndrome de enclaustramiento a través de interfaces cerebro-computadora de imágenes motoras basadas en EEG</h1>
 
 ## Tabla de contenidos
-
-+ [Introducción](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#introducci%C3%B3n-)
-+ [Marco Teórico](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#marco-te%C3%B3rico)
-+ [Materiales](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#materiales)
-+ [Desarrollo del laboratorio](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#desarrollo-del-laboratorio)
-+ [Posicionamiento de electrodos](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#posicionamiento-de-electrodos)
-+ [Toma de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#toma-de-la-se%C3%B1al)
-+ [Resultados y análisis de la señal](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#resultados-y-an%C3%A1lisish2)
-+ [Conclusiones](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#conclusiones)
-+ [Archivos](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Archivos)
-+ [Bibliografía](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Laboratorio_5/Documentaci%C3%B3n.md#bibliografia)
-
-
-<h2 align="center">INTRODUCCIÓN </h2>
++ [¿QUIÉNES SOMOS?])()
++ [RESUMEN]()
++ [MOTIVACIÓN]()
++ [PRINCIPALES HALLAZGOS]()
+  
+<h2 align="center">RESUMEN</h2>
 
 En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRACORTEX "MARK IV" EEG HEADSET con 8 canales y el dispositivo de adquisición de señales biomédicas, Bitalino. El objetivo fue familiarizarse con la adquisición, el análisis y la interpretación de señales EEG. Cada uno de los 8 canales se refiere a una ubicación específica en la cabeza, de acuerdo con el sistema internacional 10-20 utilizado para la colocación de electrodos en el cuero cabelludo [1]. La disposición de los electrodos permite la monitorización y registro de la actividad eléctrica del cerebro en diferentes áreas, lo que permite un análisis más detallado y una mayor precisión en la medición de las señales EEG.
 
@@ -23,7 +16,7 @@ En este laboratorio se adquirieron y observaron señales EEG utilizando el ULTRA
 </p>
 <em><p align="center">Figura 1. Ubicación de headset para la obtención de señales de EEG.</p></em>
 
-<h2 align="center">MARCO TEÓRICO</h2>
+<h2 align="center">MOTIVACIÓN</h2>
 
 La electroencefalografía (EEG) es una técnica de registro de los potenciales eléctricos generados por las sinapsis de las neuronas y por lo tanto monitorear la actividad cerebral. Comúnmente, para la adquisición de señales EEG para su uso clínico y académico se utilizan electrodos de superficie, los cuales son colocados sobre el cuero cabelludo del paciente/participante normalmente apoyados por gel conductor o solución salina.
 
@@ -45,7 +38,7 @@ Además, cabe mencionar que el análisis en frecuencia de este tipo de señal es
 ### Transformada rápida de Fourier (FFT)
 La transformada rápida de Fourier es una herramienta que nos permite conocer qué frecuencias de onda sinusoidal componen una señal. La FFT convierte una señal en componentes espectrales individuales y, por lo tanto, proporciona información de frecuencia sobre la señal [3]. Es por ello que se aplicó la transformada rápida de Fourier a las señales adquiridas.
 
-<h2 align="center">MATERIALES</h2>
+<h2 align="center">PRINCIPALES HALLAZGOS</h2>
 
 <div align="center">
 
