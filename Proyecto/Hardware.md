@@ -1,4 +1,4 @@
-<h2 align="center">PRINCIPALES HALLAZGOS</h2>
+<h2 align="center">MATERIALES</h2>
 
 <div align="center">
 
