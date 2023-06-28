@@ -4,8 +4,8 @@
 
 |   **Dispositivo**   | **Descripción** |  **Imagen**  |
 |:-------------------:|:---------------:|:------------:|
-| BiTalino | Kit de desarrollo de bajo costo que permite medir diferentes señales biomédicas |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
-|       Electrodos      | Dispositivos que se utilizan para medir la actividad eléctrica de los tejidos biológicos. Se colocan en la superficie de la piel y detectan la actividad eléctrica |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">|
+| Computadora | Para la captación y procesamiento de imágenes |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231564649-f925e135-93c4-434d-85a4-03b62ff1b628.jpg">|
+| Imágenes de flechas | Se usaron para indicar al sujeto el tipo de pensamiento |<img width="200" height="150" src="https://user-images.githubusercontent.com/128627158/231566660-9f4676ba-484a-43a2-9236-3595947a1528.jpg">|
 | OpenBCI electrode cap | Es un arreglo de electrodos en forma de casco que permite la toma de señales electroencefálicas. Además de contar con su propio software|<img width="200" height="150" src="https://cdn.shopify.com/s/files/1/0613/9353/products/DSC03020FT.jpg?v=1620934768">|
 | Unidades puntiagudas | Electrodos secos (en punta) para ser instalados en los nodos de Ultracortex en partes con cabello|<img width="200" height="150" src="https://docs.openbci.com/assets/images/SpikeyUnits8chan-99e7144f670927d32101ecc9b538934f.JPG">|
 | Unidades planas | Electrodos secos (no puntiagudos) para instalar en nodos de Ultracortex sin pelo (por ejemplo en la frente)|<img width="200" height="150" src="https://docs.openbci.com/assets/images/FlatUnits-df330d4b23f905cb642cb423443865a6.JPG">|
