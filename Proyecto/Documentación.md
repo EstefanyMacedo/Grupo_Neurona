@@ -4,7 +4,7 @@
 ## Tabla de contenidos
 + [¿QUIÉNES SOMOS?](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/ISB/Sobre%20notros.md#grupo-neurona-)
 + [RESUMEN](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Proyecto/Documentaci%C3%B3n.md#resumen)
-+ [MOTIVACIÓN]()
++ [MOTIVACIÓN](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/Proyecto/Documentaci%C3%B3n.md#motivaci%C3%B3n)
 + [PRINCIPALES HALLAZGOS]()
   
 <h2 align="center">RESUMEN</h2>
