@@ -2,10 +2,10 @@
 <h1 align="center">Fortaleciendo las interacciones de individuos con síndrome de enclaustramiento a través de interfaces cerebro-computadora de imágenes motoras basadas en EEG</h1>
 
 ## Tabla de contenidos
-+ [¿QUIÉNES SOMOS?]()
-+ [RESUMEN]()
-+ [MOTIVACIÓN]()
-+ [PRINCIPALES HALLAZGOS]()
++ [¿QUIÉNES SOMOS?](https://github.com/EstefanyMacedo/Grupo_Neurona/blob/main/ISB/Sobre%20notros.md#grupo-neurona-)
++ [RESUMEN](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Proyecto/Documentaci%C3%B3n.md#resumen)
++ [MOTIVACIÓN](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Proyecto/Documentaci%C3%B3n.md#motivaci%C3%B3n)
++ [PRINCIPALES HALLAZGOS](https://github.com/EstefanyMacedo/Grupo_Neurona/edit/main/Proyecto/Documentaci%C3%B3n.md#principales-hallazgos)
   
 <h2 align="center">RESUMEN</h2>
 
@@ -14,6 +14,7 @@ La electroencefalografía (EEG) es una técnica utilizada para analizar y estudi
 La adquisición de señales EEG se ha propuesto como un método para facilitar la interacción en pacientes con síndrome de enclaustramiento, utilizando únicamente la actividad cerebran. 
 Hasta la actualidad si bien se han desarrollado diversas tecnologías y estrategias para ayudar a las personas con síndrome de enclaustramiento a comunicarse y conectarse con el mundo exterior, como dispositivos de comunicación alternativa y aumentativa (CAA) o la detección de patrones de actividad cerebral y rehabilitación intensiva, las personas con este síndrome  aún pueden enfrentar desafíos significativos para comunicarse y participar plenamente en la vida cotidiana, requiriendo a menudo un equipo interdisciplinario de profesionales de la salud para atender sus necesidades. Por lo tanto, en este artículo se plantea el estudio de la posible aplicación de motor imaging (MI) para la movilización de una silla de ruedas para las personas con LIS.
 Debido a la alerta, la conciencia, y la principal limitación de movimiento por parte de las personas que sufren del síndrome de enclaustramiento,  varios autores han identificado la necesidad de establecer una base de comunicación para estos pacientes.
+
 <p align="center">
   <img width="600" height="400"src="https://user-images.githubusercontent.com/128627158/233237767-3f27330d-8e68-4977-8516-4371c0a68785.png">
 </p>
