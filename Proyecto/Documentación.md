@@ -42,21 +42,15 @@ La investigación de interfaces cerebro-computadora para el control mediante la 
 
 <h2 align="center">PRINCIPALES HALLAZGOS</h2>
 
+Se plante ́o analizar las diferencias de las ondas neuronales en cada actividad realizada por el sujeto. Se obtuvieron diferencias en los resultados gracias a los análisis en frecuencia y en tiempo. En el caso del an ́alisis en el tiempo, estas diferencias resultaron significativas en el an ́alisis de Densidad espectral,
+Potencia y en la transformada de Wavelet Morlet. El análisis en frecuencia, usando la FFT, nos permiti ́o verificar el correcto filtrado de los datos. Sin embargo, este no posibilitó examinar diferencias significativas en las ondas neuronales alfa y beta. Estos resultados, afianzan la aplicación de Interfaces Cerebro-Computadora (BCI) basadas en electroencefalografía (EEG) y la ténica de motor-imagering (MI) como herramienta para mejorar la independencia y la autonomíaa personas con Síndrome de Enclaustramiento, al permitir que los individuos controlen su entorno y realicen acciones básicas de movimiento a trav ́es de pensamientos, se brinda una nueva vía para aumentar su calidad de vida y participación en actividadescotidianas.
 
-## Bibliografia
- 
-1- American Electroencephalographic Society Guidelines for Standard Electrode Position Nomenclature". Journal of Clinical Neurophysiology. 8 (2): 200–202. April 1991. 
-  doi:10.1097/00004691-199104000-00007
-  
-2- Farnsworth, B. "EEG (Electroencephalography): The Complete Pocket Guide
- 
-3- FFT. (n.d.). Nti-audio.com. Retrieved April 12, 2023, from https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft 
+<p align="center">
+  <img width="700" height="350"src="https://github.com/EstefanyMacedo/Grupo_Neurona/assets/128627158/2e654dab-e1b2-4257-9a56-b1fd17280380">
+</p>
+<em><p align="center">Figura 3. Transformada de Fourier</p></em>
 
-4- BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
-  
-5- Open Source Tools for Neuroscience [Internet]. Openbci.com. 2023 [cited 2023 Apr 20]. Available from: https://openbci.com/?_gl=1*t5mspr*_ga*NDcwMDMwMzQzLjE2ODE4NjA4NzQ.*_ga_HVMLC0ZWWS*MTY4MTg2MDg3NC4xLjEuMTY4MTg2MDkxMC4yNC4wLjA.
-  
-6- R. J. Barry and F. M. De Blasio, “EEG differences between eyes-closed and eyes-open resting remain in healthy ageing,” vol. 129, pp. 293–304, 2017, doi: 10.1016/j.biopsycho.2017.09.010. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S0301051117302454
-  
-7- Yasin, S., Hussain, S. A., Aslan, S., Raza, I., Muzammel, M., & Othmani, A. (2021). EEG based Major Depressive disorder and Bipolar disorder detection using Neural Networks:A review. Computer Methods and Programs in Biomedicine, 202, 106007. doi:10.1016/j.cmpb.2021.106007  
-
+<p align="center">
+  <img width="600" height="350"src="https://github.com/EstefanyMacedo/Grupo_Neurona/assets/128627158/16d5fe74-e3ca-4084-8473-8fcb0640a753">
+</p>
+<em><p align="center">Figura 4. Transformada de Wavelet </p></em>
